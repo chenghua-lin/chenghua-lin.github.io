@@ -1,3 +1,9 @@
+***
+
+[Publications](./publication.md) / [CV](./assets/cv-arase.pdf) / [ACL Anthology](https://www.aclweb.org/anthology/people/y/yuki-arase/) / [Google Scholar](https://scholar.google.com/citations?user=uoL1Wr0AAAAJ&hl=en) / [Semantic Scholar](https://www.semanticscholar.org/author/Yuki-Arase/3043844)
+
+***
+
 # Chenghua Lin
 
 Professor of Natural Language Processing
@@ -11,7 +17,7 @@ Email: chenghua.lin the_usual_sign manchester.ac.uk
 
 Twitter: [@chenghua_lin](https://twitter.com/chenghua_lin)
 
-I am a professor at the School of Computing, Tokyo Institute of Technology, Japan. After obtaining my PhD in Information Science from Osaka University (2010), I worked for Microsoft Research Asia, where I started NLP research that continues to captivate me to this day. My research interests focus on paraphrasing and NLP technology for language education and healthcare.
+I am Professor of Natural Language Processing in the Department of Computer Science, the University of Manchester. My research is centred around natural language processing and generation, machine learning, and the intersection between them. Specific interests include developing probabilistic generative and deep learning models for data-to-text generation, dialogue systems, text summarisation, metaphor processing, as well as representation learning for music and speech. For more info, please visit my group page.
 
 I'm recruiting PhD students and postdocs. Please send me your CV with a publication list if you are interested. 
 Note that we do not have "research student" positions.
