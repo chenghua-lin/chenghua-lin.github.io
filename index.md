@@ -1,14 +1,15 @@
-# Yuki Arase
+# Chenghua Lin
 
-Professor ([Japanese page](./index_jp.md))
+Professor of Natural Language Processing
 
-[School of Computing](https://educ.titech.ac.jp/cs/eng/), [Tokyo Institute of Technology](https://www.titech.ac.jp/english), Japan
+[Department of Computer Science](https://www.cs.manchester.ac.uk/)
+[The University of Manchester](https://www.manchester.ac.uk/), UK
 
-[Arase Lab](https://arase-cl-lab.c.titech.ac.jp/)
+[Lincedo Lab](https://lincedo-lab.github.io/)
 
-Email: arase@ (add the domain: c.titech.ac.jp)
+Email: chenghua.lin the_usual_sign manchester.ac.uk
 
-Twitter: [@Yuki_arase](https://twitter.com/Yuki_arase)
+Twitter: [@chenghua_lin](https://twitter.com/chenghua_lin)
 
 I am a professor at the School of Computing, Tokyo Institute of Technology, Japan. After obtaining my PhD in Information Science from Osaka University (2010), I worked for Microsoft Research Asia, where I started NLP research that continues to captivate me to this day. My research interests focus on paraphrasing and NLP technology for language education and healthcare.
 
