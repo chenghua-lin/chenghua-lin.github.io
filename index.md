@@ -16,6 +16,7 @@ Professor of Natural Language Processing
 Email: chenghua.lin the_usual_sign manchester.ac.uk
 
 Twitter: [@chenghua_lin](https://twitter.com/chenghua_lin)
+***
 
 I am Professor of Natural Language Processing in the Department of Computer Science, the University of Manchester. My research is centred around natural language processing and generation, machine learning, and the intersection between them. Specific interests include developing probabilistic generative and deep learning models for data-to-text generation, dialogue systems, text summarisation, metaphor processing, as well as representation learning for music and speech. For more info, please visit my group page.
 
