@@ -3,6 +3,12 @@
 
 ## Conference Proceedings
 
+## Conference Proceedings
+1. <span class="publication-title"><b>Edit-Constrained Decoding for Sentence Simplification</b></span>  
+   Zetsu, T., Arase, Y., and Kajiwara, T.  
+   *Proceedings of EMNLP Findings 2024* (Nov. 2024, to appear)
+
+
 1. <b style="color: blue;">Edit-Constrained Decoding for Sentence Simplification</b>  
    Zetsu, T., Arase, Y., and Kajiwara, T.  
    *Proceedings of EMNLP Findings 2024* (Nov. 2024, to appear)
