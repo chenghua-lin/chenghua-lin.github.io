@@ -373,7 +373,7 @@ Li R., <b>Lin C.</b>, Collinson M., Li X., and Chen G.
 
 <span class="blue-italic">End-to-End Sequential Metaphor Identification Inspired by Linguistic Theories</span>  
 Mao R., <b>Lin C.</b>, and Guerin F.  
-<span class="blue-bold">The 57th Annual Meeting of the Association for Computational Linguistics (ACL), Florence, 2019</span>
+<span class="blue-bold">ACL 2019</span>
 
 <span class="blue-italic">Proceedings of the 12th International Conference on Natural Language Generation (INLG)</span>  
 van Deemter K., <b>Lin C.</b>, and Takamura H (Editors).  
@@ -381,15 +381,15 @@ van Deemter K., <b>Lin C.</b>, and Takamura H (Editors).
 
 <span class="blue-italic">A Stable Variational Autoencoder for Text Modelling</span>  
 Li R., Li X., <b>Lin C.</b>, Collinson M., and Mao R.  
-<span class="blue-bold">The 12th International Conference on Natural Language Generation (INLG), Tokyo, 2019</span>
+<span class="blue-bold">INLG 2019</span>
 
 <span class="blue-italic">QTUNA: A Corpus for Understanding How Speakers Use Quantification</span>  
 Chen G., van Deemter K., Pagliaro S., Smalbil L., and <b>Lin C.</b>  
-<span class="blue-bold">The 12th International Conference on Natural Language Generation (INLG), Tokyo, 2019</span>
+<span class="blue-bold">INLG 2019</span>
 
 <span class="blue-italic">Generating Quantified Descriptions of Abstract Visual Scenes</span>  
 Chen G., van Deemter K., and <b>Lin C.</b>  
-<span class="blue-bold">The 12th International Conference on Natural Language Generation (INLG), Tokyo, 2019</span>
+<span class="blue-bold">INLG 2019</span>
 
 <span class="blue-italic">Data-driven Two-layer Visual Dictionary Structure Learning</span>  
 Yu X., Yu Z., Wu L., Pang W., and <b>Lin C.</b>  
