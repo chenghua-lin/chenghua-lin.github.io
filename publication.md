@@ -367,13 +367,13 @@ Peng X., <b>Lin C.</b>, Stevenson M., and Li C.
 
 ### 2019
 
-<span class="blue-italic">A Dual-Attention Hierarchical Recurrent Neural Network for Dialogue Act Classification</span>  
-Li R., <b>Lin C.</b>, Collinson M., Li X., and Chen G.  
-<span class="blue-bold">The SIGNLL Conference on Computational Natural Language Learning (CoNLL), Hong Kong, 2019</span>
-
 <span class="blue-italic">End-to-End Sequential Metaphor Identification Inspired by Linguistic Theories</span>  
 Mao R., <b>Lin C.</b>, and Guerin F.  
 <span class="blue-bold">ACL 2019</span>
+
+<span class="blue-italic">A Dual-Attention Hierarchical Recurrent Neural Network for Dialogue Act Classification</span>  
+Li R., <b>Lin C.</b>, Collinson M., Li X., and Chen G.  
+<span class="blue-bold">CoNLL 2019</span>
 
 <span class="blue-italic">Proceedings of the 12th International Conference on Natural Language Generation (INLG)</span>  
 van Deemter K., <b>Lin C.</b>, and Takamura H (Editors).  
