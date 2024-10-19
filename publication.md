@@ -515,7 +515,7 @@ Luo C., Pang W., Wang Z., and <b>Lin C.</b>
 
 <span class="blue-italic">Sherlock: a Semi-Automatic Quiz Generation System using Linked Data</span>  
 Liu D., and <b>Lin C.</b>  
-<span class="blue-bold">The 13th International Semantic Web Conference (ISWC), Trentino, Italy, 2014</span>
+<span class="blue-bold">ISWC 2014</span>
 
 <span class="blue-italic">HetPathMine: A Novel Transductive Classification Algorithm on Heterogeneous Information Networks</span>  
 Luo C., Guan R., Wang Z., and <b>Lin C.</b>  
@@ -533,7 +533,7 @@ He Y., <b>Lin C.</b>, Gao W., and Wong K.
 
 <span class="blue-italic">Feature LDA: a Supervised Topic Model for Automatic Detection of Web API Documentations from the Web</span>  
 <b>Lin C.</b>, He Y., Pedrinaci C., and Domingue J.  
-<span class="blue-bold">The 11th International Semantic Web Conference (ISWC), Boston, USA, 2012</span>
+<span class="blue-bold">ISWC 2012</span>
 
 <span class="blue-italic">Online Sentiment and Topic Dynamics Tracking over the Streaming Data</span>  
 He Y., <b>Lin C.</b>, and Cano Basave E.  
@@ -541,7 +541,7 @@ He Y., <b>Lin C.</b>, and Cano Basave E.
 
 <span class="blue-italic">Tracking Sentiment and Topic Dynamics from Social Media</span>  
 He Y., <b>Lin C.</b>, Gao W., and Wong K.  
-<span class="blue-bold">Poster at The 6th International AAAI Conference on Weblogs and Social Media (ICWSM), Dublin, Ireland, 2012</span>
+<span class="blue-bold">ICWSM 2012</span>
 
 <span class="blue-italic">Harnessing the Crowds for Automating the Identification of Web APIs</span>  
 Pedrinaci C., Liu D., <b>Lin C.</b>, and Domingue J.  
@@ -557,11 +557,11 @@ Pedrinaci C., Liu D., <b>Lin C.</b>, and Domingue J.
 
 <span class="blue-italic">Sentence Subjectivity Detection with Weakly-Supervised Learning</span>  
 <b>Lin C.</b>, He Y., and Everson R.  
-<span class="blue-bold">The 5th International Joint Conference on Natural Language Processing (IJCNLP), Chiang Mai, Thailand, 2011</span>
+<span class="blue-bold">IJCNLP 2011</span>
 
 <span class="blue-italic">Automatically Extracting Polarity-Bearing Topics for Cross-Domain Sentiment Classification</span>  
 He Y., <b>Lin C.</b>, and Alani H.  
-<span class="blue-bold">The 49th Annual Meeting of the Association for Computational Linguistics (ACL), Portland, Oregon, 2011</span>
+<span class="blue-bold">ACL 2011</span>
 
 <span class="blue-italic">A Comparative Study of Bayesian Models for Unsupervised Sentiment Detection</span>  
 <b>Lin C.</b>, He Y., and Everson R.  
