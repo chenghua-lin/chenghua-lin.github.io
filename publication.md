@@ -2,6 +2,11 @@
 # Publications
 
 ## Conference Proceedings
+
+1. <b style="color: blue;">Edit-Constrained Decoding for Sentence Simplification</b>  
+   Zetsu, T., Arase, Y., and Kajiwara, T.  
+   *Proceedings of EMNLP Findings 2024* (Nov. 2024, to appear)
+
 1. <span style="color:blue;">**Train & Constrain: Phonologically Informed Tongue-Twister Generation from Topics and Paraphrases**</span>  
    Loakman T., Tang C. and **Lin C.**  
    *In Proceedings of EMNLP 2024* 
