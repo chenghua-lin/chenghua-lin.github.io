@@ -3,75 +3,60 @@
 
 ## Conference Proceedings
 
+### 2024
 
-1. <b style="color: #007acc;">Edit-Constrained Decoding for Sentence Simplification</b>  
-   Zetsu, T., Arase, Y., and Kajiwara, T.  
-   *Proceedings of EMNLP Findings 2024* (Nov. 2024, to appear)
+<span class="blue-italic">Train & Constrain: Phonologically Informed Tongue-Twister Generation from Topics and Paraphrases</span>  
+Loakman T., Tang C. and <b>Lin C.</b>  
+<span class="blue-bold">Computational Linguistics, 2024.</span>
 
-1. <span class="publication-title">Edit-Constrained Decoding for Sentence Simplification</span>  
-   Zetsu, T., Arase, Y., and Kajiwara, T. green  
-   *Proceedings of EMNLP Findings 2024* (Nov. 2024, to appear)
+<span class="blue-italic">With Ears to See and Eyes to Hear: Sound Symbolism Experiments with Multimodal Large Language Models</span>  
+Loakman T., Li Y. and <b>Lin C.</b>  
+<span class="blue-bold">Conference on Empirical Methods in Natural Language Processing (EMNLP), 2024.</span>
 
-1. <span style="color:blue;">**Train & Constrain: Phonologically Informed Tongue-Twister Generation from Topics and Paraphrases**</span>  
-   Loakman T., Tang C. and **Lin C.**  
-   *In Proceedings of EMNLP 2024* 
+<span class="blue-italic">MMTE: Corpus and Metrics for Evaluating Machine Translation Quality of Metaphorical Language</span>  
+Wang S., Zhang G., Wu H., Loakman, T., Huang W. and <b>Lin C.</b>  
+<span class="blue-bold">Conference on Empirical Methods in Natural Language Processing (EMNLP), 2024.</span>
 
+<span class="blue-italic">Leveraging Estimated Transferability Over Human Intuition for Model Selection in Text Ranking</span>  
+Bai J., Chen Z., Li Z., Hong H., Zhang J., Li C., <b>Lin C.</b> and Rong W.  
+<span class="blue-bold">Conference on Empirical Methods in Natural Language Processing (EMNLP), 2024.</span>
 
+<span class="blue-italic">On the Rigour of Scientific Writing: Criteria, Analysis, and Insights</span>  
+James J., Xiao C., Li Y. and <b>Lin C.</b>  
+<span class="blue-bold">Conference on Empirical Methods in Natural Language Processing (EMNLP Findings), 2024.</span>
 
-1. <span class="blue-italic">Edit-Constrained Decoding for Sentence Simplification</span>  
-   Loakman T., Tang C. and <strong>Lin C.</strong>    
-    <span class="blue-bold">EMNLP 2024</span>  
+<span class="blue-italic">An Open-Source Data Contamination Report for Large Language Models</span>  
+Li Y., Guo Y., Guerin F. and <b>Lin C.</b>  
+<span class="blue-bold">Conference on Empirical Methods in Natural Language Processing (EMNLP Findings), 2024.</span>
 
-1. <span class="blue-italic">Edit-Constrained Decoding for Sentence Simplification</span>  
-   Loakman T., Tang C. and <b>Lin C.</b>    
-    <span class="blue-bold">EMNLP 2024</span> 
+<span class="blue-italic">Increasing the Difficulty of Automatically Generated Questions via Reinforcement Learning with Synthetic Preference</span>  
+Thorne W., Robinson A., Peng B., <b>Lin C.</b> and Maynard D.  
+<span class="blue-bold">The 4th International Conference on Natural Language Processing for Digital Humanities (NLP4DH@EMNLP), 2024.</span>
 
-1. <span class="blue-italic">Edit-Constrained Decoding for Sentence Simplification</span>  
-   Loakman T., Tang C. and <b>Lin C.</b>  
-    <span class="blue-bold-italic">EMNLP 2024</span>  
+<span class="blue-italic">LatestEval: Addressing Data Contamination in Language Model Evaluation through Dynamic and Time-Sensitive Test Construction</span>  
+Li Y., Guerin F. and <b>Lin C.</b>  
+<span class="blue-bold">Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), 2024.</span>
 
-1. <span class="blue-italic">Edit-Constrained Decoding for Sentence Simplification</span>  
-   Loakman T., Tang C. and <strong>Lin C.</strong>  
-    <span class="blue-bold-italic">EMNLP 2024</span> 
+<span class="blue-italic">MERT: Acoustic Music Understanding Model with Large-Scale Self-supervised Training</span>  
+Li Y., Yuan R., Zhang G., Ma Y., Chen X., Yin H., <b>Lin C.</b>*,  Ragni A., Benetos E., Gyenge N., Dannenberg R., Liu R., Chen W., Xia G., Shi Y., Huang, W., Guo Y., Fu J.  
+<span class="blue-bold">Twelfth International Conference on Learning Representations (ICLR), 2024.</span>
 
+<span class="blue-italic">ATLAS: Improving Lay Summarisation with Attribute-based Control</span>  
+Zhang Z., Goldsack T., Scarton C. and <b>Lin C.</b>  
+<span class="blue-bold">The 62nd Annual Meeting of the Association for Computational Linguistics (ACL), 2024.</span>
 
-1. Loakman T., Tang C. and **Lin C.**, *Train & Constrain: Phonologically Informed Tongue-Twister Generation from Topics and Paraphrases*, 
-   in Proceedings of **EMNLP 2024**     
+<span class="blue-italic">LLMs as Narcissistic Evaluators: When Ego Inflates Evaluation Scores</span>  
+Liu Y., Moosavi N. and <b>Lin C.</b>  
+<span class="blue-bold">The 62nd Annual Meeting of the Association for Computational Linguistics (ACL Findings), 2024.</span>
 
-1. Loakman T., Tang C. and **Lin C.**, *Train & Constrain: Phonologically Informed Tongue-Twister Generation from Topics and Paraphrases*, 
-   **EMNLP 2024**. 
+<span class="blue-italic">SciMMIR: Benchmarking Scientific Multi-modal Information Retrieval</span>  
+Wu S., Li Y., Zhu K., Zhang G., Liang Y., Ma K., Xiao C., Yang B., Chen W., Huang W., Moubayed N., Fu J. and <b>Lin C.</b>*  
+<span class="blue-bold">The 62nd Annual Meeting of the Association for Computational Linguistics (ACL Findings), 2024.</span>
 
-3. <span style="color:blue;">**Controllable Paraphrase Generation for Semantic and Lexical Similarities**</span>  
-   Ogasa, Y., Kajiwara, T., and Arase, Y.  
-   *Proceedings of LREC-COLING 2024*, pp. 3927–3942 (May 2024)
+<span class="blue-italic">SLIDE: A Framework Integrating Small and Large Language Models for Open-Domain Dialogues Evaluation</span>  
+Zhao K., Yang B., Tang C., <b>Lin C.</b>* and Zhan L.  
+<span class="blue-bold">The 62nd Annual Meeting of the Association for Computational Linguistics (ACL Findings), 2024.</span>
 
-4. <span style="color:blue;">**Self-Ensemble of N-best Generation Hypotheses by Lexically Constrained Decoding**</span>  
-   Miyano, R., Kajiwara, T., and Arase, Y.  
-   *Proceedings of EMNLP 2023*, pp. 14653-14661 (Dec. 2023)
-
-5. <span style="color:blue;">**Monolingual Phrase Alignment as Parse Forest Mapping**</span>  
-   Kadotani, S., and Arase, Y.  
-   *Proceedings of *SEM 2023* (July 2023, to appear)
-
-6. <span style="color:blue;">**Unbalanced Optimal Transport for Unbalanced Word Alignment**</span>  
-   Arase, Y., Bao, H., and Yokoi, S.  
-   *Proceedings of ACL 2023* (Aug. 2023)
-
-## Journal Articles
-1. <span style="color:blue;">**Neural Network-based Sentence Simplification and Paraphrasing**</span>  
-   Zetsu, T., and Arase, Y.  
-   *Journal of Artificial Intelligence Research (JAIR)*, Vol. 70, pp. 1205-1235, 2023
-
-2. <span style="color:blue;">**A Study on Semantic and Lexical Controllability in Paraphrasing Systems**</span>  
-   Ogasa, Y., Kajiwara, T., and Arase, Y.  
-   *Transactions of the Association for Computational Linguistics (TACL)*, Vol. 11, pp. 153-170, 2023
-
-## Book Chapters
-1. <span style="color:blue;">**Methods for Sentence Simplification and Paraphrasing**</span>  
-   Kajiwara, T., and Arase, Y.  
-   In *Advances in Natural Language Processing*, ed. by M. Johnson, Springer, pp. 85-105, 2024
-
-## Technical Reports
-1. <span style="color:blue;">**Investigating Cross-lingual Transfer in Neural Machine Translation**</span>  
-   Yokoi, S., and Arase, Y.  
-   *Technical Report*, University of Osaka, 2023
+<span class="blue-italic">CIF-Bench: A Chinese Instruction-Following Benchmark for Evaluating the Generalizability of Large Language Models</span>  
+Li Y., Zhang G., Qu X., Li J., Li Z., Wang Z., Li H., Yuan R., Ma Y., Zhou W., Liang Y., Zhang L., Ma L., Zhang J., Li Z., Huang W., <b>Lin C.</b>*, Fu J.  
+<span class="blue-bold">The 62nd Annual Meeting of the Association for Computational Linguistics (ACL Findings), 2024.</span>
