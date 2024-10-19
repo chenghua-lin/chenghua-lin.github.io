@@ -7,7 +7,7 @@
 
 <span class="blue-italic">Train & Constrain: Phonologically Informed Tongue-Twister Generation from Topics and Paraphrases</span>  
 Loakman T., Tang C. and <b>Lin C.</b>  
-<span class="blue-bold">Computational Linguistics, 2024.</span>
+<span class="blue-bold">Computational Linguistics, 2024</span>
 
 <span class="blue-italic">With Ears to See and Eyes to Hear: Sound Symbolism Experiments with Multimodal Large Language Models</span>  
 Loakman T., Li Y. and <b>Lin C.</b>  
