@@ -573,7 +573,7 @@ He Y., <b>Lin C.</b>, and Alani H.
 
 <span class="blue-italic">Protein-Protein Interactions Classification from Text via Local Learning with Class Priors</span>  
 He Y., and <b>Lin C.</b>  
-<span class="blue-bold">14th International Conference on Applications of Natural Language to Information Systems (NLDB), Saabrucken, Germany, 2009</span>
+<span class="blue-bold">NLDB 2009</span>
 
 <span class="blue-italic">A Multi-agent System for Intelligent Pervasive Spaces</span>  
 Liu K., <b>Lin C.</b>, and Qiao B.  
