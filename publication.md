@@ -18,7 +18,7 @@
 
 1. <b style="color: #007acc;">Edit-Constrained Decoding for Sentence Simplification</b>   
    Loakman T., Tang C. and **Lin C.**  
-   **EMNLP 2024** 
+   <span class="publication-title">EMNLP 2024</span>  
 
 1. Loakman T., Tang C. and **Lin C.**, *Train & Constrain: Phonologically Informed Tongue-Twister Generation from Topics and Paraphrases*, 
    in Proceedings of **EMNLP 2024**     
