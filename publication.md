@@ -3,11 +3,11 @@
 
 ## Conference Proceedings
 1. <span style="color:blue;">**Train & Constrain: Phonologically Informed Tongue-Twister Generation from Topics and Paraphrases**</span>  
-   Loakman T., Tang C. and **Lin C.**
+   Loakman T., Tang C. and **Lin C.** 
    *In Proceedings of EMNLP 2024* 
 
 1. <span style="color:blue;">**Train & Constrain: Phonologically Informed Tongue-Twister Generation from Topics and Paraphrases**</span>  
-   Loakman T., Tang C. and **Lin C.**
+   Loakman T., Tang C. and **Lin C.** 
    *EMNLP 2024* 
 
 1. Loakman T., Tang C. and **Lin C.**, *Train & Constrain: Phonologically Informed Tongue-Twister Generation from Topics and Paraphrases*, 
