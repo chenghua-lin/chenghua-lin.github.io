@@ -17,7 +17,7 @@
    *In Proceedings of EMNLP 2024* 
 
 1. <span class="blue-italic">Edit-Constrained Decoding for Sentence Simplification</span>  
-   Loakman T., Tang C. and **Lin C.**  
+   Loakman T., Tang C. and <strong>Lin C.</strong>    
     <span class="blue-bold">EMNLP 2024</span>  
 
 1. <span class="blue-italic">Edit-Constrained Decoding for Sentence Simplification</span>  
