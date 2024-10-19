@@ -23,7 +23,7 @@ Bai J., Chen Z., Li Z., Hong H., Zhang J., Li C., <b>Lin C.</b> and Rong W.
 
 <span class="blue-italic">On the Rigour of Scientific Writing: Criteria, Analysis, and Insights</span>  
 James J., Xiao C., Li Y. and <b>Lin C.</b>  
-<span class="blue-bold">EMNLP Findings, 2024.</span>
+<span class="blue-bold">EMNLP-Findings 2024</span>
 
 <span class="blue-italic">An Open-Source Data Contamination Report for Large Language Models</span>  
 Li Y., Guo Y., Guerin F. and <b>Lin C.</b>  
