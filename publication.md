@@ -31,7 +31,7 @@ Li Y., Guo Y., Guerin F. and <b>Lin C.</b>
 
 <span class="blue-italic">Increasing the Difficulty of Automatically Generated Questions via Reinforcement Learning with Synthetic Preference</span>  
 Thorne W., Robinson A., Peng B., <b>Lin C.</b> and Maynard D.  
-<span class="blue-bold">The 4th International Conference on Natural Language Processing for Digital Humanities (NLP4DH@EMNLP), 2024.</span>
+<span class="blue-bold">NLP4DH@EMNLP 2024</span>
 
 <span class="blue-italic">LatestEval: Addressing Data Contamination in Language Model Evaluation through Dynamic and Time-Sensitive Test Construction</span>  
 Li Y., Guerin F. and <b>Lin C.</b>  
