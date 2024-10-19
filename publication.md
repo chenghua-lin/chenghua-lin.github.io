@@ -16,7 +16,7 @@
    Loakman T., Tang C. and **Lin C.**  
    *In Proceedings of EMNLP 2024* 
 
-   <span class="publication-title">Edit-Constrained Decoding for Sentence Simplification</span>  
+1. <span class="publication-title">Edit-Constrained Decoding for Sentence Simplification</span>  
    Loakman T., Tang C. and **Lin C.**  
    <span class="publication-title">**EMNLP 2024**</span>  
 
