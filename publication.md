@@ -1,7 +1,7 @@
 
 # Publications
 
-## Conference Proceedings
+## Google Scholar
 
 ### 2024
 
@@ -11,23 +11,23 @@ Loakman T., Tang C. and <b>Lin C.</b>
 
 <span class="blue-italic">With Ears to See and Eyes to Hear: Sound Symbolism Experiments with Multimodal Large Language Models</span>  
 Loakman T., Li Y. and <b>Lin C.</b>  
-<span class="blue-bold">Conference on Empirical Methods in Natural Language Processing (EMNLP), 2024.</span>
+<span class="blue-bold">EMNLP, 2024</span>
 
 <span class="blue-italic">MMTE: Corpus and Metrics for Evaluating Machine Translation Quality of Metaphorical Language</span>  
 Wang S., Zhang G., Wu H., Loakman, T., Huang W. and <b>Lin C.</b>  
-<span class="blue-bold">Conference on Empirical Methods in Natural Language Processing (EMNLP), 2024.</span>
+<span class="blue-bold">EMNLP 2024</span>
 
 <span class="blue-italic">Leveraging Estimated Transferability Over Human Intuition for Model Selection in Text Ranking</span>  
 Bai J., Chen Z., Li Z., Hong H., Zhang J., Li C., <b>Lin C.</b> and Rong W.  
-<span class="blue-bold">Conference on Empirical Methods in Natural Language Processing (EMNLP), 2024.</span>
+<span class="blue-bold">EMNLP 2024</span>
 
 <span class="blue-italic">On the Rigour of Scientific Writing: Criteria, Analysis, and Insights</span>  
 James J., Xiao C., Li Y. and <b>Lin C.</b>  
-<span class="blue-bold">Conference on Empirical Methods in Natural Language Processing (EMNLP Findings), 2024.</span>
+<span class="blue-bold">EMNLP Findings, 2024.</span>
 
 <span class="blue-italic">An Open-Source Data Contamination Report for Large Language Models</span>  
 Li Y., Guo Y., Guerin F. and <b>Lin C.</b>  
-<span class="blue-bold">Conference on Empirical Methods in Natural Language Processing (EMNLP Findings), 2024.</span>
+<span class="blue-bold">EMNLP Findings, 2024</span>
 
 <span class="blue-italic">Increasing the Difficulty of Automatically Generated Questions via Reinforcement Learning with Synthetic Preference</span>  
 Thorne W., Robinson A., Peng B., <b>Lin C.</b> and Maynard D.  
@@ -35,7 +35,7 @@ Thorne W., Robinson A., Peng B., <b>Lin C.</b> and Maynard D.
 
 <span class="blue-italic">LatestEval: Addressing Data Contamination in Language Model Evaluation through Dynamic and Time-Sensitive Test Construction</span>  
 Li Y., Guerin F. and <b>Lin C.</b>  
-<span class="blue-bold">Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), 2024.</span>
+<span class="blue-bold">AAAI 2024</span>
 
 <span class="blue-italic">MERT: Acoustic Music Understanding Model with Large-Scale Self-supervised Training</span>  
 Li Y., Yuan R., Zhang G., Ma Y., Chen X., Yin H., <b>Lin C.</b>*,  Ragni A., Benetos E., Gyenge N., Dannenberg R., Liu R., Chen W., Xia G., Shi Y., Huang, W., Guo Y., Fu J.  
