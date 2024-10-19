@@ -1,8 +1,19 @@
-.publication-title {
+.blue {
     color: #007acc;
 }
 
-.venue {
+.blue-bold {
     color: #007acc;
     font-weight: bold;
+}
+
+.blue-italic {
+    color: #007acc;
+    font-style: italic;
+}
+
+.blue-bold-italic {
+    color: #007acc;
+    font-weight: bold;
+    font-style: italic;
 }
