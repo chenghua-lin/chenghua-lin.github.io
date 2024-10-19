@@ -133,31 +133,31 @@ Loakman T., Maladry A., <b>Lin C.</b>
 
 <span class="blue-italic">How to Determine the Most Powerful Pre-trained Language Model without Brute Force Fine-tuning? An Empirical Survey</span>  
 Bai J., Zhang X., Li C., Hong H., Xu X., <b>Lin C.</b>, Rong W.  
-<span class="blue-bold">Conference on Empirical Methods in Natural Language Processing (EMNLP Findings), 2023</span>
+<span class="blue-bold">EMNLP-Findings 2023</span>
 
 <span class="blue-italic">LATENTLOGIC: Learning Logic Rules in Latent Space over Knowledge Graphs</span>  
 Liu J., Mao Q., <b>Lin C.</b>, Song Y., Li J.  
-<span class="blue-bold">Conference on Empirical Methods in Natural Language Processing (EMNLP Findings), 2023</span>
+<span class="blue-bold">EMNLP Findings 2023</span>
 
 <span class="blue-italic">MARBLE: Music Audio Representation Benchmark for Universal Evaluation</span>  
 Yuan R., Ma Y., Li Y., Zhang G., Chen X., Yin H., Zhuo L., Liu Y., Huang J., Tian J., Deng B., Wang N., <b>Lin C.</b>*, Benetos E., Ragni A., Gyenge N., Dannenberg R., Chen W., Xia G., Xue W., Liu S., Wang S., Liu R., Guo Y., Fu J.  
-<span class="blue-bold">The 37th Conference on Neural Information Processing Systems (NeurIPS), 2023</span>
+<span class="blue-bold">NeurIPS 2023</span>
 
 <span class="blue-italic">TwistList: Resources and Baselines for Tongue Twister Generation</span>  
 Loakman T., Tang C., <b>Lin C.</b>  
-<span class="blue-bold">The 61st Annual Meeting of the Association for Computational Linguistics (ACL), 2023</span>
+<span class="blue-bold">ACL 2023</span>
 
 <span class="blue-italic">Evaluating Open-Domain Dialogues in Latent Space with Next Sentence Prediction and Mutual Information</span>  
 Zhao K., Yang B., <b>Lin C.</b>, Rong W., Villavicencio A., Cui X.  
-<span class="blue-bold">The 61st Annual Meeting of the Association for Computational Linguistics (ACL), 2023</span>
+<span class="blue-bold">ACL 2023</span>
 
 <span class="blue-italic">Enhancing Dialogue Generation via Dynamic Graph Knowledge Aggregation</span>  
 Tang C., Zhang H., Loakman T., <b>Lin C.</b>  
-<span class="blue-bold">The 61st Annual Meeting of the Association for Computational Linguistics (ACL), 2023</span>
+<span class="blue-bold">ACL 2023</span>
 
 <span class="blue-italic">Metaphor Detection via Explicit Basic Meanings Modelling</span>  
 Li Y., Wang S., <b>Lin C.</b>, Guerin F.  
-<span class="blue-bold">The 61st Annual Meeting of the Association for Computational Linguistics (ACL), 2023</span>
+<span class="blue-bold">ACL 2023</span>
 
 <span class="blue-italic">BioLaySumm 2023 Shared Task: Lay Summarisation of Biomedical Research Articles</span>  
 Goldsack T., Luo Z., Xie Q., Scarton C., Shardlow M., Ananiadou S., <b>Lin C.</b>  
@@ -165,27 +165,27 @@ Goldsack T., Luo Z., Xie Q., Scarton C., Shardlow M., Ananiadou S., <b>Lin C.</b
 
 <span class="blue-italic">Metaphor Detection with Effective Context Denoising</span>  
 Wang S., Li Y., <b>Lin C.</b>, Barrault L., Guerin F.  
-<span class="blue-bold">The 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL), 2023</span>
+<span class="blue-bold">EACL 2023</span>
 
 <span class="blue-italic">FrameBERT: Conceptual Metaphor Detection with Frame Embedding Learning</span>  
 Li Y., Wang S., <b>Lin C.</b>, Barrault L., Guerin F.  
-<span class="blue-bold">The 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL), 2023</span>
+<span class="blue-bold">EACL 2023</span>
 
 <span class="blue-italic">Terminology-aware Medical Dialogue Generation</span>  
-Tang C., Zhang H., Loakman T., <b>Lin C.</b>, and Guerin F.  
-<span class="blue-bold">IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2023</span>
+Tang C., Zhang H., Loakman T., <b>Lin C.*</b>, and Guerin F.  
+<span class="blue-bold">ICASSP 2023</span>
 
 <span class="blue-italic">Domain-driven and Discourse-guided Scientific Summarisation</span>  
-Goldsack T., Zhang Z., <b>Lin C.</b>, and Scarton C.  
-<span class="blue-bold">The 45th European Conference on Information Retrieval (ECIR), 2023</span>
+Goldsack T., Zhang Z., <b>Lin C.*</b>, and Scarton C.  
+<span class="blue-bold">ECIR 2023</span>
 
 <span class="blue-italic">On the Effectiveness of Speech Self-Supervised Learning for Music</span>  
 Ma Y., Yuan R., Li Y., Zhang G., <b>Lin C.</b>, Chen X., Ragni A., Yin H., Benetos E., Gyenge N., Liu R., Xia G., Dannenberg R., Guo Y., and Fu J.  
-<span class="blue-bold">The 24th International Society for Music Information Retrieval Conference (ISMIR), 2023</span>
+<span class="blue-bold">ISMIR 2023</span>
 
 <span class="blue-italic">LyricWhiz: Robust Multilingual Lyrics Transcription by Whispering to ChatGPT</span>  
 Zhuo L., Pan J., Yuan R., Ma Y., Li Y., Zhang G., Liu S., Dannenberg R., <b>Lin C.</b>, Benetos E., Chen W., Xue W., and Guo Y.  
-<span class="blue-bold">The 24th International Society for Music Information Retrieval Conference (ISMIR), 2023</span>
+<span class="blue-bold">ISMIR 2023</span>
 
 <span class="blue-italic">Improving Unsupervised Keyphrase Extraction by Modeling Hierarchical Multi-granularity Features</span>  
 Zhang Z., Liang X., Zuo Y., and <b>Lin C.</b>  
@@ -197,7 +197,7 @@ Millwood O., Miskelly J., Yang B., Gope P., Kavun E., and <b>Lin C.</b>
 
 <span class="blue-italic">Requirement Formalisation using Natural Language Processing and Machine Learning: A Systematic Review</span>  
 Kolahdouz-Rahimi S., Lano K., and <b>Lin C.</b>  
-<span class="blue-bold">The 11th International Conference on Model-Based Software and Systems Engineering (MODELSWARD), 2023</span>
+<span class="blue-bold">International Conference on Model-Based Software and Systems Engineering (MODELSWARD), 2023</span>
 
 <span class="blue-italic">Interactive Natural Language Processing</span>  
 Wang Z., Zhang G., Yang K., Shi N., Zhou W., Hao S., Xiong G., Li Y., Sim M., Chen X., Zhu Q., Yang Z., Nik A., Liu Q., <b>Lin C.</b>, Wang S., Liu R., Chen W., Xu K., Liu D., Guo Y., and Fu J.  
@@ -211,19 +211,19 @@ Zhang G., Li Y., Wu Y., Zhang L., <b>Lin C.</b>, Geng J., Wang S., and Fu J.
 
 <span class="blue-italic">Improving Variational Autoencoders with Density Gap-based Regularization</span>  
 Zhang J., Bai J., <b>Lin C.</b>, Wang Y., and Rong W.  
-<span class="blue-bold">The 36th Conference on Neural Information Processing Systems (NeurIPS), 2022</span>
+<span class="blue-bold">NeurIPS 2022</span>
 
 <span class="blue-italic">Making Science Simple: Corpora for the Lay Summarisation of Scientific Literature</span>  
 Goldsack T., Zhang Z., <b>Lin C.</b>, and Scarton C.  
-<span class="blue-bold">Conference on Empirical Methods in Natural Language Processing (EMNLP), 2022</span>
+<span class="blue-bold">EMNLP 2022</span>
 
 <span class="blue-italic">TranSHER: Translating Knowledge Graph Embedding with Hyper-Ellipsoidal Restriction</span>  
 Li Y., Fan W., Liu C., <b>Lin C.</b>, and Qian J.  
-<span class="blue-bold">Conference on Empirical Methods in Natural Language Processing (EMNLP), 2022</span>
+<span class="blue-bold">EMNLP 2022</span>
 
 <span class="blue-italic">EtriCA: Event-Triggered Context-Aware Story Generation Augmented by Cross Attention</span>  
 Tang C., <b>Lin C.</b>, Huang H., Guerin F., and Zhang Z.  
-<span class="blue-bold">Conference on Empirical Methods in Natural Language Processing (EMNLP Findings), 2022</span>
+<span class="blue-bold">EMNLP-Findings 2022</span>
 
 <span class="blue-italic">The Secret of Metaphor on Expressing Stronger Emotion</span>  
 Li Y., Guerin F., and <b>Lin C.</b>  
@@ -231,19 +231,19 @@ Li Y., Guerin F., and <b>Lin C.</b>
 
 <span class="blue-italic">CM-Gen: A Neural Framework for Chinese Metaphor Generation with Explicit Context Modelling</span>  
 Li Y., <b>Lin C.</b>, and Guerin F.  
-<span class="blue-bold">The 29th International Conference on Computational Linguistics (COLING), 2022</span>
+<span class="blue-bold">COLING 2022</span>
 
 <span class="blue-italic">NGEP: A Graph-based Event Planning Framework for Story Generation</span>  
 Tang C., Zhang Z., Loakman T., <b>Lin C.</b>, and Guerin F.  
-<span class="blue-bold">The 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing (AACL), 2022</span>
+<span class="blue-bold">AACL 2022</span>
 
 <span class="blue-italic">Improving Chinese Story Generation via Awareness of Syntactic Dependencies and Semantics</span>  
 Huang L., Tang C., Loakman T., Guerin F., and <b>Lin C.</b>  
-<span class="blue-bold">The 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing (AACL), 2022</span>
+<span class="blue-bold">AACL 2022</span>
 
 <span class="blue-italic">Measuring Hierarchical Regional Bias in Pre-trained Language Models</span>  
 Li Y., Zhang G., Yang B., <b>Lin C.</b>, Ragni A., Wang S., and Fu J.  
-<span class="blue-bold">The 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing (AACL Findings), 2022</span>
+<span class="blue-bold">AACL-Findings 2022</span>
 
 <span class="blue-italic">Adaptive Pre-training and Collaborative Fine-tuning: a Win-Win Strategy to Improve Review Analysis Tasks</span>  
 Mao Q., Li J., <b>Lin C.</b>, Chen C., Peng H., Wang L., and Yu Philip S.  
@@ -251,15 +251,15 @@ Mao Q., Li J., <b>Lin C.</b>, Chen C., Peng H., Wang L., and Yu Philip S.
 
 <span class="blue-italic">Tell Me How to Survey: Literature Review Made Simple with Automatic Reading Path Generation</span>  
 Ding J., Xiang T., Ou Z., Zuo W., Zhao R., <b>Lin C.</b>, Zheng Y., and Liu B.  
-<span class="blue-bold">The 38th International Conference on Data Engineering (ICDE), online, 2022</span>
+<span class="blue-bold">ICDE 2022</span>
 
 <span class="blue-italic">Development of a Benchmark Corpus to Support Entity Recognition in Job Descriptions</span>  
 Green T., Maynard D., and <b>Lin C.</b>  
-<span class="blue-bold">The 14th Conference on Language Resources and Evaluation (LREC), Marseille, 2022</span>
+<span class="blue-bold">LREC 2022</span>
 
 <span class="blue-italic">Nominal Metaphor Generation with Multitask Learning</span>  
 Li Y., <b>Lin C.</b>, and Guerin F.  
-<span class="blue-bold">The 15th International Natural Language Generation Conference (INLG), 2022</span>
+<span class="blue-bold">INLG 2022</span>
 
 <span class="blue-italic">DrivingBeacon: Driving Behaviour Change Support System Considering Mobile Use and Geo-information</span>  
 Baig J., Chen G., <b>Lin C.</b>, and Reiter E.  
