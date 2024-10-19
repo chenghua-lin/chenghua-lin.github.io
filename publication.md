@@ -465,7 +465,7 @@ Wibowo A., Siddharthan A., <b>Lin C.</b>, and Masthoff J.
 
 <span class="blue-italic">Sentiment Analysis in Social Media</span>  
 Yusof N., <b>Lin C.</b>, and He Y.  
-<span class="blue-bold">Encyclopedia of Social Network Analysis and Mining (2nd Edition), edited by R.S. Alhajj and J.G. Rokne, Springer, 2017</span>
+<span class="blue-bold">Encyclopedia of Social Network Analysis and Mining (2nd Edition), Springer, 2017</span>
 
 ### 2016
 
@@ -511,7 +511,7 @@ Li X., van Deemter K., and <b>Lin C.</b>
 
 <span class="blue-italic">Hete-CF: Social-Based Collaborative Filtering Recommendation Using Heterogeneous Relations</span>  
 Luo C., Pang W., Wang Z., and <b>Lin C.</b>  
-<span class="blue-bold">ICDM, ShenZhen, China, 2014</span>
+<span class="blue-bold">ICDM 2014</span>
 
 <span class="blue-italic">Sherlock: a Semi-Automatic Quiz Generation System using Linked Data</span>  
 Liu D., and <b>Lin C.</b>  
