@@ -2,23 +2,33 @@
 # Publications
 
 ## Conference Proceedings
-1. <span style="color:blue;">**Edit-Constrained Decoding for Sentence Simplification**</span>  
-   Zetsu, T., Arase, Y., and Kajiwara, T.  
-   *Proceedings of EMNLP Findings 2024* (Nov. 2024, to appear)
+1. <span style="color:blue;">**Train & Constrain: Phonologically Informed Tongue-Twister Generation from Topics and Paraphrases**</span>  
+   Loakman T., Tang C. and **Lin C.**
+   *In Proceedings of EMNLP 2024* 
 
-2. <span style="color:blue;">**Controllable Paraphrase Generation for Semantic and Lexical Similarities**</span>  
+1. <span style="color:blue;">**Train & Constrain: Phonologically Informed Tongue-Twister Generation from Topics and Paraphrases**</span>  
+   Loakman T., Tang C. and **Lin C.**
+   *EMNLP 2024* 
+
+1. Loakman T., Tang C. and **Lin C.**, *Train & Constrain: Phonologically Informed Tongue-Twister Generation from Topics and Paraphrases*, 
+   in Proceedings of **EMNLP 2024**     
+
+1. Loakman T., Tang C. and **Lin C.**, *Train & Constrain: Phonologically Informed Tongue-Twister Generation from Topics and Paraphrases*, 
+   **EMNLP 2024**. 
+
+3. <span style="color:blue;">**Controllable Paraphrase Generation for Semantic and Lexical Similarities**</span>  
    Ogasa, Y., Kajiwara, T., and Arase, Y.  
    *Proceedings of LREC-COLING 2024*, pp. 3927–3942 (May 2024)
 
-3. <span style="color:blue;">**Self-Ensemble of N-best Generation Hypotheses by Lexically Constrained Decoding**</span>  
+4. <span style="color:blue;">**Self-Ensemble of N-best Generation Hypotheses by Lexically Constrained Decoding**</span>  
    Miyano, R., Kajiwara, T., and Arase, Y.  
    *Proceedings of EMNLP 2023*, pp. 14653-14661 (Dec. 2023)
 
-4. <span style="color:blue;">**Monolingual Phrase Alignment as Parse Forest Mapping**</span>  
+5. <span style="color:blue;">**Monolingual Phrase Alignment as Parse Forest Mapping**</span>  
    Kadotani, S., and Arase, Y.  
    *Proceedings of *SEM 2023* (July 2023, to appear)
 
-5. <span style="color:blue;">**Unbalanced Optimal Transport for Unbalanced Word Alignment**</span>  
+6. <span style="color:blue;">**Unbalanced Optimal Transport for Unbalanced Word Alignment**</span>  
    Arase, Y., Bao, H., and Yokoi, S.  
    *Proceedings of ACL 2023* (Aug. 2023)
 
