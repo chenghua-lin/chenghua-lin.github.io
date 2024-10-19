@@ -11,7 +11,7 @@ Loakman T., Tang C. and <b>Lin C.</b>
 
 <span class="blue-italic">With Ears to See and Eyes to Hear: Sound Symbolism Experiments with Multimodal Large Language Models</span>  
 Loakman T., Li Y. and <b>Lin C.</b>  
-<span class="blue-bold">EMNLP, 2024</span>
+<span class="blue-bold">EMNLP 2024</span>
 
 <span class="blue-italic">MMTE: Corpus and Metrics for Evaluating Machine Translation Quality of Metaphorical Language</span>  
 Wang S., Zhang G., Wu H., Loakman, T., Huang W. and <b>Lin C.</b>  
@@ -47,23 +47,23 @@ Zhang Z., Goldsack T., Scarton C. and <b>Lin C.</b>
 
 <span class="blue-italic">LLMs as Narcissistic Evaluators: When Ego Inflates Evaluation Scores</span>  
 Liu Y., Moosavi N. and <b>Lin C.</b>  
-<span class="blue-bold">ACL Findings 2024</span>
+<span class="blue-bold">ACL-Findings 2024</span>
 
 <span class="blue-italic">SciMMIR: Benchmarking Scientific Multi-modal Information Retrieval</span>  
 Wu S., Li Y., Zhu K., Zhang G., Liang Y., Ma K., Xiao C., Yang B., Chen W., Huang W., Moubayed N., Fu J. and <b>Lin C.</b>*  
-<span class="blue-bold">The 62nd Annual Meeting of the Association for Computational Linguistics (ACL Findings), 2024.</span>
+<span class="blue-bold">ACL-Findings 2024.</span>
 
 <span class="blue-italic">SLIDE: A Framework Integrating Small and Large Language Models for Open-Domain Dialogues Evaluation</span>  
 Zhao K., Yang B., Tang C., <b>Lin C.</b>* and Zhan L.  
-<span class="blue-bold">ACL Findings 2024</span>
+<span class="blue-bold">ACL-Findings 2024</span>
 
 <span class="blue-italic">CIF-Bench: A Chinese Instruction-Following Benchmark for Evaluating the Generalizability of Large Language Models</span>  
 Li Y., Zhang G., Qu X., Li J., Li Z., Wang Z., Li H., Yuan R., Ma Y., Zhou W., Liang Y., Zhang L., Ma L., Zhang J., Li Z., Huang W., <b>Lin C.</b>*, Fu J.  
-<span class="blue-bold">ACL Findings 2024</span>
+<span class="blue-bold">ACL-Findings 2024</span>
 
 <span class="blue-italic">ChatMusician: Understanding and Generating Music Intrinsically with LLM</span>  
 Yuan R., Lin H., Wang Y., Tian Z., Wu S., Shen T., Zhang G., Wu Y., Liu C., Zhou Z., Xue L., Ma Z., Liu Q., Li Y., Ma Y., Liang Y., Chi X., Liu R., Wang Z., <b>Lin C.</b>, Liu Q., Huang W., Chen W., Fu J., Benetos E., Dannenberg R., Xue W., Kang S., Guo Y.  
-<span class="blue-bold">ACL Findings 2024</span>
+<span class="blue-bold">ACL-Findings 2024</span>
 
 <span class="blue-italic">Overview of the BioLaySumm 2024 Shared Task on the Lay Summarization of Biomedical Research Articles</span>  
 Goldsack T., Scarton C., Shardlow M., <b>Lin C.</b>  
@@ -71,7 +71,7 @@ Goldsack T., Scarton C., Shardlow M., <b>Lin C.</b>
 
 <span class="blue-italic">Effective Distillation of Table-based Reasoning Ability from LLMs</span>  
 Yang B., Tang C., Zhao K., Xiao C., <b>Lin C.</b>  
-<span class="blue-bold">Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING), 2024</span>
+<span class="blue-bold">LREC-COLING 2024</span>
 
 <span class="blue-italic">CMDAG: A Chinese Metaphor Dataset with Annotated Grounds as CoT for Boosting Metaphor Generation</span>  
 Shao Y., Yao X., Xingwei Qu X., <b>Lin C.</b>, Wang S., Huang W., Zhang G., Jie F.  
@@ -79,11 +79,11 @@ Shao Y., Yao X., Xingwei Qu X., <b>Lin C.</b>, Wang S., Huang W., Zhang G., Jie 
 
 <span class="blue-italic">ReproHum #0087-01: Human Evaluation Reproduction Report for Generating Fact Checking Explanations</span>  
 Loakman T., <b>Lin C.</b>  
-<span class="blue-bold">The 4th Workshop on Human Evaluation of NLP Systems (HumEval@LREC-COLING), 2024</span>
+<span class="blue-bold">HumEval@LREC-COLING 2024</span>
 
 <span class="blue-italic">Improving Medical Dialogue Generation with Abstract Meaning Representations</span>  
 Yang B., Tang C., <b>Lin C.</b>  
-<span class="blue-bold">IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2024</span>
+<span class="blue-bold">ICASSP 2024</span>
 
 <span class="blue-italic">CADGE: Context-Aware Dialogue Generation Enhanced with Graph-Structured Knowledge Aggregation</span>  
 Tang C., Zhang H., Loakman T., Yang B., Goetze S., <b>Lin C.</b>  
@@ -95,7 +95,7 @@ Deng Q., Yang Q., Yuan R., Huang Y., Wang Y., Liu X., Tian Z., Pan J., Zhang G.,
 
 <span class="blue-italic">A Cross-Attention Augmented Model for Event-Triggered Context-Aware Story Generation</span>  
 Tang C., Loakman T., <b>Lin C.</b>  
-<span class="blue-bold">Computer Speech and Language (CSL), 2024</span>
+<span class="blue-bold">Computer Speech and Language (CSL)， 2024</span>
 
 <span class="blue-italic">EML: Emotion-Aware Meta Learning for Cross-Event False Information Detection</span>  
 Huang Y., Gao M., Shu K., <b>Lin C.</b>, Wang J., Zhou W.  
@@ -109,27 +109,27 @@ Zhang Z., Zuo Y., <b>Lin C.</b>, Wu J.
 
 <span class="blue-italic">Compressing Context to Enhance Inference Efficiency of Large Language Models</span>  
 Li Y., Dong B., Guerin F., <b>Lin C.</b>  
-<span class="blue-bold">Conference on Empirical Methods in Natural Language Processing (EMNLP), 2023</span>
+<span class="blue-bold">EMNLP 2023</span>
 
 <span class="blue-italic">Improving Biomedical Abstractive Summarisation with Knowledge Aggregation from Citation Papers</span>  
 Tang C., Shun W., Goldsack T., <b>Lin C.</b>  
-<span class="blue-bold">Conference on Empirical Methods in Natural Language Processing (EMNLP), 2023</span>
+<span class="blue-bold">EMNLP 2023</span>
 
 <span class="blue-italic">Enhancing Biomedical Lay Summarisation with External Knowledge Graphs</span>  
 Goldsack T., Zhang Z., Tang C., Scarton C., <b>Lin C.</b>  
-<span class="blue-bold">Conference on Empirical Methods in Natural Language Processing (EMNLP), 2023</span>
+<span class="blue-bold">EMNLP 2023</span>
 
 <span class="blue-italic">DisCo: Distilled Student Models Co-training for Semi-supervised Text Mining</span>  
 Jiang W., Mao Q., <b>Lin C.</b>, Li J., Yang W., Deng T., Wang Z.  
-<span class="blue-bold">Conference on Empirical Methods in Natural Language Processing (EMNLP), 2023</span>
+<span class="blue-bold">EMNLP 2023</span>
 
 <span class="blue-italic">Length is a Curse and also a Blessing for Document-level Semantics</span>  
 Xiao C., Li Y., Hudson G., <b>Lin C.</b>, Moubayed N.  
-<span class="blue-bold">Conference on Empirical Methods in Natural Language Processing (EMNLP), 2023</span>
+<span class="blue-bold">EMNLP 2023</span>
 
 <span class="blue-italic">The Iron(ic) Melting Pot: Reviewing Human Evaluation in Humour, Irony and Sarcasm Generation</span>  
 Loakman T., Maladry A., <b>Lin C.</b>  
-<span class="blue-bold">Conference on Empirical Methods in Natural Language Processing (EMNLP Findings), 2023</span>
+<span class="blue-bold">EMNLP-Findings 2023</span>
 
 <span class="blue-italic">How to Determine the Most Powerful Pre-trained Language Model without Brute Force Fine-tuning? An Empirical Survey</span>  
 Bai J., Zhang X., Li C., Hong H., Xu X., <b>Lin C.</b>, Rong W.  
