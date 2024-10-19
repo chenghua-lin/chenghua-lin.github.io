@@ -47,7 +47,7 @@ Zhang Z., Goldsack T., Scarton C. and <b>Lin C.</b>
 
 <span class="blue-italic">LLMs as Narcissistic Evaluators: When Ego Inflates Evaluation Scores</span>  
 Liu Y., Moosavi N. and <b>Lin C.</b>  
-<span class="blue-bold">ACL Findings 2024.</span>
+<span class="blue-bold">ACL Findings 2024</span>
 
 <span class="blue-italic">SciMMIR: Benchmarking Scientific Multi-modal Information Retrieval</span>  
 Wu S., Li Y., Zhu K., Zhang G., Liang Y., Ma K., Xiao C., Yang B., Chen W., Huang W., Moubayed N., Fu J. and <b>Lin C.</b>*  
@@ -55,15 +55,15 @@ Wu S., Li Y., Zhu K., Zhang G., Liang Y., Ma K., Xiao C., Yang B., Chen W., Huan
 
 <span class="blue-italic">SLIDE: A Framework Integrating Small and Large Language Models for Open-Domain Dialogues Evaluation</span>  
 Zhao K., Yang B., Tang C., <b>Lin C.</b>* and Zhan L.  
-<span class="blue-bold">The 62nd Annual Meeting of the Association for Computational Linguistics (ACL Findings), 2024.</span>
+<span class="blue-bold">ACL Findings 2024</span>
 
 <span class="blue-italic">CIF-Bench: A Chinese Instruction-Following Benchmark for Evaluating the Generalizability of Large Language Models</span>  
 Li Y., Zhang G., Qu X., Li J., Li Z., Wang Z., Li H., Yuan R., Ma Y., Zhou W., Liang Y., Zhang L., Ma L., Zhang J., Li Z., Huang W., <b>Lin C.</b>*, Fu J.  
-<span class="blue-bold">The 62nd Annual Meeting of the Association for Computational Linguistics (ACL Findings), 2024.</span>
+<span class="blue-bold">ACL Findings 2024</span>
 
 <span class="blue-italic">ChatMusician: Understanding and Generating Music Intrinsically with LLM</span>  
 Yuan R., Lin H., Wang Y., Tian Z., Wu S., Shen T., Zhang G., Wu Y., Liu C., Zhou Z., Xue L., Ma Z., Liu Q., Li Y., Ma Y., Liang Y., Chi X., Liu R., Wang Z., <b>Lin C.</b>, Liu Q., Huang W., Chen W., Fu J., Benetos E., Dannenberg R., Xue W., Kang S., Guo Y.  
-<span class="blue-bold">The 62nd Annual Meeting of the Association for Computational Linguistics (ACL Findings), 2024</span>
+<span class="blue-bold">ACL Findings 2024</span>
 
 <span class="blue-italic">Overview of the BioLaySumm 2024 Shared Task on the Lay Summarization of Biomedical Research Articles</span>  
 Goldsack T., Scarton C., Shardlow M., <b>Lin C.</b>  
@@ -75,7 +75,7 @@ Yang B., Tang C., Zhao K., Xiao C., <b>Lin C.</b>
 
 <span class="blue-italic">CMDAG: A Chinese Metaphor Dataset with Annotated Grounds as CoT for Boosting Metaphor Generation</span>  
 Shao Y., Yao X., Xingwei Qu X., <b>Lin C.</b>, Wang S., Huang W., Zhang G., Jie F.  
-<span class="blue-bold">Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING), 2024</span>
+<span class="blue-bold">LREC-COLING 2024</span>
 
 <span class="blue-italic">ReproHum #0087-01: Human Evaluation Reproduction Report for Generating Fact Checking Explanations</span>  
 Loakman T., <b>Lin C.</b>  
