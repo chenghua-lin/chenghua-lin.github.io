@@ -285,31 +285,31 @@ Tang C., Li Y., Guerin F., and <b>Lin C.</b>
 
 <span class="blue-italic">Semi-deterministic and Contrastive Variational Graph Autoencoder for Recommendation</span>  
 Ding Y., Shi Y., Chen B., <b>Lin C.</b>, Lu H., Tang R., and Wang D.  
-<span class="blue-bold">The 30th ACM Conference on Information and Knowledge Management (CIKM), online, 2021</span>
+<span class="blue-bold">CIKM 2021</span>
 
 <span class="blue-italic">Guiding the Growth: Difficulty-Controllable Question Generation through Step-by-Step Rewriting</span>  
 Cheng Y., Li S., Liu B., Zhao R., <b>Lin C.</b>, and Zheng Y.  
-<span class="blue-bold">The Annual Conference of the Association for Computational Linguistics (ACL), 2021</span>
+<span class="blue-bold">ACL 2021</span>
 
 <span class="blue-italic">Affective Decoding for Empathetic Response Generation</span>  
 Zeng C., Chen G., <b>Lin C.</b>, Li R., and Chen Z.  
-<span class="blue-bold">The 14th International Conference on Natural Language Generation (INLG), 2021</span>
+<span class="blue-bold">INLG 2021</span>
 
 <span class="blue-italic">Cross-Lingual Word Embedding Refinement via Manhattan Norm Optimisation</span>  
 Peng X., <b>Lin C.</b>, Stevenson M.  
-<span class="blue-bold">The Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), 2021</span>
+<span class="blue-bold">NAACL 2021</span>
 
 <span class="blue-italic">Highly Efficient Knowledge Graph Embeddings Learning via Closed-form Orthogonal Procrustes Analysis</span>  
 Peng X., Chen G., <b>Lin C.</b>, Stevenson M.  
-<span class="blue-bold">The Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), 2021</span>
+<span class="blue-bold">NAACL 2021</span>
 
 <span class="blue-italic">Fast and Scalable Dialogue State Tracking with Explicit Modular Decomposition</span>  
 Wang D., <b>Lin C.</b>, Zhong L., and Wong K-F.  
-<span class="blue-bold">The Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), 2021</span>
+<span class="blue-bold">NAACL 2021</span>
 
 <span class="blue-italic">Summarising Historical Text in Modern Languages</span>  
 Peng X., Zheng Y., <b>Lin C.</b>, and Siddharthan A.  
-<span class="blue-bold">The 16th conference of the European Chapter of the Association for Computational Linguistics (EACL), 2021</span>
+<span class="blue-bold">EACL 2021</span>
 
 <span class="blue-italic">Named Entity Aware Transfer Learning for Biomedical Factoid Question Answering</span>  
 Peng K., Ying C., Rong W., <b>Lin C.</b>, Zhou D., and Xiong Z.  
