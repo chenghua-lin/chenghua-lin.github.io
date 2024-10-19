@@ -95,7 +95,7 @@ Deng Q., Yang Q., Yuan R., Huang Y., Wang Y., Liu X., Tian Z., Pan J., Zhang G.,
 
 <span class="blue-italic">A Cross-Attention Augmented Model for Event-Triggered Context-Aware Story Generation</span>  
 Tang C., Loakman T., <b>Lin C.</b>  
-<span class="blue-bold">Computer Speech and Language (CSL)， 2024</span>
+<span class="blue-bold">Computer Speech and Language (CSL) 2024</span>
 
 <span class="blue-italic">EML: Emotion-Aware Meta Learning for Cross-Event False Information Detection</span>  
 Huang Y., Gao M., Shu K., <b>Lin C.</b>, Wang J., Zhou W.  
@@ -227,7 +227,7 @@ Tang C., <b>Lin C.</b>, Huang H., Guerin F., and Zhang Z.
 
 <span class="blue-italic">The Secret of Metaphor on Expressing Stronger Emotion</span>  
 Li Y., Guerin F., and <b>Lin C.</b>  
-<span class="blue-bold">The Third Figurative Language Processing workshop at the 2022 Conference on Empirical Methods in Natural Language Processing (Figlang@EMNLP), 2022</span>
+<span class="blue-bold">Figlang@EMNLP 2022</span>
 
 <span class="blue-italic">CM-Gen: A Neural Framework for Chinese Metaphor Generation with Explicit Context Modelling</span>  
 Li Y., <b>Lin C.</b>, and Guerin F.  
@@ -403,27 +403,27 @@ Liao W., and <b>Lin C.</b>
 
 <span class="blue-italic">Word Embedding and WordNet Based Metaphor Identification and Interpretation</span>  
 Mao R., <b>Lin C.</b>, and Guerin F.  
-<span class="blue-bold">The 56th Annual Meeting of the Association for Computational Linguistics (ACL), Melbourne, 2018</span>
-
-<span class="blue-italic">Incorporating Constraints into Matrix Factorization for Clothes Package Recommendation</span>  
-Wibowo A., Siddharthan A., Masthoff J., and <b>Lin C.</b>  
-<span class="blue-bold">The 26th ACM Conference on User Modelling, Adaptation and Personalization (UMAP), Singapore, 2018</span>
+<span class="blue-bold">ACL 2018</span>
 
 <span class="blue-italic">Statistical NLG for Generating the Content and Form of Referring Expressions</span>  
 Li X., van Deemter K., and <b>Lin C.</b>  
-<span class="blue-bold">The 11th International Conference on Natural Language Generation (INLG), Tilburg, Netherlands, 2018</span>
+<span class="blue-bold">INLG 2018</span>
 
 <span class="blue-italic">SimpleNLG-ZH: a Linguistic Realisation Engine for Mandarin</span>  
 Chen G., van Deemter K., and <b>Lin C.</b>  
-<span class="blue-bold">The 11th International Conference on Natural Language Generation (INLG), Tilburg, Netherlands, 2018</span>
+<span class="blue-bold">INLG 2018</span>
 
 <span class="blue-italic">Modelling Pro-drop with the Rational Speech Acts Model</span>  
 Chen G., van Deemter K., and <b>Lin C.</b>  
-<span class="blue-bold">The 11th International Conference on Natural Language Generation (INLG), Tilburg, Netherlands, 2018</span>
+<span class="blue-bold">INLG 2018</span>
 
 <span class="blue-italic">Generating Description for Sequential Images with Local-Object Attention Conditioned on Global Semantic Context</span>  
 Su J., <b>Lin C.</b>, Zhou M., Dai Q., and Lv H.  
 <span class="blue-bold">Workshop on Intelligent Interactive Systems and Language Generation at The 11th International Conference on Natural Language Generation (INLG), Tilburg, Netherlands, 2018</span>
+
+<span class="blue-italic">Incorporating Constraints into Matrix Factorization for Clothes Package Recommendation</span>  
+Wibowo A., Siddharthan A., Masthoff J., and <b>Lin C.</b>  
+<span class="blue-bold">UMAP 2018</span>
 
 <span class="blue-italic">Modelling Various Kinds of Specifications</span>  
 Chen G., van Deemter K., and <b>Lin C.</b>  
@@ -439,13 +439,13 @@ Mao R., Chen G., Li R., and <b>Lin C.</b>
 
 <span class="blue-italic">Assessing the Effectiveness of Affective Lexicons for Depression Classification</span>  
 Yusof N., <b>Lin C.</b>, and Guerin F.  
-<span class="blue-bold">The 23nd International Conference on Natural Language & Information Systems (NLDB), Paris, 2018</span>
+<span class="blue-bold">NLDB 2018</span>
 
 ### 2017
 
 <span class="blue-italic">Extracting and understanding contrastive opinion through topic relevant sentences</span>  
 Ibeke E., <b>Lin C.</b>, Wyner A., and Barawi M.  
-<span class="blue-bold">The 8th International Joint Conference on Natural Language Processing (IJCNLP), Taiwan, 2017</span>
+<span class="blue-bold">IJCNLP 2017</span>
 
 <span class="blue-italic">Analysing the Causes of Depressed Mood from Depression Vulnerable Individuals</span>  
 Yusof N., <b>Lin C.</b>, and Guerin F.  
@@ -453,11 +453,11 @@ Yusof N., <b>Lin C.</b>, and Guerin F.
 
 <span class="blue-italic">Automatically Labelling Sentiment-bearing Topics with Descriptive Sentence Labels</span>  
 Barawi M., <b>Lin C.</b>, and Siddharthan A.  
-<span class="blue-bold">The 22nd International Conference on Natural Language & Information Systems (NLDB), Belgium, 2017</span> （Best paper award!）
+<span class="blue-bold">NLDB 2017</span> （Best paper award!）
 
 <span class="blue-italic">A Unified Latent Variable Model for Contrastive Opinion Mining</span>  
 Ibeke E., <b>Lin C.</b>, Wyner A., and Barawi M.  
-<span class="blue-bold">Frontier of Computer Science (FCS), Springer, 2017</span>
+<span class="blue-bold">Frontier of Computer Science (FCS), 2017</span>
 
 <span class="blue-italic">Matrix Factorization for Package Recommendations</span>  
 Wibowo A., Siddharthan A., <b>Lin C.</b>, and Masthoff J.  
@@ -471,7 +471,7 @@ Yusof N., <b>Lin C.</b>, and He Y.
 
 <span class="blue-italic">Statistics-Based Lexical Choice for NLG from Quantitative Information</span>  
 Li X., van Deemter K., and <b>Lin C.</b>  
-<span class="blue-bold">The 9th International Natural Language Generation Conference (INLG), Edinburgh, UK, 2016</span>
+<span class="blue-bold">INLG 2016</span>
 
 <span class="blue-italic">A Curated Corpus for Sentiment-Topic Analysis</span>  
 Ibeke E., <b>Lin C.</b>, Coe C., Wyner A., Liu D., Barawi M., and Yusof N.  
@@ -481,7 +481,7 @@ Ibeke E., <b>Lin C.</b>, Coe C., Wyner A., Liu D., Barawi M., and Yusof N.
 
 <span class="blue-italic">Sherlock: a Semi-Automatic Framework for Quiz Generation Using a Hybrid Semantic Similarity Measure</span>  
 <b>Lin C.</b>, Liu D., Pang W., and Wang Z.  
-<span class="blue-bold">Cognitive Computation, Springer, 2015</span>
+<span class="blue-bold">Cognitive Computation, 2015</span>
 
 <span class="blue-italic">Sentiment-Topic Modelling in Text Mining</span>  
 <b>Lin C.</b>, Ibeke E., Wyner A., and Guerin F.  
@@ -511,7 +511,7 @@ Li X., van Deemter K., and <b>Lin C.</b>
 
 <span class="blue-italic">Hete-CF: Social-Based Collaborative Filtering Recommendation Using Heterogeneous Relations</span>  
 Luo C., Pang W., Wang Z., and <b>Lin C.</b>  
-<span class="blue-bold">The IEEE International Conference on Data Mining (ICDM), ShenZhen, China, 2014</span>
+<span class="blue-bold">ICDM, ShenZhen, China, 2014</span>
 
 <span class="blue-italic">Sherlock: a Semi-Automatic Quiz Generation System using Linked Data</span>  
 Liu D., and <b>Lin C.</b>  
@@ -519,7 +519,7 @@ Liu D., and <b>Lin C.</b>
 
 <span class="blue-italic">HetPathMine: A Novel Transductive Classification Algorithm on Heterogeneous Information Networks</span>  
 Luo C., Guan R., Wang Z., and <b>Lin C.</b>  
-<span class="blue-bold">The 36th European Conference on Information Retrieval (ECIR), Amsterdam, Netherlands, 2014</span>
+<span class="blue-bold">ECIR 2014</span>
 
 ### 2013 and prior
 
@@ -565,11 +565,11 @@ He Y., <b>Lin C.</b>, and Alani H.
 
 <span class="blue-italic">A Comparative Study of Bayesian Models for Unsupervised Sentiment Detection</span>  
 <b>Lin C.</b>, He Y., and Everson R.  
-<span class="blue-bold">The 14th Conference on Computational Natural Language Learning (CoNLL), Uppsala, Sweden, 2010</span>
+<span class="blue-bold">CoNLL 2010</span>
 
 <span class="blue-italic">Joint Sentiment/Topic Model for Sentiment Analysis</span>  
 <b>Lin C.</b>, and He Y.  
-<span class="blue-bold">The 18th ACM Conference on Information and Knowledge Management (CIKM), Hong Kong, China, 2009</span>
+<span class="blue-bold">CIKM 2009</span>
 
 <span class="blue-italic">Protein-Protein Interactions Classification from Text via Local Learning with Class Priors</span>  
 He Y., and <b>Lin C.</b>  
