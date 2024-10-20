@@ -38,7 +38,7 @@ Li Y., Guerin F. and <b>Lin C.</b>
 <span class="blue-bold">AAAI 2024</span>
 
 <span class="blue-italic">MERT: Acoustic Music Understanding Model with Large-Scale Self-supervised Training</span>  
-Li Y., Yuan R., Zhang G., Ma Y., Chen X., Yin H., <b>Lin C.</b>*,  Ragni A., Benetos E., Gyenge N., Dannenberg R., Liu R., Chen W., Xia G., Shi Y., Huang, W., Guo Y., Fu J.  
+Li Y., Yuan R., Zhang G., Ma Y., Chen X., Yin H., <b>Lin C.</b>*,  Ragni A., Benetos E., Gyenge N., Dannenberg R., Liu R., Chen W., Xia G., Huang, W., Guo Y., Fu J.  
 <span class="blue-bold">ICLR 2024</span>
 
 <span class="blue-italic">ATLAS: Improving Lay Summarisation with Attribute-based Control</span>  

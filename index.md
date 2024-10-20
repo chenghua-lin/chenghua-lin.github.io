@@ -1,6 +1,6 @@
 ***
 
-[Publications](./publication.md) / [CV](./assets/cv-arase.pdf) / [ACL Anthology](https://www.aclweb.org/anthology/people/y/yuki-arase/) / [Google Scholar](https://scholar.google.com/citations?user=uoL1Wr0AAAAJ&hl=en) / [Semantic Scholar](https://www.semanticscholar.org/author/Yuki-Arase/3043844)
+[Publications](./publication.md) /  [Services] / [Google Scholar](https://scholar.google.com/citations?user=uoL1Wr0AAAAJ&hl=en) /
 
 ***
 
