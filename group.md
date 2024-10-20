@@ -1,5 +1,5 @@
 ***
 
-/ [Home](./index.md) / [Publications](./publication.md) /  [Awards and Services](./award-service.md) / [group](./group.md) / [Repos](./repo.md) / 
+/ [Home](./index.md) / [Publications](./publication.md) /  [Awards and Services](./award-service.md) / [Group](./group.md) / [Repos](./repo.md) / 
 
 ***
