@@ -1,3 +1,9 @@
+***
+
+[Publications](./publication.md) /  [Awards and Services](./award-service.md) / [Google Scholar](https://scholar.google.com/citations?user=uoL1Wr0AAAAJ&hl=en) / [Repos] / [Contact](./contact.md) /
+
+***
+
 ## Contact
 Department of Computer Science  
 Kilburn Building, Oxford Road  

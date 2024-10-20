@@ -1,3 +1,9 @@
+***
+
+[Publications](./publication.md) /  [Awards and Services](./award-service.md) / [Google Scholar](https://scholar.google.com/citations?user=uoL1Wr0AAAAJ&hl=en) / [Repos] / [Contact](./contact.md) /
+
+***
+
 ## Selected Awards
 
 * CIKM 2020 Test of Time Award for the work on “Joint sentiment/topic model for sentiment analysis“
