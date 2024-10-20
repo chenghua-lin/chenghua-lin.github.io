@@ -16,7 +16,8 @@ Professor of Natural Language Processing \
 
 ***
 
-I am [Professor of Natural Language Processing](https://research.manchester.ac.uk/en/persons/chenghua-lin) in the [Department of Computer Science](https://www.cs.manchester.ac.uk/), [The University of Manchester](https://www.manchester.ac.uk/). I also serve as the Secretary and a Board Member of ACL SIGGEN, and a Member of the [IEEE Speech and Language Processing Technical Committee](https://signalprocessingsociety.org/community-involvement/speech-and-language-processing). My research primarily focuses on natural language processing and generation, machine learning, and the intersection between them. Specific interests include developing probabilistic generative and deep learning models for data-to-text generation, dialogue systems, text summarisation, metaphor processing, as well as representation learning for music and speech.
+I am [Professor of Natural Language Processing](https://research.manchester.ac.uk/en/persons/chenghua-lin) in the [Department of Computer Science](https://www.cs.manchester.ac.uk/), [The University of Manchester](https://www.manchester.ac.uk/). I also serve as the Secretary and a Board Member of ACL SIGGEN, and a Member of the [IEEE Speech and Language Processing Technical Committee](https://signalprocessingsociety.org/community-involvement/speech-and-language-processing).   
+My research primarily focuses on natural language processing and generation, machine learning, and their intersection. Some of my current interests include robustness in LLMs, LLMs for planning, evaluation methods and benchmarks, creative text generation, lay summarisation, metaphor processing, as well as representation learning for music and speech.
 My work has been supported by various funding bodies, including [EPSRC](https://www.ukri.org/councils/epsrc/), [ESRC](https://www.ukri.org/councils/esrc/), [Innovate UK](https://www.ukri.org/councils/innovate-uk/), [Royal Society](https://royalsociety.org/), [BBC Connected Studio](https://www.bbc.co.uk/rd/projects/connected-studio/), [BBC News Lab](https://www.bbc.co.uk/rdnewslabs/), and [Samsung Reasarch UK](https://research.samsung.com/sruk). 
 
 For more info, please visit my [group page](https://lincedo-lab.github.io/).
@@ -32,8 +33,5 @@ For more info, please visit my [group page](https://lincedo-lab.github.io/).
 
 
 ## Personal  
-For more details, please see [Research](./research.md) page.
 
-#### Paraphrase generation & recognition
-Paraphrasing takes various forms of monolingual text transformations, such as text simplification, rewriting, and style transfer. 
-We work on both recognition and generation. The core technologies are intelligent phrase alignment and controllable paraphrase generation. 
+I am a die-hard fan of the 90s Chicago Bulls. I used to play basketball a lot and was part of the starting lineup for my school's basketball team at my university in Beijing. Our team won two championships in the college league, something I am very proud of. I stopped playing intensively after completely rupturing one of my Achilles tendons during a match. However, I still play for fun and very occasionally join the practice games of a team from the [Sheffield basketball league](https://www.sheffieldbasketball.co.uk/). 
