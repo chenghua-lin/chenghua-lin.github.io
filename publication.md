@@ -93,11 +93,11 @@ Yang B., Tang C., <b>Lin C.</b>
 
 <span class="blue-italic">CADGE: Context-Aware Dialogue Generation Enhanced with Graph-Structured Knowledge Aggregation</span>  
 Tang C., Zhang H., Loakman T., Yang B., Goetze S., <b>Lin C.</b>  
-<span class="blue-bold">International Conference on Natural Language Generation (INLG), 2024</span>
+<span class="blue-bold">INLG 2024</span>
 
 <span class="blue-italic">ComposerX: Multi-Agent Symbolic Music Composition with LLMs</span>  
 Deng Q., Yang Q., Yuan R., Huang Y., Wang Y., Liu X., Tian Z., Pan J., Zhang G., Lin H., Li Y., Ma Y., Fu J., <b>Lin C.</b> et.al.  
-<span class="blue-bold">International Society for Music Information Retrieval Conference (ISMIR), 2024</span>
+<span class="blue-bold">ISMIR 2024</span>
 
 <span class="blue-italic">A Cross-Attention Augmented Model for Event-Triggered Context-Aware Story Generation</span>  
 Tang C., Loakman T., <b>Lin C.</b>  
@@ -167,7 +167,7 @@ Li Y., Wang S., <b>Lin C.</b>, Guerin F.
 
 <span class="blue-italic">BioLaySumm 2023 Shared Task: Lay Summarisation of Biomedical Research Articles</span>  
 Goldsack T., Luo Z., Xie Q., Scarton C., Shardlow M., Ananiadou S., <b>Lin C.</b>  
-<span class="blue-bold">The 22nd Workshop on Biomedical Natural Language Processing and BioNLP Shared Tasks (co-located at ACL), 2023</span>
+<span class="blue-bold">BioNLP@ACL 2023</span>
 
 <span class="blue-italic">Metaphor Detection with Effective Context Denoising</span>  
 Wang S., Li Y., <b>Lin C.</b>, Barrault L., Guerin F.  
@@ -269,7 +269,7 @@ Li Y., <b>Lin C.</b>, and Guerin F.
 
 <span class="blue-italic">DrivingBeacon: Driving Behaviour Change Support System Considering Mobile Use and Geo-information</span>  
 Baig J., Chen G., <b>Lin C.</b>, and Reiter E.  
-<span class="blue-bold">The NLG4Health workshop at the 15th International Natural Language Generation Conference (INLG), 2022</span>
+<span class="blue-bold">NLG4Health@INLG 2022</span>
 
 <span class="blue-italic">Token Relation Aware Chinese Named Entity Recognition</span>  
 Huang Z., Rong W., Zhang X., Ouyang Y., <b>Lin C.</b>, and Zhang X.  
@@ -319,7 +319,7 @@ Peng X., Zheng Y., <b>Lin C.</b>, and Siddharthan A.
 
 <span class="blue-italic">Named Entity Aware Transfer Learning for Biomedical Factoid Question Answering</span>  
 Peng K., Ying C., Rong W., <b>Lin C.</b>, Zhou D., and Xiong Z.  
-<span class="blue-bold">IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB), to appear</span>
+<span class="blue-bold">IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB), 2021</span>
 
 <span class="blue-italic">Routine Outcome Monitoring in Psychotherapy Treatment Using Sentiment-Topic Modelling</span>  
 Yusof N., <b>Lin C.</b>  
@@ -341,15 +341,15 @@ Mao R., <b>Lin C.</b>, and Guerin F.
 
 <span class="blue-italic">Improving Variational Autoencoder for Text Modelling with Timestep-Wise Regularisation</span>  
 Li R., Li X., Chen G., and <b>Lin C.</b>  
-<span class="blue-bold">The 28th International Conference on Computational Linguistics (COLING), 2020</span>
+<span class="blue-bold">COLING 2020</span>
 
 <span class="blue-italic">A Dual-generator Network for Text Style Transfer</span>  
 Li X., Chen G., <b>Lin C.</b>, and Li R.  
-<span class="blue-bold">Conference on Empirical Methods in Natural Language Processing (EMNLP), 2020</span>
+<span class="blue-bold">EMNLP 2020</span>
 
 <span class="blue-italic">Latent Space Factorisation and Manipulation via Matrix Subspace Projection</span>  
 Li X., <b>Lin C.</b>, Wang C., Li R., and Guerin F.  
-<span class="blue-bold">The 37th International Conference on Machine Learning (ICML), Vienna, 2020</span>
+<span class="blue-bold">ICML 2020</span>
 
 <span class="blue-italic">On the Low-density Latent Regions of VAE-based Language Models</span>  
 Li R., Peng X., <b>Lin C.</b>, Guerin F., and Rong W.  
@@ -357,11 +357,11 @@ Li R., Peng X., <b>Lin C.</b>, Guerin F., and Rong W.
 
 <span class="blue-italic">Extractive and Abstractive Sentence Labelling of Sentiment-bearing Topics</span>  
 Barawi M., <b>Lin C.</b>, Siddharthan A., and Liu Y.  
-<span class="blue-bold">Frontier of Computer Science (FCS), Springer, 2020</span>
+<span class="blue-bold">Frontier of Computer Science (FCS), 2020</span>
 
 <span class="blue-italic">Split Over-Training for Unsupervised Purchase Intention Identification</span>  
 Yusof N., <b>Lin C.</b>, Han X., and Barawi H.  
-<span class="blue-bold">International Journal of Advanced Trends in Computer Science and Engineering, Volume 9, No.3, 2020</span>
+<span class="blue-bold">International Journal of Advanced Trends in Computer Science and Engineering, 2020</span>
 
 <span class="blue-italic">A Text Reassembling Approach to Natural Language Generation</span>  
 Li X., van Deemter K., and <b>Lin C.</b>  
@@ -403,7 +403,7 @@ Yu X., Yu Z., Wu L., Pang W., and <b>Lin C.</b>
 
 <span class="blue-italic">Deep Ensemble Learning for News Stance Detection</span>  
 Liao W., and <b>Lin C.</b>  
-<span class="blue-bold">The 5th International Conference on Computational Social Science (IC²S²), Amsterdam, 2019</span>
+<span class="blue-bold">The 5th International Conference on Computational Social Science (IC²S²), 2019</span>
 
 ### 2018
 
@@ -425,7 +425,7 @@ Chen G., van Deemter K., and <b>Lin C.</b>
 
 <span class="blue-italic">Generating Description for Sequential Images with Local-Object Attention Conditioned on Global Semantic Context</span>  
 Su J., <b>Lin C.</b>, Zhou M., Dai Q., and Lv H.  
-<span class="blue-bold">Workshop on Intelligent Interactive Systems and Language Generation at The 11th International Conference on Natural Language Generation (INLG), Tilburg, Netherlands, 2018</span>
+<span class="blue-bold">2IS&NLG@INLG 2018</span>
 
 <span class="blue-italic">Incorporating Constraints into Matrix Factorization for Clothes Package Recommendation</span>  
 Wibowo A., Siddharthan A., Masthoff J., and <b>Lin C.</b>  
@@ -437,11 +437,11 @@ Chen G., van Deemter K., and <b>Lin C.</b>
 
 <span class="blue-italic">Understanding how to Explain Package Recommendations in the Clothes Domain</span>  
 Wibowo A., Siddharthan A., Masthoff J., and <b>Lin C.</b>  
-<span class="blue-bold">Joint Workshop on Interfaces and Human Decision Making for Recommender Systems (IntRS) in the 12th ACM Conference on Recommender Systems (RecSys), Canada, 2018</span>
+<span class="blue-bold">IntRS@RecSys 2018</span>
 
 <span class="blue-italic">Recognising Discriminative Attributes using Context Embeddings and WordNet</span>  
 Mao R., Chen G., Li R., and <b>Lin C.</b>  
-<span class="blue-bold">The International Workshop on Semantic Evaluation at the 16th Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), New Orleans, 2018</span>
+<span class="blue-bold">SemEval@NAACL 2018</span>
 
 <span class="blue-italic">Assessing the Effectiveness of Affective Lexicons for Depression Classification</span>  
 Yusof N., <b>Lin C.</b>, and Guerin F.  
@@ -455,7 +455,7 @@ Ibeke E., <b>Lin C.</b>, Wyner A., and Barawi M.
 
 <span class="blue-italic">Analysing the Causes of Depressed Mood from Depression Vulnerable Individuals</span>  
 Yusof N., <b>Lin C.</b>, and Guerin F.  
-<span class="blue-bold">The International Workshop on Digital Disease Detection using Social Media at the 8th International Joint Conference on Natural Language Processing (IJCNLP), Taiwan, 2017</span>
+<span class="blue-bold">The International Workshop on Digital Disease Detection using Social Media at the 8th International Joint Conference on Natural Language Processing (IJCNLP), 2017</span>
 
 <span class="blue-italic">Automatically Labelling Sentiment-bearing Topics with Descriptive Sentence Labels</span>  
 Barawi M., <b>Lin C.</b>, and Siddharthan A.  
@@ -467,7 +467,7 @@ Ibeke E., <b>Lin C.</b>, Wyner A., and Barawi M.
 
 <span class="blue-italic">Matrix Factorization for Package Recommendations</span>  
 Wibowo A., Siddharthan A., <b>Lin C.</b>, and Masthoff J.  
-<span class="blue-bold">Workshop on Recommendation in Complex Scenarios in the 11th ACM Conference on Recommender Systems (RecSys), Italy, 2017</span>
+<span class="blue-bold">ComplexRec@RecSys 2017</span>
 
 <span class="blue-italic">Sentiment Analysis in Social Media</span>  
 Yusof N., <b>Lin C.</b>, and He Y.  
@@ -481,7 +481,7 @@ Li X., van Deemter K., and <b>Lin C.</b>
 
 <span class="blue-italic">A Curated Corpus for Sentiment-Topic Analysis</span>  
 Ibeke E., <b>Lin C.</b>, Coe C., Wyner A., Liu D., Barawi M., and Yusof N.  
-<span class="blue-bold">The Emotion and Sentiment Analysis Workshop in the 10th Language Resources and Evaluation Conference (LREC), Slovenia, 2016</span>
+<span class="blue-bold">ESA@LREC 2016</span>
 
 ### 2015
 
@@ -491,19 +491,19 @@ Ibeke E., <b>Lin C.</b>, Coe C., Wyner A., Liu D., Barawi M., and Yusof N.
 
 <span class="blue-italic">Sentiment-Topic Modelling in Text Mining</span>  
 <b>Lin C.</b>, Ibeke E., Wyner A., and Guerin F.  
-<span class="blue-bold">Data Mining and Knowledge Discovery, Wiley, 2015</span>
+<span class="blue-bold">Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery, 2015</span>
 
 <span class="blue-italic">Applying Rule Extraction and Rule Refinement Techniques to (Blackbox) Classifiers</span>  
 Cepukenas J., <b>Lin C.</b>, and Sleeman D.  
-<span class="blue-bold">The 8th International Conference on Knowledge Capture (K-Cap), NY, USA, 2015</span>
+<span class="blue-bold">K-Cap 2015</span>
 
 <span class="blue-italic">Predicting Quiz Difficulty Level Using a Hybrid Semantic Similarity Measure</span>  
 <b>Lin C.</b>, Liu Dong., and Pang W.  
-<span class="blue-bold">The 8th International Conference on Knowledge Capture (K-Cap), NY, USA, 2015</span>
+<span class="blue-bold">K-Cap 2015</span>
 
 <span class="blue-italic">Web as Corpus Supporting Natural Language Generation for Online River Information Communication</span>  
 Han X., Sripada S., and <b>Lin C.</b>  
-<span class="blue-bold">WebScience Track at The 24th International World Wide Web Conference (WWW), Italy, 2015</span>
+<span class="blue-bold">WWW 2015</span>
 
 <span class="blue-italic">Expressing Quantities in Words: Towards a Computational Model</span>  
 Li X., van Deemter K., and <b>Lin C.</b>  
@@ -513,7 +513,7 @@ Li X., van Deemter K., and <b>Lin C.</b>
 
 <span class="blue-italic">Sentiment Analysis in Social Media</span>  
 <b>Lin C.</b> and He Y.  
-<span class="blue-bold">Encyclopedia of Social Network Analysis and Mining, edited by R.S. Alhajj and J.G. Rokne, Springer, 2014</span>
+<span class="blue-bold">Encyclopedia of Social Network Analysis and Mining, Springer, 2014</span>
 
 <span class="blue-italic">Hete-CF: Social-Based Collaborative Filtering Recommendation Using Heterogeneous Relations</span>  
 Luo C., Pang W., Wang Z., and <b>Lin C.</b>  
@@ -543,7 +543,7 @@ He Y., <b>Lin C.</b>, Gao W., and Wong K.
 
 <span class="blue-italic">Online Sentiment and Topic Dynamics Tracking over the Streaming Data</span>  
 He Y., <b>Lin C.</b>, and Cano Basave E.  
-<span class="blue-bold">IEEE International Conference on Social Computing (SocialCom), Amsterdam, The Netherlands, 2012</span>
+<span class="blue-bold">IEEE International Conference on Social Computing (SocialCom), 2012</span>
 
 <span class="blue-italic">Tracking Sentiment and Topic Dynamics from Social Media</span>  
 He Y., <b>Lin C.</b>, Gao W., and Wong K.  
@@ -551,7 +551,7 @@ He Y., <b>Lin C.</b>, Gao W., and Wong K.
 
 <span class="blue-italic">Harnessing the Crowds for Automating the Identification of Web APIs</span>  
 Pedrinaci C., Liu D., <b>Lin C.</b>, and Domingue J.  
-<span class="blue-bold">Workshop: Intelligent Web Services Meet Social Computing at AAAI Spring Symposium 2012, Stanford, California, 2012</span>
+<span class="blue-bold">AAAI Spring Symposium Series, 2012</span>
 
 <span class="blue-italic">Probabilistic topic models for sentiment analysis on the Web</span>  
 <b>Lin C.</b>  
@@ -588,3 +588,15 @@ Liu K., <b>Lin C.</b>, and Qiao B.
 <span class="blue-italic">Review of Computer Vision in Intelligent Environment Design</span>  
 <b>Lin C.</b>, Liu K., and Wei H.  
 <span class="blue-bold">SSE System Engineering Conference, Reading, UK, 2008</span>
+
+
+### Technical Reports:
+
+<span class="blue-italic">emantic Architecture, SWS selection and deployment, and Data Interface analysis</span>  
+González N., <b>Lin C.</b>, Predinaci C. and Pariente T. 
+<span class="blue-bold">VPH-Share project deliverable (FP7-ICT-269978-D4.2), 2012</span>
+
+<span class="blue-italic">Annotation Recommendation for the Semantic Description of RESTful Web Services</span>  
+Ph. Beaune, Pedrinaci C. and <b>Lin C.</b>
+<span class="blue-bold">Knowledge Media Institute, 2012</span>
+
