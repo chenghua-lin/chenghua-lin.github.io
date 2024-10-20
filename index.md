@@ -9,8 +9,7 @@
 Professor of Natural Language Processing \
 [Department of Computer Science](https://www.cs.manchester.ac.uk/) \
 [The University of Manchester](https://www.manchester.ac.uk/), UK
-
-[Lincedo Lab](https://lincedo-lab.github.io/)  
+  
 Email: chenghua.lin the_usual_sign manchester.ac.uk  
 Twitter: [@chenghua_lin](https://twitter.com/chenghua_lin)
 
@@ -19,9 +18,7 @@ Twitter: [@chenghua_lin](https://twitter.com/chenghua_lin)
 I am Professor of Natural Language Processing in the [Department of Computer Science](https://www.cs.manchester.ac.uk/), [The University of Manchester](https://www.manchester.ac.uk/). My research is centred around natural language processing and generation, machine learning, and the intersection between them. Specific interests include developing probabilistic generative and deep learning models for data-to-text generation, dialogue systems, text summarisation, metaphor processing, as well as representation learning for music and speech.
 My research has been funded by various funding bodies including: EPSRC, ESRC, Innovate UK, Royal Society, BBC Connected Studios, BBC News Lab. 
 
- For more info, please visit my group page.
-
-I'm recruiting 1-2 PhD students for 2025 intake. Please send me your CV with a publication list if you are interested. 
+For more info, please visit my [group page](https://lincedo-lab.github.io/).
 
 ***
 
@@ -30,11 +27,10 @@ I'm recruiting 1-2 PhD students for 2025 intake. Please send me your CV with a p
 ***
 
 ## News
+* I'm recruiting 1-2 PhD students for 2025 intake. Please send me your CV with a publication list if you are interested. 
 * Our paper has been accepted by EMNLP2024 Findings: T. Zetsu, Y. Arase, and T. Kajiwara. Edit-Constrained Decoding for Sentence Simplification, in Proc. of EMNLP 2024 Findings (Nov. 2024 to appear).
-* [Arase Lab website](https://arase-cl-lab.c.titech.ac.jp/) got launched!
-* Joined Tokyo Institute of Technology
 
-(Last update: 2024/09/20)
+(Last update: 20/10/2024)
 
 
 ## Research
