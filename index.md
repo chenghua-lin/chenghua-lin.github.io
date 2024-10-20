@@ -1,6 +1,6 @@
 ***
 
-[Publications](./publication.md) /  [Services] / [Google Scholar](https://scholar.google.com/citations?user=uoL1Wr0AAAAJ&hl=en) / [Code and Repos] / 
+[Publications](./publication.md) /  [Services] / [Google Scholar](https://scholar.google.com/citations?user=uoL1Wr0AAAAJ&hl=en) / [Code and Repos] / [Contact] /
 
 ***
 
@@ -16,7 +16,10 @@ Twitter: [@chenghua_lin](https://twitter.com/chenghua_lin)
 
 ***
 
-I am Professor of Natural Language Processing in the [Department of Computer Science](https://www.cs.manchester.ac.uk/), [The University of Manchester](https://www.manchester.ac.uk/). My research is centred around natural language processing and generation, machine learning, and the intersection between them. Specific interests include developing probabilistic generative and deep learning models for data-to-text generation, dialogue systems, text summarisation, metaphor processing, as well as representation learning for music and speech. For more info, please visit my group page.
+I am Professor of Natural Language Processing in the [Department of Computer Science](https://www.cs.manchester.ac.uk/), [The University of Manchester](https://www.manchester.ac.uk/). My research is centred around natural language processing and generation, machine learning, and the intersection between them. Specific interests include developing probabilistic generative and deep learning models for data-to-text generation, dialogue systems, text summarisation, metaphor processing, as well as representation learning for music and speech.
+My research has been funded by various funding bodies including: EPSRC, ESRC, Innovate UK, Royal Society, BBC Connected Studios, BBC News Lab. 
+
+ For more info, please visit my group page.
 
 I'm recruiting 1-2 PhD students for 2025 intake. Please send me your CV with a publication list if you are interested. 
 
