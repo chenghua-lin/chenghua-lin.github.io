@@ -28,11 +28,10 @@
 * Area Chair: NAACL 2024, LREC-COLING 2024, EMNLP 2021, *SEM 2023, NLPCC 2024, NLPCC 2022, INLG 2020  
 * Senior Program Committee mMember: IJCAI 2021  
 * Meta Reviewer: ICASSP 2023, 2024  
-* Standing Reviewer for TACL (2021 – )
+* Associate Editor for Computer Speech and Language (2022 – )
+* Associate Editor for Neurocomputing (2019 – 2022)
 * Standing Reviewer for Computational Linguistics (2020 – )
-* Associate Editor for Neurocomputing (2019 – )
-* Associate Editor for Neurocomputing (2019 – )
-* Lead Guest Editor of the 2nd Special Issue on Natural Language Generation in the Elsevier Computer Speech and Language Journal (Other Guest Editors: Prof. Ehud Reiter, University of Aberdeen; Dr. Angela Fan, Facebook AI / LORIA; Dr. Carlo Allocca, Samsung Research).
-* Lead Guest Editor of the Special Issue on Natural Language Generation in the Elsevier Computer Speech and Language Journal.
-
+* Standing Reviewer for TACL (2021 – 2023)
+* Lead Guest Editor of the 2nd Special Issue on Natural Language Generation in the Computer Speech and Language Journal (Other Guest Editors: Prof. Ehud Reiter, University of Aberdeen; Dr. Angela Fan, Facebook AI / LORIA; Dr. Carlo Allocca, Samsung Research).
+* Lead Guest Editor of the Special Issue on Natural Language Generation in the Computer Speech and Language Journal.
 
