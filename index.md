@@ -23,9 +23,6 @@ For more info, please visit my [group page](https://lincedo-lab.github.io/).
 
 ***
 
-[Publications](./publication.md) / [CV](./assets/cv-arase.pdf) / [ACL Anthology](https://www.aclweb.org/anthology/people/y/yuki-arase/) / [Google Scholar](https://scholar.google.com/citations?user=uoL1Wr0AAAAJ&hl=en) / [Semantic Scholar](https://www.semanticscholar.org/author/Yuki-Arase/3043844)
-
-***
 
 ## News
 * I'm recruiting 1-2 PhD students for 2025 intake. Please send me your CV with a publication list if you are interested. 
