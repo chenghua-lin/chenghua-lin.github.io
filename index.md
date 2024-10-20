@@ -1,6 +1,6 @@
 ***
 
-/ [Home](./index.md) / [Publications](./publication.md) /  [Awards and Services](./award-service.md) / [group](./group.md) / [Repos](./repo.md) / 
+/ [Home](./index.md) / [Publications](./publication.md) /  [Awards and Services](./award-service.md) / [Group](./group.md) / [Repos](./repo.md) / 
 
 ***
 
@@ -12,7 +12,7 @@ Professor of Natural Language Processing \
   
 <b>Email:</b> chenghua.lin the_usual_sign manchester.ac.uk  
 <b>X:</b> [@chenghua_lin](https://twitter.com/chenghua_lin)  
-<b>Google Scholar:<b> [My profile](https://scholar.google.co.uk/citations?user=Tp1RdIQAAAAJ&hl=en)
+<b>Google Scholar:</b> [My profile](https://scholar.google.co.uk/citations?user=Tp1RdIQAAAAJ&hl=en)
 
 ***
 
