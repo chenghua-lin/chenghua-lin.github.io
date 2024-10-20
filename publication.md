@@ -1,6 +1,6 @@
 ---
 title: "Publications"
-page_logo: "/assets/img/publications-logo.jpg"
+page_logo: "/assets/img/home.jpg"
 ---
 
 ***
