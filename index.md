@@ -1,6 +1,6 @@
 ***
 
-[Publications](./publication.md) /  [Awards and Services](./award-service.md) / [Google Scholar](https://scholar.google.com/citations?user=uoL1Wr0AAAAJ&hl=en) / [Code and Repos] / [Contact](./contact.md) /
+[Publications](./publication.md) /  [Awards and Services](./award-service.md) / [Google Scholar](https://scholar.google.com/citations?user=uoL1Wr0AAAAJ&hl=en) / [Repos] / [Contact](./contact.md) /
 
 ***
 
@@ -15,7 +15,7 @@ Professor of Natural Language Processing \
 
 ***
 
-I am Professor of Natural Language Processing in the [Department of Computer Science](https://www.cs.manchester.ac.uk/), [The University of Manchester](https://www.manchester.ac.uk/). My research is centred around natural language processing and generation, machine learning, and the intersection between them. Specific interests include developing probabilistic generative and deep learning models for data-to-text generation, dialogue systems, text summarisation, metaphor processing, as well as representation learning for music and speech.
+I am [Professor of Natural Language Processing](https://research.manchester.ac.uk/en/persons/chenghua-lin) in the [Department of Computer Science](https://www.cs.manchester.ac.uk/), [The University of Manchester](https://www.manchester.ac.uk/). My research is centred around natural language processing and generation, machine learning, and the intersection between them. Specific interests include developing probabilistic generative and deep learning models for data-to-text generation, dialogue systems, text summarisation, metaphor processing, as well as representation learning for music and speech.
 My research has been funded by various funding bodies including: EPSRC, ESRC, Innovate UK, Royal Society, BBC Connected Studios, BBC News Lab. 
 
 For more info, please visit my [group page](https://lincedo-lab.github.io/).
