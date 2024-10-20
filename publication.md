@@ -346,7 +346,7 @@ Li X., <b>Lin C.</b>, Wang C., Li R., and Guerin F.
 <span class="blue-bold">The 37th International Conference on Machine Learning (ICML), Vienna, 2020</span>
 
 <span class="blue-italic">On the Low-density Latent Regions of VAE-based Language Models</span>  
-Li R., Peng X., <b>Lin C.</b>, Guerin F., and Rong E.  
+Li R., Peng X., <b>Lin C.</b>, Guerin F., and Rong W.  
 <span class="blue-bold">NeurIPS pre-registration workshop, 2020</span>
 
 <span class="blue-italic">Extractive and Abstractive Sentence Labelling of Sentiment-bearing Topics</span>  

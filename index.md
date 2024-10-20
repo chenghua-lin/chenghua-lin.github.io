@@ -10,18 +10,15 @@ Professor of Natural Language Processing \
 [Department of Computer Science](https://www.cs.manchester.ac.uk/) \
 [The University of Manchester](https://www.manchester.ac.uk/), UK
 
-[Lincedo Lab](https://lincedo-lab.github.io/)
-
-Email: chenghua.lin the_usual_sign manchester.ac.uk
-
+[Lincedo Lab](https://lincedo-lab.github.io/)  
+Email: chenghua.lin the_usual_sign manchester.ac.uk  
 Twitter: [@chenghua_lin](https://twitter.com/chenghua_lin)
 
 ***
 
-I am Professor of Natural Language Processing in the Department of Computer Science, the University of Manchester. My research is centred around natural language processing and generation, machine learning, and the intersection between them. Specific interests include developing probabilistic generative and deep learning models for data-to-text generation, dialogue systems, text summarisation, metaphor processing, as well as representation learning for music and speech. For more info, please visit my group page.
+I am Professor of Natural Language Processing in the [Department of Computer Science](https://www.cs.manchester.ac.uk/), [The University of Manchester](https://www.manchester.ac.uk/). My research is centred around natural language processing and generation, machine learning, and the intersection between them. Specific interests include developing probabilistic generative and deep learning models for data-to-text generation, dialogue systems, text summarisation, metaphor processing, as well as representation learning for music and speech. For more info, please visit my group page.
 
-I'm recruiting PhD students and postdocs. Please send me your CV with a publication list if you are interested. 
-Note that we do not have "research student" positions.
+I'm recruiting 1-2 PhD students for 2025 intake. Please send me your CV with a publication list if you are interested. 
 
 ***
 
@@ -61,27 +58,6 @@ Our technology covers from fine-grained lexical-level transformations to coarse-
 Related papers: [definition generation](https://aclanthology.org/2021.emnlp-main.194/), [controllable text simplification](https://aclanthology.org/P19-2036/), [CEFR-based lexical simplification](https://aclanthology.org/L18-1514/), [fill-in-the-blank quiz generation](https://aclanthology.org/P13-2043/)
 
 
-
-## Selected Recent Publications
-* Y. Ogasa, T. Kajiwara, Y. Arase. Controllable Paraphrase Generation for Semantic and Lexical Similarities, in Proc. of Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), pp. 3927–3942 (May 2024).
-* R. Miyano, T. Kajiwara, Y. Arase. Self-Ensemble of N-best Generation Hypotheses by Lexically Constrained Decoding, in Proc. of Conference on Empirical Methods in Natural Language Processing (EMNLP 2023), pp. 14653-14661 (Dec. 2023).
-* Y. Arase, H. Bao, and S. Yokoi. Unbalanced Optimal Transport for Unbalanced Word Alignment, in Proc. of the Annual Meeting of the Association for Computational Linguistics (ACL 2023), pp. 3966–3986 (July 2023).
-* Y. Arase, S. Uchida, and T. Kajiwara. CEFR-based Sentence Difficulty Annotation and Assessment, in Proc. of Conference on Empirical Methods in Natural Language Processing (EMNLP2022), pp. 6206-6219 (Dec. 2022).
-* Y. Kuroda, T. Kajiwara, Y. Arase, and T. Ninomiya. Adversarial Training on Disentangling Meaning and Language Representations for Unsupervised Quality Estimation, in Proc. of International Conference on Computational Linguistics (COLING 2022), pp. 5240-5245 (Oct. 2022).
-* H. Huang, T. Kajiwara, and Y. Arase. Definition Modelling for Appropriate Specificity, in Proc. of Conference on Empirical Methods in Natural Language Processing (EMNLP2021), pp. 2499–2509 (Nov. 2021).
-* N. Tiyajamorn, T. Kajiwara, Y. Arase, and M. Onizuka. Language-agnostic Representation from Multilingual Sentence Encoders for Cross-lingual Similarity Estimation, in Proc. of Conference on Empirical Methods in Natural Language Processing (EMNLP2021), pp. 7764–7774 (Nov. 2021).
-* Y. Arase and T. Kajiwara. Distilling Word Meaning in Context from Pre-trained Language Model, in Findings of the Association for Computational Linguistics: EMNLP 2021, pp. 534–546 (Nov. 2021). [code](https://github.com/yukiar/distil_wic)
-* J. Takayama, T. Kajiwara, and Y. Arase. DIRECT: Direct and Indirect Responses in Conversational Text Corpus, in Findings of the Association for Computational Linguistics: EMNLP 2021, pp. 1980–1989 (Nov. 2021). [data](https://github.com/junya-takayama/DIRECT)
-* S. Ohashi, J. Takayama, T. Kajiwara, and Y. Arase. Distinct Label Representations for Few-Shot Text Classification, in Proc. of the Annual Meeting of the Association for Computational Linguistics and International Joint Conference on Natural Language Processing (ACL-IJCNLP2021), pp. 831-836 (Aug. 2021).
-* Y. Arase and J. Tsujii: Transfer Fine-Tuning of BERT with Phrasal Paraphrases, in Computer Speech & Language, Vol. 66 (Mar. 2021). [paper](https://www.sciencedirect.com/science/article/pii/S0885230820300978) 
-* S. Ohashi, M. Isogawa, T. Kajiwara and Y. Arase: Tiny Word Embeddings Using Globally Informed Reconstruction, in Proc. of International Conference on Computational Linguistics (COLING2020), pp. 1199–1203 (Dec. 2020). 
-* Y. Arase and J. Tsujii: Compositional Phrase Alignment and Beyond, in Proc. of Conference on Empirical Methods in Natural Language Processing (EMNLP2020), pp. 1611–1623 (Nov. 2020). 
-* J. Takayama and Y. Arase: Consistent Response Generation with Controlled Specificity. in Proc. of Findings of the Association for Computational Linguistics: EMNLP 2020, pp. 4418–4427 (Nov. 2020). 
-* S. Ohashi, J. Takayama, T. Kajiwara, C. Chu, Y. Arase. Text Classification with Negative Supervision, in Proc. of Annual Meeting of the Association for Computational Linguistics (ACL 2020), pp. 351–357 (July 2020).
-* T. Kajiwara, B. Miura, and Y. Arase. Monolingual Transfer Learning via Bilingual Translators for Style-Sensitive Paraphrase Generation, in Proc. of the AAAI Conference on Artificial Intelligence (AAAI 2020), pp. 8042-8049, (Feb. 2020).
-* Y. Arase and J. Tsujii: Transfer Fine-Tuning: A BERT Case Study, Proc. of Conference on Empirical Methods in Natural Language Processing (EMNLP2019), pp. 5396–5407 (Nov. 2019).
-* J. Takayama, E. Nomoto, and Y. Arase: Dialogue Breakdown Detection Robust to Variations in Annotators and Dialogue Systems, Computer Speech & Language, Vol. 54, pp. 31-43 (Mar. 2019).
-* Y. Arase and J. Tsujii: SPADE: Evaluation Dataset for Monolingual Phrase Alignment, in Proc. of Language Resources and Evaluation Conference (LREC 2018), (May 2018).
 
 ## Academic Service
 * PC Chair: [IJCNLP-AACL2023](http://www.ijcnlp-aacl2023.org/), [SNL2021](http://www.am.sanken.osaka-u.ac.jp/SNL2021/index.html)
