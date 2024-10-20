@@ -35,4 +35,4 @@ For more info, please visit my [group page](https://lincedo-lab.github.io/).
 
 ## Personal  
 
-I am a die-hard fan of the 90s Chicago Bulls. I used to play basketball a lot and was part of the starting lineup for my school's basketball team at my university in Beijing. Our team won two championships in the college league, something I am very proud of. I stopped playing intensively after completely rupturing one of my Achilles tendons during a match. However, I still play for fun and very occasionally join the practice games of a team from the [Sheffield basketball league](https://www.sheffieldbasketball.co.uk/). 
+I am a die-hard fan of the 90s Chicago Bulls. I used to play basketball a lot and was part of the starting lineup for my school's basketball team at my university in Beijing. Our team won two championships in the college league, something I am very proud of. I stopped playing intensively after completely rupturing one of my Achilles tendons during a match. However, I still play for fun and very occasionally, join the practice games of a team from the [Sheffield basketball league](https://www.sheffieldbasketball.co.uk/). 
