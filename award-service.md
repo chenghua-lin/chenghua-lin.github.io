@@ -7,13 +7,13 @@
 ## Selected Awards
 
 * [CIKM 2020 Test of Time Award](http://cikmconference.org/cikmToTA.html) for the work on “Joint sentiment/topic model for sentiment analysis“
-* International Division Champion (Team Sheffield) of the 2020 China Collegiate Artificial Intelligence Innovation Contest (Team Supervisor)
+* <b>International Division Champion (Team Sheffield)</b> of the 2020 China Collegiate Artificial Intelligence Innovation Contest (Team Supervisor)
 * [SICSA Supervisor of the Year 2019 Award Honourable Mention](https://www.sicsa.ac.uk/news/congratulations-to-sicsa-supervisor-of-the-year-2019/) (I was one of the five recipients for the whole of Scotland)
-* Best Paper Award Runner-Up in the 12th International Conference on Natural Language Generation (INLG), Tokyo, 2019.
-* Best Paper Award in the 22nd International Conference on Natural Language & Information Systems (NLDB; 17% acceptance rate for full paper), sponsored by Springer, 2017.
-* Principal’s Excellence Fund, University of Aberdeen, 2014.
-* Merit Award for outstanding individual contribution to the research unit, Knowledge Media Institute, The Open University, UK, 2012.
-* Informatics Research Institute (IRI) prize for the best PhD student, University of Exeter, 2009
+* <b>Best Paper Award Runner-Up</b> in the 12th International Conference on Natural Language Generation (INLG), Tokyo, 2019.
+* <b>Best Paper Award</b> in the 22nd International Conference on Natural Language & Information Systems (NLDB; 17% acceptance rate for full paper), sponsored by Springer, 2017.
+* <b>Principal’s Excellence Fund</b>, University of Aberdeen, 2014.
+* <b>Merit Award</b> for outstanding individual contribution to the research unit, Knowledge Media Institute, The Open University, UK, 2012.
+* <b>Informatics Research Institute (IRI) prize</b> for the best PhD student, University of Exeter, 2009
 
 
 ##  Selected Services
