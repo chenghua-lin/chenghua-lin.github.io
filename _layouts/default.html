@@ -21,9 +21,9 @@
         {% endunless %}
 
         {% if page.page_logo %}
-          <img src="{{ page.page_logo | relative_url }}" alt="Page Logo" />
+        <img src="{{ page.page_logo | relative_url }}" alt="Page Logo" style="margin-top: 20px;" />
         {% elsif site.logo %}
-          <img src="{{ site.logo | relative_url }}" alt="Site Logo" />
+        <img src="{{ site.logo | relative_url }}" alt="Site Logo" style="margin-top: 20px;" />
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
