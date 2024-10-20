@@ -11,7 +11,8 @@ Professor of Natural Language Processing \
 [The University of Manchester](https://www.manchester.ac.uk/), UK
   
 <b>Email:</b> chenghua.lin the_usual_sign manchester.ac.uk  
-<b>X</b>: [@chenghua_lin](https://twitter.com/chenghua_lin)
+<b>X:</b> [@chenghua_lin](https://twitter.com/chenghua_lin)
+<b>Google Scholar Profile</b>(https://scholar.google.co.uk/citations?user=Tp1RdIQAAAAJ&hl=en)
 
 ***
 
