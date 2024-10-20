@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Publications"
 page_logo: "/assets/img/publications-logo.jpg"
 ---
