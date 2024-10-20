@@ -1,6 +1,6 @@
 ***
 
-[Publications](./publication.md) /  [Services] / [Google Scholar](https://scholar.google.com/citations?user=uoL1Wr0AAAAJ&hl=en) / [Code and Repos] / [Contact] /
+[Publications](./publication.md) /  [Awards and Services](./award-service.md) / [Google Scholar](https://scholar.google.com/citations?user=uoL1Wr0AAAAJ&hl=en) / [Code and Repos] / [Contact](./contact.md) /
 
 ***
 
