@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Publications"
-image: /assets/img/home.jpg
+page_logo: "/assets/img/publications-logo.jpg"
 ---
 
 ***
