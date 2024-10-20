@@ -20,7 +20,7 @@ I am [Professor of Natural Language Processing](https://research.manchester.ac.u
 My research primarily focuses on natural language processing and generation, machine learning, and their intersection. Some of my current interests include robustness in LLMs, LLMs for planning, evaluation methods and benchmarks, creative text generation, lay summarisation, metaphor processing, as well as representation learning for music and speech.
 My work has been supported by various funding bodies, including [EPSRC](https://www.ukri.org/councils/epsrc/), [ESRC](https://www.ukri.org/councils/esrc/), [Innovate UK](https://www.ukri.org/councils/innovate-uk/), [Royal Society](https://royalsociety.org/), [BBC Connected Studio](https://www.bbc.co.uk/rd/projects/connected-studio/), [BBC News Lab](https://www.bbc.co.uk/rdnewslabs/), and [Samsung Reasarch UK](https://research.samsung.com/sruk). 
 
-<! -- For more info, please visit my [group page](https://lincedo-lab.github.io/).-->
+<!-- For more info, please visit my [group page](https://lincedo-lab.github.io/).-->
 
 ***
 
