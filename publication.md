@@ -583,7 +583,7 @@ He Y., and <b>Lin C.</b>
 
 <span class="blue-italic">A Multi-agent System for Intelligent Pervasive Spaces</span>  
 Liu K., <b>Lin C.</b>, and Qiao B.  
-<span class="blue-bold">IEEE International Conference on Service Operations and Logistics, and Informatics (SOLI), Beijing, China, 2008</span>
+<span class="blue-bold">IEEE International Conference on Service Operations and Logistics, and Informatics (SOLI), 2008</span>
 
 <span class="blue-italic">Review of Computer Vision in Intelligent Environment Design</span>  
 <b>Lin C.</b>, Liu K., and Wei H.  
