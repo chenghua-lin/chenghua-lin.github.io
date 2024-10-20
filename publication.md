@@ -4,7 +4,7 @@
 
 # Publications
 
-[<p style="font-size: 16px;">Google Scholar Profile</p>](https://scholar.google.co.uk/citations?user=Tp1RdIQAAAAJ&hl=en)  
+[<span class="medium-text">Google Scholar Profile</span>](https://scholar.google.co.uk/citations?user=Tp1RdIQAAAAJ&hl=en)  
 
 ### 2024
 
