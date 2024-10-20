@@ -73,7 +73,7 @@ Yuan R., Lin H., Wang Y., Tian Z., Wu S., Shen T., Zhang G., Wu Y., Liu C., Zhou
 
 <span class="blue-italic">Overview of the BioLaySumm 2024 Shared Task on the Lay Summarization of Biomedical Research Articles</span>  
 Goldsack T., Scarton C., Shardlow M., <b>Lin C.</b>  
-<span class="blue-bold">The 23rd Workshop on Biomedical Natural Language Processing (BioNLP@ACL), 2024</span>
+<span class="blue-bold">BioNLP@ACL 2024</span>
 
 <span class="blue-italic">Effective Distillation of Table-based Reasoning Ability from LLMs</span>  
 Yang B., Tang C., Zhao K., Xiao C., <b>Lin C.</b>  
@@ -381,9 +381,8 @@ Mao R., <b>Lin C.</b>, and Guerin F.
 Li R., <b>Lin C.</b>, Collinson M., Li X., and Chen G.  
 <span class="blue-bold">CoNLL 2019</span>
 
-<span class="blue-italic">Proceedings of the 12th International Conference on Natural Language Generation (INLG)</span>  
+<span class="blue-italic">Proceedings of the 12th International Conference on Natural Language Generation (INLG), 2019</span>  
 van Deemter K., <b>Lin C.</b>, and Takamura H (Editors).  
-<span class="blue-bold">2019</span>
 
 <span class="blue-italic">A Stable Variational Autoencoder for Text Modelling</span>  
 Li R., Li X., <b>Lin C.</b>, Collinson M., and Mao R.  
@@ -431,9 +430,13 @@ Su J., <b>Lin C.</b>, Zhou M., Dai Q., and Lv H.
 Wibowo A., Siddharthan A., Masthoff J., and <b>Lin C.</b>  
 <span class="blue-bold">UMAP 2018</span>
 
+<span class="blue-italic">Assessing the Effectiveness of Affective Lexicons for Depression Classification</span>  
+Yusof N., <b>Lin C.</b>, and Guerin F.  
+<span class="blue-bold">NLDB 2018</span>
+
 <span class="blue-italic">Modelling Various Kinds of Specifications</span>  
 Chen G., van Deemter K., and <b>Lin C.</b>  
-<span class="blue-bold">International Workshop on Computational Models of Language Generation and Processing in Pragmatics (CoMPPrag), Germany, 2018</span>
+<span class="blue-bold">International Workshop on Computational Models of Language Generation and Processing in Pragmatics (CoMPPrag), 2018</span>
 
 <span class="blue-italic">Understanding how to Explain Package Recommendations in the Clothes Domain</span>  
 Wibowo A., Siddharthan A., Masthoff J., and <b>Lin C.</b>  
@@ -443,9 +446,6 @@ Wibowo A., Siddharthan A., Masthoff J., and <b>Lin C.</b>
 Mao R., Chen G., Li R., and <b>Lin C.</b>  
 <span class="blue-bold">SemEval@NAACL 2018</span>
 
-<span class="blue-italic">Assessing the Effectiveness of Affective Lexicons for Depression Classification</span>  
-Yusof N., <b>Lin C.</b>, and Guerin F.  
-<span class="blue-bold">NLDB 2018</span>
 
 ### 2017
 
@@ -455,7 +455,7 @@ Ibeke E., <b>Lin C.</b>, Wyner A., and Barawi M.
 
 <span class="blue-italic">Analysing the Causes of Depressed Mood from Depression Vulnerable Individuals</span>  
 Yusof N., <b>Lin C.</b>, and Guerin F.  
-<span class="blue-bold">The International Workshop on Digital Disease Detection using Social Media at the 8th International Joint Conference on Natural Language Processing (IJCNLP), 2017</span>
+<span class="blue-bold">The International Workshop on Digital Disease Detection using Social Media at the International Joint Conference on Natural Language Processing (IJCNLP), 2017</span>
 
 <span class="blue-italic">Automatically Labelling Sentiment-bearing Topics with Descriptive Sentence Labels</span>  
 Barawi M., <b>Lin C.</b>, and Siddharthan A.  
@@ -507,7 +507,7 @@ Han X., Sripada S., and <b>Lin C.</b>
 
 <span class="blue-italic">Expressing Quantities in Words: Towards a Computational Model</span>  
 Li X., van Deemter K., and <b>Lin C.</b>  
-<span class="blue-bold">SICSA 1st International Workshop on Data2Text Generation, Edinburgh, UK, 2015</span>
+<span class="blue-bold">SICSA 1st International Workshop on Data2Text Generation, Edinburgh, 2015</span>
 
 ### 2014
 
@@ -553,10 +553,6 @@ He Y., <b>Lin C.</b>, Gao W., and Wong K.
 Pedrinaci C., Liu D., <b>Lin C.</b>, and Domingue J.  
 <span class="blue-bold">AAAI Spring Symposium Series, 2012</span>
 
-<span class="blue-italic">Probabilistic topic models for sentiment analysis on the Web</span>  
-<b>Lin C.</b>  
-<span class="blue-bold">University of Exeter, 2011</span>
-
 <span class="blue-italic">Weakly-Supervised Joint Sentiment-Topic Detection from Text</span>  
 <b>Lin C.</b>, He Y., Everson R., and Rueger S.  
 <span class="blue-bold">IEEE Transactions on Knowledge and Data Engineering (TDKE), 2011</span>
@@ -590,7 +586,14 @@ Liu K., <b>Lin C.</b>, and Qiao B.
 <span class="blue-bold">SSE System Engineering Conference, Reading, UK, 2008</span>
 
 
-### Technical Reports:
+### PhD Thesis
+
+<span class="blue-italic">Probabilistic topic models for sentiment analysis on the Web</span>  
+<b>Lin C.</b>  
+<span class="blue-bold">University of Exeter, 2011</span>
+
+
+### Technical Reports
 
 <span class="blue-italic">emantic Architecture, SWS selection and deployment, and Data Interface analysis</span>  
 González N., <b>Lin C.</b>, Predinaci C. and Pariente T. 
