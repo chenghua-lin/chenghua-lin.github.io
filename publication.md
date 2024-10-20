@@ -4,8 +4,6 @@
 
 ***
 
-![Publications Image](/assets/img/home.jpg)
-
 # Publications
 
 [<span class="medium-text">Google Scholar Profile</span>](https://scholar.google.co.uk/citations?user=Tp1RdIQAAAAJ&hl=en)  
