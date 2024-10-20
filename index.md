@@ -27,8 +27,8 @@ For more info, please visit my [group page](https://lincedo-lab.github.io/).
 ## News
 * I'm recruiting **1-2 PhD students for 2025 intake**. Please send me your CV with a publication list if you are interested. 
 * One long paper accepted to Computatinal Linguistics  
-* 5 papers accepted to EMNLP 2024 (3 main and 2 findings)  
-
+* 5 papers accepted to EMNLP 2024   
+* 6 papers accepted to ACL 2024 
 
 
 ## Personal  
