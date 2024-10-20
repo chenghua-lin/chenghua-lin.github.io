@@ -4,7 +4,7 @@
 
 ***
 
-![Publications Image](/assets/images/home.jpg)
+![Publications Image](/assets/img/home.jpg)
 
 # Publications
 
