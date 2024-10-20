@@ -596,10 +596,10 @@ Liu K., <b>Lin C.</b>, and Qiao B.
 ### Technical Reports
 
 <span class="blue-italic">emantic Architecture, SWS selection and deployment, and Data Interface analysis</span>  
-González N., <b>Lin C.</b>, Predinaci C. and Pariente T. 
+González N., <b>Lin C.</b>, Predinaci C. and Pariente T.  
 <span class="blue-bold">VPH-Share project deliverable (FP7-ICT-269978-D4.2), 2012</span>
 
 <span class="blue-italic">Annotation Recommendation for the Semantic Description of RESTful Web Services</span>  
-Ph. Beaune, Pedrinaci C. and <b>Lin C.</b>
+Ph. Beaune, Pedrinaci C. and <b>Lin C.</b>  
 <span class="blue-bold">Knowledge Media Institute, 2012</span>
 
