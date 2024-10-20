@@ -18,20 +18,20 @@
 
 ##  Selected Services
 
-* Secretary and Board member of [ACL SIGGEN](https://aclweb.org/aclwiki/SIGGEN)  
-* Committee Member of the [IEEE Speech and Language Processing Technical Committee](https://signalprocessingsociety.org/community-involvement/speech-and-language-processing)  
-* Documentation Chair for ACL 2025    
-* Publication Chair for ACL 2023  
-* Workshop Chair AACL-IJCNLP 2022  
-* Programme Co-Chair: The 12th International Conference on Natural Language Generation (INLG), Tokyo, 2019.
-* Senior Area Chair: NAACL 2025, ACL 2023, EACL 2023, ACL 2022, EMNLP 2020  
-* Area Chair: NAACL 2024, LREC-COLING 2024, EMNLP 2021, *SEM 2023, NLPCC 2024, NLPCC 2022, INLG 2020  
-* Senior Program Committee mMember: IJCAI 2021  
-* Meta Reviewer: ICASSP 2023, 2024  
-* Associate Editor for Computer Speech and Language (2022 – )
-* Associate Editor for Neurocomputing (2019 – 2022)
-* Standing Reviewer for Computational Linguistics (2020 – )
-* Standing Reviewer for TACL (2021 – 2023)
-* Lead Guest Editor of the 2nd Special Issue on Natural Language Generation in the Computer Speech and Language Journal (Other Guest Editors: Prof. Ehud Reiter, University of Aberdeen; Dr. Angela Fan, Facebook AI / LORIA; Dr. Carlo Allocca, Samsung Research).
-* Lead Guest Editor of the Special Issue on Natural Language Generation in the Computer Speech and Language Journal.
+* <b>Secretary and Board member</b> of [ACL SIGGEN](https://aclweb.org/aclwiki/SIGGEN)  
+* <b>Committee Member</b> of the [IEEE Speech and Language Processing Technical Committee](https://signalprocessingsociety.org/community-involvement/speech-and-language-processing)  
+* <b>Documentation Chair</b> for ACL 2025    
+* <b>Publication Chair</b> for ACL 2023  
+* <b>Workshop Chair</b> for AACL-IJCNLP 2022  
+* <b>Programme Co-Chair</b>: The 12th International Conference on Natural Language Generation (INLG), Tokyo, 2019.
+* <b>Senior Area Chair</b>: NAACL 2025, ACL 2023, EACL 2023, ACL 2022, EMNLP 2020  
+* <b>Area Chair</b>: NAACL 2024, LREC-COLING 2024, EMNLP 2021, *SEM 2023, NLPCC 2024, NLPCC 2022, INLG 2020  
+* <b>Senior Program Committee Member</b>: IJCAI 2021  
+* <b>Meta Reviewer</b>: ICASSP 2023, 2024  
+* <b>Associate Editor</b> for Computer Speech and Language (2022 – )
+* <b>Associate Editor</b> for Neurocomputing (2019 – 2022)
+* <b>Standing Reviewer</b> for Computational Linguistics (2020 – )
+* <b>Standing Reviewer</b> for TACL (2021 – 2023)
+* <b>Lead Guest Editor</b> of the 2nd Special Issue on Natural Language Generation in the Computer Speech and Language Journal (Other Guest Editors: Prof. Ehud Reiter, University of Aberdeen; Dr. Angela Fan, Facebook AI / LORIA; Dr. Carlo Allocca, Samsung Research).
+* <b>Lead Guest Editor</b> of the Special Issue on Natural Language Generation in the Computer Speech and Language Journal.
 
