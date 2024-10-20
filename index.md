@@ -31,7 +31,7 @@ For more info, please visit my [group page](https://lincedo-lab.github.io/).
 (Last update: 20/10/2024)
 
 
-## Personal Interests
+## Personal  
 For more details, please see [Research](./research.md) page.
 
 #### Paraphrase generation & recognition
