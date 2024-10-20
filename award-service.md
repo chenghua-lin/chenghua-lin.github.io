@@ -17,7 +17,7 @@ page_logo: "/assets/img/home.jpg"
 * <b>Best Paper Award Runner-Up</b> in the 12th International Conference on Natural Language Generation (INLG), Tokyo, 2019.
 * <b>Best Paper Award</b> in the 22nd International Conference on Natural Language & Information Systems (NLDB; 17% acceptance rate for full paper), sponsored by Springer, 2017.
 * <b>Principal’s Excellence Fund</b>, University of Aberdeen, 2014.
-* <b>Merit Award</b> for outstanding individual contribution to the research unit, Knowledge Media Institute, The Open University, UK, 2012.
+* <b>Merit Award</b> for outstanding individual contribution to the research unit, Knowledge Media Institute, 2012.
 * <b>Informatics Research Institute (IRI) prize</b> for the best PhD student, University of Exeter, 2009
 
 
