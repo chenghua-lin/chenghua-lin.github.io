@@ -25,7 +25,7 @@ For more info, please visit my [group page](https://lincedo-lab.github.io/).
 
 
 ## News
-* I'm recruiting 1-2 PhD students for 2025 intake. Please send me your CV with a publication list if you are interested. 
+* I'm recruiting **1-2 PhD students for 2025 intake**. Please send me your CV with a publication list if you are interested. 
 * Our paper has been accepted by EMNLP2024 Findings: T. Zetsu, Y. Arase, and T. Kajiwara. Edit-Constrained Decoding for Sentence Simplification, in Proc. of EMNLP 2024 Findings (Nov. 2024 to appear).
 
 (Last update: 20/10/2024)
