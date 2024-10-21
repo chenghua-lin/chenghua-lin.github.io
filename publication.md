@@ -37,7 +37,7 @@ James J., Xiao C., Li Y. and <b>Lin C.</b>
 
 <span class="blue-italic">An Open-Source Data Contamination Report for Large Language Models</span>  
 Li Y., Guo Y., Guerin F. and <b>Lin C.</b>  
-<span class="blue-bold">EMNLP Findings, 2024</span>
+<span class="blue-bold">EMNLP-Findings 2024</span>
 
 <span class="blue-italic">Increasing the Difficulty of Automatically Generated Questions via Reinforcement Learning with Synthetic Preference</span>  
 Thorne W., Robinson A., Peng B., <b>Lin C.</b> and Maynard D.  
@@ -61,7 +61,7 @@ Liu Y., Moosavi N. and <b>Lin C.</b>
 
 <span class="blue-italic">SciMMIR: Benchmarking Scientific Multi-modal Information Retrieval</span>  
 Wu S., Li Y., Zhu K., Zhang G., Liang Y., Ma K., Xiao C., Yang B., Chen W., Huang W., Moubayed N., Fu J. and <b>Lin C.</b>*  
-<span class="blue-bold">ACL-Findings 2024.</span>
+<span class="blue-bold">ACL-Findings 2024</span>
 
 <span class="blue-italic">SLIDE: A Framework Integrating Small and Large Language Models for Open-Domain Dialogues Evaluation</span>  
 Zhao K., Yang B., Tang C., <b>Lin C.</b>* and Zhan L.  
