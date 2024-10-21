@@ -16,6 +16,7 @@ page_logo: "/assets/img/home.jpg"
 * [SICSA Supervisor of the Year 2019 Award Honourable Mention](https://www.sicsa.ac.uk/news/congratulations-to-sicsa-supervisor-of-the-year-2019/) (I was one of the five recipients for the whole of Scotland)
 * <b>Best Paper Award Runner-Up</b> in the 12th International Conference on Natural Language Generation (INLG), Tokyo, 2019.
 * <b>Best Paper Award</b> in the 22nd International Conference on Natural Language & Information Systems (NLDB; 17% acceptance rate for full paper), sponsored by Springer, 2017.
+* <b>Outstanding Reviwer</b> for ACL 2018. 
 * <b>Principal’s Excellence Fund</b>, University of Aberdeen, 2014.
 * <b>Merit Award</b> for outstanding individual contribution to the research unit, Knowledge Media Institute, 2012.
 * <b>Informatics Research Institute (IRI) prize</b> for the best PhD student, University of Exeter, 2009
