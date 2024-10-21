@@ -28,7 +28,11 @@
         <img src="{{ site.logo | relative_url }}" alt="Site Logo" style="margin-top: 40px;" />
         {% endif %}
 
+        {% if page.url == "/group/" %}
+        <p>Group Photo</p>
+        {% else %}
         <p>{{ site.description | default: site.github.project_tagline }}</p>
+        {% endif %}
 
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
