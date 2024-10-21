@@ -27,7 +27,7 @@ My work has been supported by various funding bodies, including [EPSRC](https://
 
 ## News
 * I'm recruiting **1-2 PhD students for 2025 intake**. Please send me your CV with a publication list if you are interested. 
-* One long paper accepted to Computatinal Linguistics  
+* One long paper accepted to Computational Linguistics  
 * 5 papers accepted to EMNLP 2024   
 * 6 papers accepted to ACL 2024 
 
