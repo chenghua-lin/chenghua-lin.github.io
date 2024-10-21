@@ -1,6 +1,6 @@
 ---
 title: "Publications"
-page_logo: "/assets/img/p_chenghua.png"
+page_logo: "/assets/img/home2.jpg"
 ---
 
 ***
