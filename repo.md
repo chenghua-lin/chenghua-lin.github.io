@@ -1,6 +1,6 @@
 ---
 title: "Publications"
-page_logo: "/assets/img/honda.jpg"
+page_logo: "/assets/img/Honda.jpg"
 ---
 
 ***
