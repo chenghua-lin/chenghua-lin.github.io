@@ -1,5 +1,5 @@
 ---
-title: "Publications"
+title: "Group"
 page_logo: "/assets/img/Group-pic2.webp"
 ---
 

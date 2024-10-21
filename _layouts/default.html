@@ -28,7 +28,7 @@
         <img src="{{ site.logo | relative_url }}" alt="Site Logo" style="margin-top: 40px;" />
         {% endif %}
 
-        {% if page.url == "/group/" %}
+        {% if page.title == "Group" %}
         <p>Group Photo</p>
         {% else %}
         <p>{{ site.description | default: site.github.project_tagline }}</p>
