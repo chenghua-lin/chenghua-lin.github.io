@@ -9,4 +9,4 @@ page_logo: "/assets/img/Taiwan.jpg"
 
 ***
 
-I have been very fortunate to have a group of smart and highly diligent PhD students working with me. They have inspired me in many ways.  
+I have been very fortunate to have a group of very smart and highly diligent PhD students working with me. They have inspired me in many ways.  
