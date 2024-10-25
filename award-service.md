@@ -31,7 +31,7 @@ page_logo: "/assets/img/home.jpg"
 * <b>Workshop Chair</b> for AACL-IJCNLP 2022  
 * <b>Programme Co-Chair</b>: The 12th International Conference on Natural Language Generation (INLG), Tokyo, 2019.
 * <b>Senior Area Chair</b>: NAACL 2025, ACL 2023, EACL 2023, ACL 2022, EMNLP 2020  
-* <b>Area Chair</b>: NAACL 2024, LREC-COLING 2024, EMNLP 2021, *SEM 2023, NLPCC 2024, NLPCC 2022, INLG 2020 (I lose track of many ...)  
+* <b>Area Chair</b>: NAACL 2024, LREC-COLING 2024, NLPCC 2024, EMNLP 2021, *SEM 2023, NLPCC 2022, INLG 2020 (I lose track of many ...)  
 * <b>Senior Program Committee Member</b>: IJCAI 2021  
 * <b>Meta Reviewer</b>: ICASSP 2023, 2024  
 * <b>Associate Editor</b> for Computer Speech and Language (2022 – )
