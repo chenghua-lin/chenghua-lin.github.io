@@ -6,7 +6,7 @@
 
 # Chenghua Lin
 
-Professor, Chair in Natural Language Processing \
+Full Professor, Chair in Natural Language Processing \
 [Department of Computer Science](https://www.cs.manchester.ac.uk/) \
 [The University of Manchester](https://www.manchester.ac.uk/), UK
   
