@@ -72,7 +72,7 @@ Li Y., Zhang G., Qu X., Li J., Li Z., Wang Z., Li H., Yuan R., Ma Y., Zhou W., L
 <span class="blue-bold">ACL-Findings 2024</span>
 
 <span class="blue-italic">ChatMusician: Understanding and Generating Music Intrinsically with LLM</span>  
-Yuan R., Lin H., Wang Y., Tian Z., Wu S., Shen T., Zhang G., Wu Y., Liu C., Zhou Z., Xue L., Ma Z., Liu Q., Li Y., Ma Y., Lian Y., Chi X., Liu R., Wang Z., <b>Lin C.</b>, Huang W., Chen W., Fu J., Benetos E., Dannenberg R., Xue W., Kang S., Guo Y.  
+Yuan R., Lin H., Wang Y., Tian Z., Wu S., Shen T., Zhang G., Wu Y., Liu C., Zhou Z., Xue L., Ma Z., Liu Q., Li Y., Ma Y., Liang Y., Chi X., Liu R., Wang Z., <b>Lin C.</b>, Huang W., Fu J., Benetos E., Dannenberg R., Xue W., Kang S., Guo Y.  
 <span class="blue-bold">ACL-Findings 2024</span>
 
 <span class="blue-italic">Overview of the BioLaySumm 2024 Shared Task on the Lay Summarization of Biomedical Research Articles</span>  
