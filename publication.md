@@ -147,7 +147,7 @@ Bai J., Zhang X., Li C., Hong H., Xu X., <b>Lin C.</b>, Rong W.
 
 <span class="blue-italic">LATENTLOGIC: Learning Logic Rules in Latent Space over Knowledge Graphs</span>  
 Liu J., Mao Q., <b>Lin C.</b>, Song Y., Li J.  
-<span class="blue-bold">EMNLP Findings 2023</span>
+<span class="blue-bold">EMNLP Findings-2023</span>
 
 <span class="blue-italic">MARBLE: Music Audio Representation Benchmark for Universal Evaluation</span>  
 Yuan R., Ma Y., Li Y., Zhang G., Chen X., Yin H., Zhuo L., Liu Y., Huang J., Tian J., Deng B., Wang N., <b>Lin C.</b>*, Benetos E., Ragni A., Gyenge N., Dannenberg R., Chen W., Xia G., Xue W., Liu S., Wang S., Liu R., Guo Y., Fu J.  
