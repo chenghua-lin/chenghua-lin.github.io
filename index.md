@@ -8,7 +8,7 @@
 
 Professor, Chair in Natural Language Processing \
 [Department of Computer Science](https://www.cs.manchester.ac.uk/) \
-[The University of Manchester](https://www.manchester.ac.uk/), UK
+[The University of Manchester](https://www.manchester.ac.uk/about/rankings/), UK
   
 <b>Email:</b> chenghua.lin the_usual_sign manchester.ac.uk  
 <b>X:</b> [@chenghua_lin](https://x.com/chenghua_lin)  
