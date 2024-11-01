@@ -293,10 +293,6 @@ Tang C., Li Y., Guerin F., and <b>Lin C.</b>
 
 ### 2021
 
-<span class="blue-italic">Semi-deterministic and Contrastive Variational Graph Autoencoder for Recommendation</span>  
-Ding Y., Shi Y., Chen B., <b>Lin C.</b>, Lu H., Tang R., and Wang D.  
-<span class="blue-bold">CIKM 2021</span>
-
 <span class="blue-italic">Guiding the Growth: Difficulty-Controllable Question Generation through Step-by-Step Rewriting</span>  
 Cheng Y., Li S., Liu B., Zhao R., <b>Lin C.</b>, and Zheng Y.  
 <span class="blue-bold">ACL 2021</span>
@@ -316,6 +312,10 @@ Peng X., Chen G., <b>Lin C.</b>, Stevenson M.
 <span class="blue-italic">Summarising Historical Text in Modern Languages</span>  
 Peng X., Zheng Y., <b>Lin C.</b>, and Siddharthan A.  
 <span class="blue-bold">EACL 2021</span>
+
+<span class="blue-italic">Semi-deterministic and Contrastive Variational Graph Autoencoder for Recommendation</span>  
+Ding Y., Shi Y., Chen B., <b>Lin C.</b>, Lu H., Tang R., and Wang D.  
+<span class="blue-bold">CIKM 2021</span>
 
 <span class="blue-italic">Affective Decoding for Empathetic Response Generation</span>  
 Zeng C., Chen G., <b>Lin C.</b>, Li R., and Chen Z.  
