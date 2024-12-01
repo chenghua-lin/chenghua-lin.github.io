@@ -31,8 +31,8 @@ My work has been supported by various funding bodies, including [EPSRC](https://
 * 5 papers accepted to EMNLP 2024   
 * 6 papers accepted to ACL 2024 
 
-***
+<!-- ***
 
 ## Personal  
 
-I am a die-hard fan of the [90s Chicago Bulls](https://en.wikipedia.org/wiki/Chicago_Bulls). I used to play basketball a lot and was part of the starting lineup for my school's basketball team at my university in Beijing. Our team won two championships in the college league, which I am quite proud of, even though the matches were amateur. I stopped playing intensively after completely rupturing one of my [Achilles tendons](https://en.wikipedia.org/wiki/Achilles_tendon_rupture) during a match. Nevertheless, I still play for fun and occasionally, join the practice games of a team from the [Sheffield basketball league](https://www.sheffieldbasketball.co.uk/). 
+I am a die-hard fan of the [90s Chicago Bulls](https://en.wikipedia.org/wiki/Chicago_Bulls). I used to play basketball a lot and was part of the starting lineup for my school's basketball team at my university in Beijing. Our team won two championships in the college league, which I am quite proud of, even though the matches were amateur. I stopped playing intensively after completely rupturing one of my [Achilles tendons](https://en.wikipedia.org/wiki/Achilles_tendon_rupture) during a match. Nevertheless, I still play for fun and occasionally, join the practice games of a team from the [Sheffield basketball league](https://www.sheffieldbasketball.co.uk/). -->
