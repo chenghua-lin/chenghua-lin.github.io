@@ -13,6 +13,22 @@ page_logo: "/assets/img/beihai.jpg"
 
 [<span class="medium-text">Google Scholar Profile</span>](https://scholar.google.co.uk/citations?user=Tp1RdIQAAAAJ&hl=en)  
 
+
+### 2025
+
+<span class="blue-italic">Tougher Text, Smarter Models: Raising the Bar for Adversarial Defence Benchmarks</span>  
+Wang Y. and <b>Lin C.</b>  
+<span class="blue-bold">COLING 2025</span>
+
+<span class="blue-italic">From Facts to Insights: A Study on the Generation and Evaluation of Analytical Reports for Deciphering Earnings Calls</span>
+Goldsack T., Wang Y., <b>Lin C.</b> and Chen C.
+<span class="blue-bold">COLING 2025</span>
+
+<span class="blue-italic">Disentangling Preference Representation and Text Generation for Efficient Individual Preference Alignment</span>  
+Zhang J., Bai J., Li B., Wang Y., Li R., <b>Lin C.</b> and Rong W.
+<span class="blue-bold">COLING 2025</span>
+
+
 ### 2024
 
 <span class="blue-italic">Train & Constrain: Phonologically Informed Tongue-Twister Generation from Topics and Paraphrases</span>  
