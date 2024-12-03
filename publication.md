@@ -20,7 +20,7 @@ page_logo: "/assets/img/beihai.jpg"
 Wang Y. and <b>Lin C.</b>  
 <span class="blue-bold">COLING 2025</span>
 
-<span class="blue-italic">From Facts to Insights: A Study on the Generation and Evaluation of Analytical Reports for Deciphering Earnings Calls</span> 
+<span class="blue-italic">From Facts to Insights: A Study on the Generation and Evaluation of Analytical Reports for Deciphering Earnings Calls</span>  
 Goldsack T., Wang Y., <b>Lin C.</b> and Chen C. 
 <span class="blue-bold">COLING 2025</span>
 
