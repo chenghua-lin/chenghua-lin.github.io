@@ -271,6 +271,10 @@ Huang L., Tang C., Loakman T., Guerin F., and <b>Lin C.</b>
 Li Y., Zhang G., Yang B., <b>Lin C.</b>, Ragni A., Wang S., and Fu J.  
 <span class="blue-bold">AACL-Findings 2022</span>
 
+<span class="blue-italic">Map-music2vec: A simple and effective baseline for self-supervised music audio representation learning</span>  
+Li Y., Yang R., Zhang G., Ma Y.,  <b>Lin C.*</b>, Chen X., Ragni A., Yin H., Hu Z., He H., Benetos E., Gyenge N. Liu R. and Fu J.  
+<span class="blue-bold">ISMIR 2022</span>
+
 <span class="blue-italic">Adaptive Pre-training and Collaborative Fine-tuning: a Win-Win Strategy to Improve Review Analysis Tasks</span>  
 Mao Q., Li J., <b>Lin C.</b>, Chen C., Peng H., Wang L., and Yu Philip S.  
 <span class="blue-bold">IEEE Transactions on Audio, Speech and Language Processing (TASLP), 2022</span>
