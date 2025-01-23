@@ -16,8 +16,27 @@ page_logo: "/assets/img/beihai.jpg"
 
 ### 2025
 
+<span class="blue-italic">CAST: Corpus-Aware Self-similarity Enhanced Topic modelling</span>  
+Ma Y., Xiao C., Yuan C., van der Veer S., Hassan L., <b>Lin C.</b>  and  Nenadic G.  
+<span class="blue-bold">NAACL 2025</span> 
+
+<span class="blue-italic">Lightweight Contenders: Navigating Semi-Supervised Text Mining through Peer Collaboration and Self Transcendence</span>  
+Mao Q., Jiang W., Liu J., <b>Lin C.</b>, Li Q., Wen X., Li J. and Lu J.   
+<span class="blue-bold">NAACL-Findings 2025</span> 
+
+<span class="blue-italic">LVPruning: An Effective yet Simple Language-Guided Vision Token Pruning Approach for Multi-modal Large Language Models</span>  
+Sun Y., Xin Y., Li H., Sun J., <b>Lin C.</b> and  Batista-Navarro R. 
+<span class="blue-bold">NAACL-Findings 2025</span> 
+
+<span class="blue-italic">COIG-CQIA: Quality is All You Need for Chinese Instruction Fine-tuning</span>  
+Bai Y., Du X., Liang Y., Jin L., Zhou J., Liu Z., Fang F., Chang M., Zheng T., Zhang X., Ma N., Wang Z., Yuan R., Wu H., Lin H., Huang S., Zhang J., <b>Lin C.</b>, et al. 
+<span class="blue-bold">NAACL-Findings 2025</span> 
+
+<span class="blue-italic">MuPT: A Generative Symbolic Music Pretrained Transformer</span>  
+Qu X., Bai Y., Ma Y., Zhou Z., Lo K., Liu J., Yuan R., Min L., Liu X., Zhang T., Du X., Guo S., Liang Y., Li Y., Wu S., Zhou J., Zheng T., Ma Z., Han F., Xue W., Xia G., Benetos E., Yue X., <b>Lin C.</b>, Tan X., Huang W., Fu J., Zhang G.<span class="blue-bold">ICLR 2025</span> 
+
 <span class="blue-italic">Tougher Text, Smarter Models: Raising the Bar for Adversarial Defence Benchmarks</span>  
-Wang Y. and <b>Lin C.</b>  
+. <b>Lin C.</b>  
 <span class="blue-bold">COLING 2025</span> 
 
 <span class="blue-italic">From Facts to Insights: A Study on the Generation and Evaluation of Analytical Reports for Deciphering Earnings Calls</span>  
