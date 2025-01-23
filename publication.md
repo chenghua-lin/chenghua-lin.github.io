@@ -29,7 +29,7 @@ Sun Y., Xin Y., Li H., Sun J., <b>Lin C.</b> and  Batista-Navarro R.
 <span class="blue-bold">NAACL-Findings 2025</span>  
 
 <span class="blue-italic">COIG-CQIA: Quality is All You Need for Chinese Instruction Fine-tuning</span>  
-Bai Y., Du X., Liang Y., Jin L., Zhou J., Liu Z., Fang F., Chang M., Zheng T., Zhang X., Ma N., Wang Z., Yuan R., Wu H., Lin H., Huang S., Zhang J., <b>Lin C.</b>, et al.  
+Bai Y., Du X., Liang Y., Jin L., Zhou J., Liu Z., Fang F., Chang M., Zheng T., Zhang X., Ma N., Wang Z., Yuan R., Wu H., Lin H., Huang S., Zhang J., <b>Lin C.</b>, Fu J., Yang M., Ni S., and Zhang G.
 <span class="blue-bold">NAACL-Findings 2025</span> 
 
 <span class="blue-italic">MuPT: A Generative Symbolic Music Pretrained Transformer</span>  
