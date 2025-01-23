@@ -24,9 +24,9 @@ Ma Y., Xiao C., Yuan C., van der Veer S., Hassan L., <b>Lin C.</b>  and  Nenadic
 Mao Q., Jiang W., Liu J., <b>Lin C.</b>, Li Q., Wen X., Li J. and Lu J.   
 <span class="blue-bold">NAACL-Findings 2025</span> 
 
-<span class="blue-italic">LVPruning: An Effective yet Simple Language-Guided Vision Token Pruning Approach for Multi-modal Large Language Models</span>  
-Sun Y., Xin Y., Li H., Sun J., <b>Lin C.</b> and  Batista-Navarro R. 
-<span class="blue-bold">NAACL-Findings 2025</span> 
+<span class="blue-italic">LVPruning: An Effective yet Simple Language-Guided Vision Token Pruning Approach for Multi-modal Large Language Models</span>   
+Sun Y., Xin Y., Li H., Sun J., <b>Lin C.</b> and  Batista-Navarro R.  
+<span class="blue-bold">NAACL-Findings 2025</span>  
 
 <span class="blue-italic">COIG-CQIA: Quality is All You Need for Chinese Instruction Fine-tuning</span>  
 Bai Y., Du X., Liang Y., Jin L., Zhou J., Liu Z., Fang F., Chang M., Zheng T., Zhang X., Ma N., Wang Z., Yuan R., Wu H., Lin H., Huang S., Zhang J., <b>Lin C.</b>, et al. 
