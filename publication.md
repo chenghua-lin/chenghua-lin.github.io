@@ -37,7 +37,7 @@ Qu X., Bai Y., Ma Y., Zhou Z., Lo K., Liu J., Yuan R., Min L., Liu X., Zhang T.,
 <span class="blue-bold">ICLR 2025</span> 
 
 <span class="blue-italic">Tougher Text, Smarter Models: Raising the Bar for Adversarial Defence Benchmarks</span>  
-. <b>Lin C.</b>  
+Wang Y. and <b>Lin C.</b>  
 <span class="blue-bold">COLING 2025</span> 
 
 <span class="blue-italic">From Facts to Insights: A Study on the Generation and Evaluation of Analytical Reports for Deciphering Earnings Calls</span>  
