@@ -50,11 +50,11 @@ Qu X., Bai Y., Ma Y., Zhou Z., Lo K., Liu J., Yuan R., Min L., Liu X., Zhang T.,
 
 <span class="blue-italic">I-SHEEP: Self-Alignment of LLM from Scratch through an Iterative Self-Enhancement Paradigm</span>  
 Liang Y., Zhang G., Qu W., Zheng T., Guo J., Du X., Yang Z., Liu J., <b>Lin C.</b>, Ma L., Huang W., Zhang J.  
-<span class="blue-bold"> SSI-FM@ICLR 2025</span> 
+<span class="blue-bold"> Scaling Self-Improving Foundation Models without Human Supervision Workshop @ICLR 2025</span> 
 
 <span class="blue-italic">Kun: Answer Polishment for Chinese Self-Alignment with Instruction Back-Translation</span>  
 Zheng T., Guo S., Qu X., Guo J., Du X., Jia Q., <b>Lin C.</b>, Huang W., Fu J., Ge Zhang G.  
-<span class="blue-bold"> SSI-FM@ICLR 2025</span> 
+<span class="blue-bold"> Scaling Self-Improving Foundation Models without Human Supervision Workshop @ICLR 2025</span> 
 
 
 
