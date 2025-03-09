@@ -36,6 +36,14 @@ Bai Y., Du X., Liang Y., Jin L., Zhou J., Liu Z., Fang F., Chang M., Zheng T., Z
 Qu X., Bai Y., Ma Y., Zhou Z., Lo K., Liu J., Yuan R., Min L., Liu X., Zhang T., Du X., Guo S., Liang Y., Li Y., Wu S., Zhou J., Zheng T., Ma Z., Han F., Xue W., Xia G., Benetos E., Yue X., <b>Lin C.</b>, Tan X., Huang W., Fu J., Zhang G.  
 <span class="blue-bold">ICLR 2025</span> 
 
+<span class="blue-italic">I-SHEEP: Self-Alignment of LLM from Scratch through an Iterative Self-Enhancement Paradigm</span>  
+Liang Y., Zhang G., Qu W., Zheng T., Guo J., Du X., Yang Z., Liu J., <b>Lin C.</b>, Ma L., Huang W., Zhang J.  
+<span class="blue-bold"> SSI-FM@ICLR 2025</span> 
+
+<span class="blue-italic">Kun: Answer Polishment for Chinese Self-Alignment with Instruction Back-Translation</span>  
+Zheng T., Guo S., Qu X., Guo J., Du X., Jia Q., <b>Lin C.</b>, Huang W., Fu J., Ge Zhang G.  
+<span class="blue-bold"> SSI-FM@ICLR 2025</span> 
+
 <span class="blue-italic">Tougher Text, Smarter Models: Raising the Bar for Adversarial Defence Benchmarks</span>  
 Wang Y. and <b>Lin C.</b>  
 <span class="blue-bold">COLING 2025</span> 
