@@ -32,6 +32,18 @@ Sun Y., Xin Y., Li H., Sun J., <b>Lin C.</b> and  Batista-Navarro R.
 Bai Y., Du X., Liang Y., Jin L., Zhou J., Liu Z., Fang F., Chang M., Zheng T., Zhang X., Ma N., Wang Z., Yuan R., Wu H., Lin H., Huang S., Zhang J., <b>Lin C.</b>, Fu J., Yang M., Ni S., and Zhang G.  
 <span class="blue-bold">NAACL-Findings 2025</span> 
 
+<span class="blue-italic">Tougher Text, Smarter Models: Raising the Bar for Adversarial Defence Benchmarks</span>  
+Wang Y. and <b>Lin C.</b>  
+<span class="blue-bold">COLING 2025</span> 
+
+<span class="blue-italic">From Facts to Insights: A Study on the Generation and Evaluation of Analytical Reports for Deciphering Earnings Calls</span>  
+Goldsack T., Wang Y., <b>Lin C.</b> and Chen C.  
+<span class="blue-bold">COLING 2025</span> 
+
+<span class="blue-italic">Disentangling Preference Representation and Text Generation for Efficient Individual Preference Alignment</span>  
+Zhang J., Bai J., Li B., Wang Y., Li R., <b>Lin C.</b> and Rong W.  
+<span class="blue-bold">COLING 2025</span> 
+
 <span class="blue-italic">MuPT: A Generative Symbolic Music Pretrained Transformer</span>  
 Qu X., Bai Y., Ma Y., Zhou Z., Lo K., Liu J., Yuan R., Min L., Liu X., Zhang T., Du X., Guo S., Liang Y., Li Y., Wu S., Zhou J., Zheng T., Ma Z., Han F., Xue W., Xia G., Benetos E., Yue X., <b>Lin C.</b>, Tan X., Huang W., Fu J., Zhang G.  
 <span class="blue-bold">ICLR 2025</span> 
@@ -44,17 +56,6 @@ Liang Y., Zhang G., Qu W., Zheng T., Guo J., Du X., Yang Z., Liu J., <b>Lin C.</
 Zheng T., Guo S., Qu X., Guo J., Du X., Jia Q., <b>Lin C.</b>, Huang W., Fu J., Ge Zhang G.  
 <span class="blue-bold"> SSI-FM@ICLR 2025</span> 
 
-<span class="blue-italic">Tougher Text, Smarter Models: Raising the Bar for Adversarial Defence Benchmarks</span>  
-Wang Y. and <b>Lin C.</b>  
-<span class="blue-bold">COLING 2025</span> 
-
-<span class="blue-italic">From Facts to Insights: A Study on the Generation and Evaluation of Analytical Reports for Deciphering Earnings Calls</span>  
-Goldsack T., Wang Y., <b>Lin C.</b> and Chen C.  
-<span class="blue-bold">COLING 2025</span> 
-
-<span class="blue-italic">Disentangling Preference Representation and Text Generation for Efficient Individual Preference Alignment</span>  
-Zhang J., Bai J., Li B., Wang Y., Li R., <b>Lin C.</b> and Rong W.  
-<span class="blue-bold">COLING 2025</span> 
 
 
 ### 2024
