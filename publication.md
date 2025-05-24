@@ -28,10 +28,6 @@ Zhang J., Li B., Bai J., Li R., Wang Y., <b>Lin C.</b> and Rong W.
 Zhu K., Zang Q., Jia S., Wu S., Fang F., Li Y., Guo S., Guo J., Qu X.,Yang J.,Yue X., Liu J., <b>Lin C.</b>,  Alinejad-Rokny H., Yang M., Ni S., Huang W. and Zhang G.  
 <span class="blue-bold">ACL-Findings 2025</span> 
 
-<span class="blue-italic">LIME: Less Is More for MLLM Evaluation</span>  
-Zhu K., Zang Q., Jia S., Wu S., Fang F., Li Y., Guo S., Zheng T., Guo J., Wu H., Qu X.,Yang J.,Yue X., Liu J., <b>Lin C.</b>,  Alinejad-Rokny H., Yang M., Ni S., Huang W., Zhang G.  
-<span class="blue-bold">ACL-Findings 2025</span> 
-
 <span class="blue-italic">CAST: Corpus-Aware Self-similarity Enhanced Topic modelling</span>  
 Ma Y., Xiao C., Yuan C., van der Veer S., Hassan L., <b>Lin C.</b>  and  Nenadic G.  
 <span class="blue-bold">NAACL 2025</span> 
