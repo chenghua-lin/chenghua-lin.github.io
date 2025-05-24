@@ -16,6 +16,22 @@ page_logo: "/assets/img/beihai.jpg"
 
 ### 2025
 
+<span class="blue-italic">Can MLLMs Understand the Deep Implication Behind Chinese Images?</span>  
+Zhang C., Feng X., Bai Y., Du X., Hou J., Deng K., Han G., Li Q., Wang B., Liu J., Qu X., Zhang Y., Liang Y., Liu Z., Fang F., Yang M., Huang W., <b>Lin C.</b> , Zhang G. and Ni S.  
+<span class="blue-bold">ACL 2025</span> 
+
+<span class="blue-italic">Selecting Demonstrations for Many-Shot In-Context Learning via Gradient Matching</span>  
+Zhang J., Li B., Bai J., Li R., Wang Y., <b>Lin C.</b> and Rong W.
+<span class="blue-bold">ACL-Findings 2025</span> 
+
+<span class="blue-italic">LIME: Less Is More for MLLM Evaluation</span>  
+Zhu K., Zang Q., Jia S., Wu S., Fang F., Li Y., Guo S., Zheng T., Guo J., Wu H., Qu X.,Yang J.,Yue X., Liu J., <b>Lin C.</b>,  Alinejad-Rokny H., Yang M., Ni S., Huang W. and Zhang G.  
+<span class="blue-bold">ACL-Findings 2025</span> 
+
+<span class="blue-italic">LIME: Less Is More for MLLM Evaluation</span>  
+Zhu K., Zang Q., Jia S., Wu S., Fang F., Li Y., Guo S., Zheng T., Guo J., Wu H., Qu X.,Yang J.,Yue X., Liu J., <b>Lin C.</b>,  Alinejad-Rokny H., Yang M., Ni S., Huang W., Zhang G.  
+<span class="blue-bold">ACL-Findings 2025</span> 
+
 <span class="blue-italic">CAST: Corpus-Aware Self-similarity Enhanced Topic modelling</span>  
 Ma Y., Xiao C., Yuan C., van der Veer S., Hassan L., <b>Lin C.</b>  and  Nenadic G.  
 <span class="blue-bold">NAACL 2025</span> 
