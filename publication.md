@@ -68,14 +68,13 @@ Liang Y., Zhang G., Qu W., Zheng T., Guo J., Du X., Yang Z., Liu J., <b>Lin C.</
 Zheng T., Guo S., Qu X., Guo J., Du X., Jia Q., <b>Lin C.</b>, Huang W., Fu J., Ge Zhang G.  
 <span class="blue-bold"> SSI-FM Workshop @ICLR 2025</span> 
 
-<span class="blue-italic">Latent Variable Modelling for Controllable and Diverse Generation from Large Language Models</span>  
-Zhang J., Li B., Chen. Z., Liu C., Li C. <b>Lin C.</b>, W. Rong.   
-<span class="blue-bold">IEEE Transactions on Artificial Intelligence, 2025</span>
-
 <span class="blue-italic">Rectifying and Discriminating Hard Negatives for Biomedical Retrieval Question Answering</span>  
 Bai J., Li Z., Zhao B., Li C., <b>Lin C.</b>, W. Rong.   
 <span class="blue-bold">IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB), 2025</span>
 
+<span class="blue-italic">Latent Variable Modelling for Controllable and Diverse Generation from Large Language Models</span>  
+Zhang J., Li B., Chen. Z., Liu C., Li C. <b>Lin C.</b>, W. Rong.   
+<span class="blue-bold">IEEE Transactions on Artificial Intelligence, 2025</span>
 
 
 ### 2024
