@@ -18,7 +18,7 @@ page_logo: "/assets/img/beihai.jpg"
 
 <span class="blue-italic">Adversarial Defence without Adversarial Defence: An Instance-level Principal Component Removal Approach</span>  
 Wang Y., Xiao C., Li Y., Middleton S., Moubayed N. and <b>Lin C.</b>  
-<span class="blue-bold">Transactions of the Association for Computational Linguistics (TACL) 2025</span> 
+<span class="blue-bold">TACL 2025</span> 
 
 <span class="blue-italic">Can MLLMs Understand the Deep Implication Behind Chinese Images?</span>  
 Zhang C., Feng X., Bai Y., Du X., Hou J., Deng K., Han G., Liu J., Qu X., Zhang Y., Liang Y., Liu Z., Fang F., Yang M., Huang W., <b>Lin C.</b> , Zhang G. and Ni S.  
