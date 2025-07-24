@@ -16,7 +16,7 @@ page_logo: "/assets/img/beihai.jpg"
 
 ### 2025
 
-<span class="blue-italic">Adversarial Defence without Adversarial Defence: An Instance-level Principal Component Removal Approach</span>  
+<span class="blue-italic">Adversarial Defence without *Adversarial Defence*: Enhancing Language Model Robustness via Instance-level Principal Component Removal</span>  
 Wang Y., Xiao C., Li Y., Middleton S., Moubayed N. and <b>Lin C.</b>  
 <span class="blue-bold">Transactions of the Association for Computational Linguistics (TACL) 2025</span> 
 
