@@ -25,8 +25,8 @@ page_logo: "/assets/img/home.jpg"
 ##  Selected Services
 
 * <b> Chair of ACL SIGGEN and Board member</b> of [ACL SIGGEN](https://aclweb.org/aclwiki/SIGGEN)  (previously Secretary, 2023–24) 
-* <b>Committee Member</b> of the [IEEE Speech and Language Processing Technical Committee](https://signalprocessingsociety.org/community-involvement/speech-and-language-processing)  
-* <b>Tutorial Chair</b> for EACL 2025  
+* <b>Committee Member</b> of the [IEEE Speech and Language Processing Technical Committee](https://signalprocessingsociety.org/community-involvement/speech-and-language-processing) (2023- )  
+* <b>Tutorial Chair</b> for EACL 2026  
 * <b>Documentation Chair</b> for ACL 2025   
 * <b>Best Paper Award Committee Member</b> and <b>Tutorial Chair</b> for NLPCC 2025 
 * <b>Publication Chair</b> for ACL 2023  
