@@ -37,7 +37,7 @@ Yang B., Zhao K., Liu D., Tang C., Zhan L., <b>Lin C.</b>
 <span class="blue-bold">EMNLP-Findings 2025</span> 
 
 <span class="blue-italic">Crafting Customisable Characters with LLMs: A Persona-Driven Role-Playing Agent Framework</span>  
-Yang B., Dong Liu D., Xiao C., Zhao K., Tang C., Li C., Yuan L., Guang Y., Huang L., <b>Lin C.</b>  
+Yang B., Liu D., Xiao C., Zhao K., Tang C., Li C., Yuan L., Guang Y., Huang L., <b>Lin C.</b>  
 <span class="blue-bold">EMNLP-Findings 2025</span> 
 
 <span class="blue-italic">Rethinking Domain-Specific LLM Benchmark Construction: A Comprehensiveness-Compactness Approach</span>  
@@ -602,7 +602,7 @@ Cepukenas J., <b>Lin C.</b>, and Sleeman D.
 <span class="blue-bold">K-Cap 2015</span>
 
 <span class="blue-italic">Predicting Quiz Difficulty Level Using a Hybrid Semantic Similarity Measure</span>  
-<b>Lin C.</b>, Liu Dong., and Pang W.  
+<b>Lin C.</b>, Liu D., and Pang W.  
 <span class="blue-bold">K-Cap 2015</span>
 
 <span class="blue-italic">Web as Corpus Supporting Natural Language Generation for Online River Information Communication</span>  
