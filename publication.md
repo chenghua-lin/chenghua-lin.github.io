@@ -97,7 +97,7 @@ Liang Y., Zhang G., Qu W., Zheng T., Guo J., Du X., Yang Z., Liu J., <b>Lin C.</
 <span class="blue-bold"> SSI-FM Workshop @ICLR 2025</span> 
 
 <span class="blue-italic">Kun: Answer Polishment for Chinese Self-Alignment with Instruction Back-Translation</span>  
-Zheng T., Guo S., Qu X., Guo J., Du X., Jia Q., <b>Lin C.</b>, Huang W., Fu J., Ge Zhang G.  
+Zheng T., Guo S., Qu X., Guo J., Du X., Jia Q., <b>Lin C.</b>, Huang W., Fu J., Zhang G.  
 <span class="blue-bold"> SSI-FM Workshop @ICLR 2025</span> 
 
 <span class="blue-italic">Rectifying and Discriminating Hard Negatives for Biomedical Retrieval Question Answering</span>  
