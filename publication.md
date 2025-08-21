@@ -16,6 +16,34 @@ page_logo: "/assets/img/beihai.jpg"
 
 ### 2025
 
+<span class="blue-italic">Drivel-ology: Challenging LLMs with Interpreting Nonsense with Depth</span>  
+Wang Y., Xiao C., Hsiao C., Chang Z., Chen C., Loakman T., <b>Lin C.</b>   
+<span class="blue-bold">EMNLP 2025</span> 
+
+<span class="blue-italic">Does Acceleration Cause Hidden Instability in Vision Language Models? Uncovering Instance-Level Divergence Through a Large-Scale Empirical Study</span>  
+Sun Y., Li H., Xu C., Zhou H., <b>Lin C.</b>, Batista-Navarro R., Sun J.    
+<span class="blue-bold">EMNLP 2025</span> 
+
+<span class="blue-italic">Comparing Apples to Oranges: A Dataset & Analysis of LLM Humour Understanding from Traditional Puns to Topical Jokes</span>  
+Loakman T., Thorne W., <b>Lin C.</b>  
+<span class="blue-bold">EMNLP-Findings 2025</span> 
+
+<span class="blue-italic">DocMMIR: A Framework for Document Multi-modal Information Retrieval</span>  
+Li Z., Wu S., Li Y., Wang X., Zhou Y., <b>Lin C.</b>    
+<span class="blue-bold">EMNLP-Findings 2025</span> 
+
+<span class="blue-italic">Emphasising Structured Information: Integrating Abstract Meaning Representation into LLMs for Enhanced Open-Domain Dialogue Evaluation</span>  
+Yang B., Zhao K., Liu D., Tang C., Zhan L., <b>Lin C.</b>  
+<span class="blue-bold">EMNLP-Findings 2025</span> 
+
+<span class="blue-italic">Crafting Customisable Characters with LLMs: A Persona-Driven Role-Playing Agent Framework</span>  
+Yang B., Dong Liu D., Xiao C., Zhao K., Tang C., Li C., Yuan L., Guang Y., Huang L., <b>Lin C.</b>  
+<span class="blue-bold">EMNLP-Findings 2025</span> 
+
+<span class="blue-italic">Rethinking Domain-Specific LLM Benchmark Construction: A Comprehensiveness-Compactness Approach</span>  
+Chen R., Wu J., Wang J., Zhang X., Fan W., <b>Lin C.</b>, Wei X., Li Q.    
+<span class="blue-bold">EMNLP-Findings 2025</span> 
+
 <span class="blue-italic">Adversarial Defence without Adversarial Defence: Enhancing Language Model Robustness via Instance-level Principal Component Removal</span>  
 Wang Y., Xiao C., Li Y., Middleton S., Moubayed N. and <b>Lin C.</b>  
 <span class="blue-bold">Transactions of the Association for Computational Linguistics (TACL) 2025</span> 
