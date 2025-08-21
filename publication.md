@@ -485,7 +485,7 @@ Mao R., <b>Lin C.</b>, and Guerin F.
 Li R., <b>Lin C.</b>, Collinson M., Li X., and Chen G.  
 <span class="blue-bold">CoNLL 2019</span>
 
-<span class="blue-italic">Proceedings of the 12th International Conference on Natural Language Generation (INLG), 2019</span>  
+<span class="blue-italic">Proceedings of the 12th International Conference on Natural Language Generation (<b>INLG</b>), 2019</span>  
 van Deemter K., <b>Lin C.</b>, and Takamura H (Editors).  
 
 <span class="blue-italic">A Stable Variational Autoencoder for Text Modelling</span>  
