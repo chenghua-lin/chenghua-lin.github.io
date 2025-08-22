@@ -40,7 +40,7 @@ Yang B., Zhao K., Liu D., Tang C., Zhan L., <b>Lin C.</b>
 Yang B., Liu D., Xiao C., Zhao K., Tang C., Li C., Yuan L., Guang Y., Huang L., <b>Lin C.</b>  
 <span class="blue-bold">EMNLP-Findings 2025</span> 
 
-<span class="blue-italic">Rethinking Domain-Specific LLM Benchmark Construction: A Comprehensiveness-Compactness Approach</span>  
+<span class="blue-italic">Benchmarking for Domain-Specific LLMs: A Case Study on Academia and Beyond</span>  
 Chen R., Wu J., Wang J., Zhang X., Fan W., <b>Lin C.</b>, Wei X., Li Q.    
 <span class="blue-bold">EMNLP-Findings 2025</span> 
 
