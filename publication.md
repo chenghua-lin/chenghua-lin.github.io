@@ -16,6 +16,10 @@ page_logo: "/assets/img/beihai.jpg"
 
 ### 2025
 
+<span class="blue-italic">Who's Laughing Now? An Overview of Computational Humour Generation and Explanation</span>  
+Loakman T., Thorne W., <b>Lin C.</b>  
+<span class="blue-bold">INLG 2025</span>  
+
 <span class="blue-italic">Drivel-ology: Challenging LLMs with Interpreting Nonsense with Depth</span>  
 Wang Y., Xiao C., Hsiao C., Chang Z., Chen C., Loakman T., <b>Lin C.</b>   
 <span class="blue-bold">EMNLP 2025</span> 
