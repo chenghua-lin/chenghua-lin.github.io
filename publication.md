@@ -152,7 +152,6 @@ Li Y., Guo Y., Guerin F. and <b>Lin C.</b>
 Thorne W., Robinson A., Peng B., <b>Lin C.</b> and Maynard D.  
 <span class="blue-bold">NLP4DH@EMNLP 2024</span>
 
-
 <span class="blue-italic">MERT: Acoustic Music Understanding Model with Large-Scale Self-supervised Training</span>  
 Li Y., Yuan R., Zhang G., Ma Y., Chen X., Yin H., <b>Lin C.</b>*,  Ragni A., Benetos E., Gyenge N., Dannenberg R., Liu R., Chen W., Xia G., Huang, W., Guo Y., Fu J.  
 <span class="blue-bold">ICLR 2024</span>
