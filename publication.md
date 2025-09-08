@@ -16,9 +16,14 @@ page_logo: "/assets/img/beihai.jpg"
 
 ### 2025
 
-<span class="blue-italic">Who's Laughing Now? An Overview of Computational Humour Generation and Explanation</span>  
-Loakman T., Thorne W., <b>Lin C.</b>  
-<span class="blue-bold">INLG 2025</span>  
+
+<span class="blue-italic"><i>Beyond One-Size-Fits-All</i>: Inversion Learning for Highly Effective NLG Evaluation Prompts</span>  
+Hong H., Xiao C., Wang Y., Liu Y., Rong W. and <b>Lin C.</b>  
+<span class="blue-bold">Transactions of the Association for Computational Linguistics (TACL) 2025</span> 
+
+<span class="blue-italic">Adversarial Defence without Adversarial Defence: Enhancing Language Model Robustness via Instance-level Principal Component Removal</span>  
+Wang Y., Xiao C., Li Y., Middleton S., Moubayed N. and <b>Lin C.</b>  
+<span class="blue-bold">Transactions of the Association for Computational Linguistics (TACL) 2025</span> 
 
 <span class="blue-italic">Drivel-ology: Challenging LLMs with Interpreting Nonsense with Depth</span>  
 Wang Y., Xiao C., Hsiao C., Chang Z., Chen C., Loakman T., <b>Lin C.</b>   
@@ -47,10 +52,6 @@ Yang B., Liu D., Xiao C., Zhao K., Tang C., Li C., Yuan L., Guang Y., Huang L., 
 <span class="blue-italic">Benchmarking for Domain-Specific LLMs: A Case Study on Academia and Beyond</span>  
 Chen R., Wu J., Wang J., Zhang X., Fan W., <b>Lin C.</b>, Wei X., Li Q.    
 <span class="blue-bold">EMNLP-Findings 2025</span> 
-
-<span class="blue-italic">Adversarial Defence without Adversarial Defence: Enhancing Language Model Robustness via Instance-level Principal Component Removal</span>  
-Wang Y., Xiao C., Li Y., Middleton S., Moubayed N. and <b>Lin C.</b>  
-<span class="blue-bold">Transactions of the Association for Computational Linguistics (TACL) 2025</span> 
 
 <span class="blue-italic">Can MLLMs Understand the Deep Implication Behind Chinese Images?</span>  
 Zhang C., Feng X., Bai Y., Du X., Hou J., Deng K., Han G., Liu J., Qu X., Zhang Y., Liang Y., Liu Z., Fang F., Yang M., Huang W., <b>Lin C.</b> , Zhang G. and Ni S.  
@@ -95,6 +96,10 @@ Zhang J., Bai J., Li B., Wang Y., Li R., <b>Lin C.</b> and Rong W.
 <span class="blue-italic">MuPT: A Generative Symbolic Music Pretrained Transformer</span>  
 Qu X., Bai Y., Ma Y., Zhou Z., Lo K., Liu J., Yuan R., Min L., Liu X., Zhang T., Du X., Guo S., Liang Y., Li Y., Wu S., Zhou J., Zheng T., Ma Z., Han F., Xue W., Xia G., Benetos E., Yue X., <b>Lin C.</b>, Tan X., Huang W., Fu J., Zhang G.  
 <span class="blue-bold">ICLR 2025</span> 
+
+<span class="blue-italic">Who's Laughing Now? An Overview of Computational Humour Generation and Explanation</span>  
+Loakman T., Thorne W., <b>Lin C.</b>  
+<span class="blue-bold">INLG 2025</span>  
 
 <span class="blue-italic">I-SHEEP: Self-Alignment of LLM from Scratch through an Iterative Self-Enhancement Paradigm</span>  
 Liang Y., Zhang G., Qu W., Zheng T., Guo J., Du X., Yang Z., Liu J., <b>Lin C.</b>, Ma L., Huang W., Zhang J.  
