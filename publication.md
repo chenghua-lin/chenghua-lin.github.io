@@ -65,7 +65,7 @@ Zhang J., Li B., Bai J., Li R., Wang Y., <b>Lin C.</b> and Rong W.
 Zhu K., Zang Q., Jia S., Wu S., Fang F., Li Y., Guo S., Guo J., Qu X.,Yang J.,Yue X., Liu J., <b>Lin C.</b>,  Alinejad-Rokny H., Yang M., Ni S., Huang W. and Zhang G.  
 <span class="blue-bold">ACL-Findings 2025</span> 
 
-<span class="blue-italic">OOverview of the biolaysumm 2025 shared task on lay summarization of biomedical research articles and radiology reports</span>  
+<span class="blue-italic">Overview of the Biolaysumm 2025 Shared Task on Lay Summarization of Biomedical Research Articles and Radiology Reports</span>  
 Xiao C., Zhao K., Wang X., Wu S., Yan S., Goldsack T., Ananiadou S., Al Moubayed N., Zhan L., Cheung W. K., <b>Lin C.</b>  
 <span class="blue-bold">BioNLP@ACL 2025</span>
 
