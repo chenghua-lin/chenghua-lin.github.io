@@ -27,17 +27,17 @@ My work has been supported by various funding bodies, including [EPSRC](https://
 
 ## News
 * I'm recruiting **1-2 PhD students for 2025 intake**. Please send me your CV with a publication list if you are interested. 
-* 2 papers accepted to TACL 
-* 7 papers accepted to EMNLP 2025
-* 3 papers accepted to ACL 2025
-* 4 papers accepted to NAACL 2025
-* 1 paper accepted to ICLR 2025
-* 1 long paper accepted to Computational Linguistics Journal
-* 3 papers accepted to COLING 2025   
-* 5 papers accepted to EMNLP 2024   
-* 6 papers accepted to ACL 2024 
-* 8 papers accepted to EMNLP 2023  
-* 4 papers accepted to ACL 2023  
+* 2 papers accepted to <b>TACL</b> 
+* 7 papers accepted to <b>EMNLP 2025</b>
+* 3 papers accepted to <b>ACL 2025</b>
+* 4 papers accepted to <b>NAACL 2025</b>
+* 1 paper accepted to <b>ICLR 2025</b>
+* 1 long paper accepted to <b>Computational Linguistics Journal</b>
+* 3 papers accepted to <b>COLING 2025</b>   
+* 5 papers accepted to <b>EMNLP 2024</b>   
+* 6 papers accepted to <b>ACL 2024</b> 
+* 8 papers accepted to <b>EMNLP 2023</b>  
+* 4 papers accepted to <b>ACL 2023</b>  
 
 ***
 
