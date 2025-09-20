@@ -25,6 +25,10 @@ Hong H., Xiao C., Wang Y., Liu Y., Rong W. and <b>Lin C.</b>
 Wang Y., Xiao C., Li Y., Middleton S., Moubayed N. and <b>Lin C.</b>  
 <span class="blue-bold">Transactions of the Association for Computational Linguistics (TACL) 2025</span> 
 
+<span class="blue-italic">Omnibench: Towards the Future of Universal Omni-language Models</span>  
+Li Y., Zhang G., Ma Y., Yuan R., Zhu K., Guo H., Liang Y., Liu J., Wang Z., Yang J., Wu S., Qu X., Shi J., Zhang X., Yang Z., Wang X., Zhang Z., Liu Z., Benetos E., Huang W., <b>Lin C.</b>  
+<span class="blue-bold">NeurIPS 2025</span>
+
 <span class="blue-italic">Drivel-ology: Challenging LLMs with Interpreting Nonsense with Depth</span>  
 Wang Y., Xiao C., Hsiao C., Chang Z., Chen C., Loakman T., <b>Lin C.</b>   
 <span class="blue-bold">EMNLP 2025</span> 
