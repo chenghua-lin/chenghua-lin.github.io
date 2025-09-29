@@ -47,7 +47,7 @@ My work has been supported by various funding bodies, including [EPSRC](https://
 ### Keynotes
 * The 10th Language & Intelligence Summit, China, 2025  
 * The 39th Annual Conference of the Japanese Society for Artificial Intelligence (JSAI), Osaka, 2025 
-* Huawei Computing & AI Summit, 2024  
+* Huawei Computing & AI Summit, London, 2024  
 * Advances in Data Science and AI (ADSAI) Conference, Manchester, 2024  
 * The International Conference on Intelligent Multilingual Information Processing (IMLIP), China, 2024 
 
