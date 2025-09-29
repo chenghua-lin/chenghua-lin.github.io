@@ -41,6 +41,16 @@ My work has been supported by various funding bodies, including [EPSRC](https://
 
 ***
 
+
+## Keynotes & Invited Talks
+* The 10th Language & Intelligence Summit, China, 2025. 
+* The 39th Annual Conference of the Japanese Society for Artificial Intelligence (JSAI), Osaka, 2025. 
+* Huawei Computing & AI Summit, 2024  
+* Advances in Data Science and AI (ADSAI) Conference, 2024  
+* The International Conference on Intelligent Multilingual Information Processing (IMLIP), 2024 
+
+***  
+
 <!--  ## Personal  
 
 I am a die-hard fan of the [90s Chicago Bulls](https://en.wikipedia.org/wiki/Chicago_Bulls). I used to play basketball a lot and was part of the starting lineup for my school's basketball team at my university in Beijing. Our team won two championships in the college league, which I am quite proud of, even though the matches were amateur. I stopped playing intensively after completely rupturing one of my [Achilles tendons](https://en.wikipedia.org/wiki/Achilles_tendon_rupture) during a match. Nevertheless, I still play for fun and occasionally, join the practice games of a team from the [Sheffield basketball league](https://www.sheffieldbasketball.co.uk/). -->
