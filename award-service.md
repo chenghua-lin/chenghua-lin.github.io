@@ -30,7 +30,7 @@ page_logo: "/assets/img/home.jpg"
 * <b>Best Paper Award Committee Member</b> for [EMNLP 2025](https://2025.emnlp.org/)   
 * <b>Best Paper Award Committee Member</b> for [AACL 2025](https://2025.aaclnet.org/)   
 * <b>Documentation Chair</b> for [ACL 2025](https://2025.aclweb.org/)   
-* <b>Best Paper Award Committee Member</b> and <b>Tutorial Chair</b> for NLPCC 2025 
+* <b>Best Paper Award Committee Member</b> and <b>Tutorial Chair</b> for [NLPCC 2025](http://tcci.ccf.org.cn/conference/2025/) 
 * <b>Publication Chair</b> for ACL 2023  
 * <b>Workshop Chair</b> for AACL-IJCNLP 2022  
 * <b>Programme Co-Chair</b>: The 12th International Conference on Natural Language Generation (INLG), Tokyo, 2019.
