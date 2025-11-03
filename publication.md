@@ -29,6 +29,18 @@ Wang Y., Xiao C., Li Y., Middleton S., Moubayed N. and <b>Lin C.</b>
 Li Y., Zhang G., Ma Y., Yuan R., Zhu K., Guo H., Liang Y., Liu J., Wang Z., Yang J., Wu S., Qu X., Shi J., Zhang X., Yang Z., Wang X., Zhang Z., Liu Z., Benetos E., Huang W., <b>Lin C.</b>  
 <span class="blue-bold">NeurIPS 2025</span>
 
+<span class="blue-italic">Seeing is Hearing: Benchmarking Vision Language Models at Interpreting Spectrograms</span>  
+Loakman T., James J., <b>Lin C.</b>   
+<span class="blue-bold">IJCNLP-AACL 2025</span> 
+
+<span class="blue-italic">ContrastScore: Towards Higher Quality, Less Biased, More Efficient Evaluation Metrics with Contrastive Evaluation</span>  
+Wang X., Larionov D., Wu S., Liu Y., Steffen Eger S., Moosavi N.<b>Lin C.</b>   
+<span class="blue-bold">IJCNLP-AACL 2025</span> 
+
+<span class="blue-italic">Observing Micromotives and Macrobehavior of Large Language Models</span>  
+Cheng Y., Qu X., Goldsack T., <b>Lin C.</b>, Chen C. 
+<span class="blue-bold">IJCNLP-AACL 2025</span> 
+
 <span class="blue-italic">Drivel-ology: Challenging LLMs with Interpreting Nonsense with Depth</span>  
 Wang Y., Xiao C., Hsiao C., Chang Z., Chen C., Loakman T., <b>Lin C.</b>   
 <span class="blue-bold">EMNLP 2025</span> 
