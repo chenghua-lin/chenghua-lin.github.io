@@ -44,6 +44,7 @@ My work has been supported by various funding bodies, including [EPSRC](https://
 
 ## Keynotes & Invited Talks
 
+* Keynote at [IJCNLP-AACL](https://2025.aaclnet.org/), Mumbai, 2025  
 * Invited talk at [BAE Systems](https://www.baesystems.com/en), 2025  
 * Keynote at the 10th Language & Intelligence Summit, China, 2025  
 * Invited talk at the Institute for Data Science and Artificial Intelligence (ADSAI), University of Exeter, 2025  
