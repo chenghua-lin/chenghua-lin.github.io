@@ -44,15 +44,15 @@ My work has been supported by various funding bodies, including [EPSRC](https://
 
 ## Keynotes & Invited Talks
 
-* Keynote at [IJCNLP-AACL](https://2025.aaclnet.org/), Mumbai, 2025  
-* Invited talk at [BAE Systems](https://www.baesystems.com/en), 2025  
-* Keynote at the 10th Language & Intelligence Summit, China, 2025  
-* Invited talk at the Institute for Data Science and Artificial Intelligence (ADSAI), University of Exeter, 2025  
-* Keynote at 39th Annual Conference of the Japanese Society for Artificial Intelligence (JSAI), Osaka, 2025 
-* Invited talk at Huawei Computing & AI Summit, London, 2024  
-* Invited talk Advances in Data Science and AI (ADSAI) Conference, Manchester, 2024  
-* Invited talk at the School of Computer Science and Informatics, Cardiff University, 2024
-* Keynote at the International Conference on Intelligent Multilingual Information Processing (IMLIP), China, 2024 
+* <b>Keynote</b> at [IJCNLP-AACL](https://2025.aaclnet.org/), Mumbai, 2025  
+* <b>Invited</b> talk at [BAE Systems](https://www.baesystems.com/en), 2025  
+* <b>Keynote</b> at the 10th Language & Intelligence Summit, China, 2025  
+* <b>Invited</b> talk at the Institute for Data Science and Artificial Intelligence (ADSAI), University of Exeter, 2025  
+* <b>Keynote</b> at 39th Annual Conference of the Japanese Society for Artificial Intelligence (JSAI), Osaka, 2025 
+* <b>Invited talk</b> at Huawei Computing & AI Summit, London, 2024  
+* <b>Invited talk</b> Advances in Data Science and AI (ADSAI) Conference, Manchester, 2024  
+* <b>Invited talk</b> at the School of Computer Science and Informatics, Cardiff University, 2024
+* <b>Keynote</b> at the International Conference on Intelligent Multilingual Information Processing (IMLIP), China, 2024 
 
 ***  
 
