@@ -69,6 +69,10 @@ Yang B., Liu D., Xiao C., Zhao K., Tang C., Li C., Yuan L., Guang Y., Huang L., 
 Chen R., Wu J., Wang J., Zhang X., Fan W., <b>Lin C.</b>, Wei X., Li Q.    
 <span class="blue-bold">EMNLP-Findings 2025</span> 
 
+<span class="blue-italic">Earnings2Insights: Analyst Report Generation for Investment Guidance</span>  
+Takayanagi T., Goldsack T., Izumi K. <b>Lin C.</b>, Takamura H., Chen C.    
+<span class="blue-bold"> FinNLP@EMNLP 2025</span> 
+
 <span class="blue-italic">Can MLLMs Understand the Deep Implication Behind Chinese Images?</span>  
 Zhang C., Feng X., Bai Y., Du X., Hou J., Deng K., Han G., Liu J., Qu X., Zhang Y., Liang Y., Liu Z., Fang F., Yang M., Huang W., <b>Lin C.</b> , Zhang G. and Ni S.  
 <span class="blue-bold">ACL 2025</span> 
