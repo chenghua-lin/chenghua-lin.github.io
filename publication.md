@@ -62,7 +62,7 @@ Yang B., Zhao K., Liu D., Tang C., Zhan L., <b>Lin C.</b>
 <span class="blue-bold">EMNLP-Findings 2025</span> 
 
 <span class="blue-italic">Crafting Customisable Characters with LLMs: A Persona-Driven Role-Playing Agent Framework</span>  
-Yang B., Liu D., Xiao C., Zhao K., Tang C., Li C., Yuan L., Guang Y., Huang L., <b>Lin C.</b>  
+Yang B., Liu D., Xiao C., Zhao K., Li C., Yuan L., Guang Y., Huang L., <b>Lin C.</b>  
 <span class="blue-bold">EMNLP-Findings 2025</span> 
 
 <span class="blue-italic">Benchmarking for Domain-Specific LLMs: A Case Study on Academia and Beyond</span>  
