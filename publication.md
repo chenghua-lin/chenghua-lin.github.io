@@ -14,6 +14,14 @@ page_logo: "/assets/img/beihai.jpg"
 [<span class="medium-text">Google Scholar Profile</span>](https://scholar.google.co.uk/citations?user=Tp1RdIQAAAAJ&hl=en)  
 
 
+### 2026
+
+
+<span class="blue-italic">Natural Language Generation</span>  
+van Miltenburg E. and <b>Lin C.</b>  
+<span class="blue-bold">International Encyclopedia of Language and Linguistics (3rd Edition)</span> 
+
+
 ### 2025
 
 
