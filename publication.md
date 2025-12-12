@@ -17,7 +17,7 @@ page_logo: "/assets/img/beihai.jpg"
 ### 2026
 
 
-<span class="blue-italic">Natural Language Generation</span>  
+<span class="blue-italic">Natural Language Generation (Book Chapter)</span>  
 van Miltenburg E. and <b>Lin C.</b>  
 <span class="blue-bold">International Encyclopedia of Language and Linguistics (3rd Edition)</span> 
 
