@@ -18,7 +18,7 @@ page_logo: "/assets/img/beihai.jpg"
 
 <span class="blue-italic">MMRA: A Benchmark for Evaluating Multi-Granularity and Multi-Image Relational Association Capabilities in Large Visual Language Models</span>  
 Wu S., Zhu K., Liang Y., Bai Y., Li Y., Wu H., Liu R., Qu X., Cheng X., Zhang G., Huang W., and <b>Lin C.</b>  
-<span class="blue-bold">EACL-Finding</span> 
+<span class="blue-bold">EACL-Findings</span> 
 
 <span class="blue-italic">COIG-P: A High-Quality and Large-Scale Chinese Preference Dataset for Alignment with Human Values</span>  
 Wu S., Ren J., Du X., Guo S., Qu X., Liang Y., Li Y., Loakman T., et al. and <b>Lin C.</b>  
