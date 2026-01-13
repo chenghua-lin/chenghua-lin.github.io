@@ -16,6 +16,15 @@ page_logo: "/assets/img/beihai.jpg"
 
 ### 2026
 
+<span class="blue-italic">Prompt-Induced Linguistic Fingerprints for LLM-Generated Fake News Detection</span>  
+Wang C., Gao M., Wang Z., Yin J., Shu K. and <b>Lin C.</b>  
+<span class="blue-bold">WWW</span>
+
+<span class="blue-italic">PAMAS: Self-Adaptive Multi-Agent System with Perspective Aggregation for Misinformation Detection</span>  
+Wang Z., Min Gao M., Yu J., Chen T. and <b>Lin C.</b>  
+<span class="blue-bold">WWW</span>
+
+
 <span class="blue-italic">MMRA: A Benchmark for Evaluating Multi-Granularity and Multi-Image Relational Association Capabilities in Large Visual Language Models</span>  
 Wu S., Zhu K., Liang Y., Bai Y., Li Y., Wu H., Liu R., Qu X., Cheng X., Zhang G., Huang W., and <b>Lin C.</b>  
 <span class="blue-bold">EACL-Findings</span> 
