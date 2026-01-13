@@ -21,7 +21,7 @@ Wang C., Gao M., Wang Z., Yin J., Shu K. and <b>Lin C.</b>
 <span class="blue-bold">WWW</span>
 
 <span class="blue-italic">PAMAS: Self-Adaptive Multi-Agent System with Perspective Aggregation for Misinformation Detection</span>  
-Wang Z., Min Gao M., Yu J., Chen T. and <b>Lin C.</b>  
+Wang Z., Gao M., Yu J., Chen T. and <b>Lin C.</b>  
 <span class="blue-bold">WWW</span>
 
 
