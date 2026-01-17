@@ -16,6 +16,10 @@ page_logo: "/assets/img/beihai.jpg"
 
 ### 2026
 
+<span class="blue-italic">The Achilles' Heel of Angular Margins: A Chebyshev Polynomial Fix for Speaker Verification</span>  
+Wang Y., Xiao C., Liu Y. and <b>Lin C.</b>  
+<span class="blue-bold">ICASSP</span>
+
 <span class="blue-italic">Prompt-Induced Linguistic Fingerprints for LLM-Generated Fake News Detection</span>  
 Wang C., Gao M., Wang Z., Yin J., Shu K. and <b>Lin C.</b>  
 <span class="blue-bold">WWW</span>
