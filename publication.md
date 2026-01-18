@@ -22,11 +22,11 @@ Wang Y., Xiao C., Liu Y. and <b>Lin C.</b>
 
 <span class="blue-italic">Prompt-Induced Linguistic Fingerprints for LLM-Generated Fake News Detection</span>  
 Wang C., Gao M., Wang Z., Yin J., Shu K. and <b>Lin C.</b>  
-<span class="blue-bold">WWW</span>
+<span class="blue-bold">The Web Conference</span>
 
 <span class="blue-italic">PAMAS: Self-Adaptive Multi-Agent System with Perspective Aggregation for Misinformation Detection</span>  
 Wang Z., Gao M., Yu J., Chen T. and <b>Lin C.</b>  
-<span class="blue-bold">WWW</span>
+<span class="blue-bold">The Web Conference</span>
 
 
 <span class="blue-italic">MMRA: A Benchmark for Evaluating Multi-Granularity and Multi-Image Relational Association Capabilities in Large Visual Language Models</span>  
