@@ -16,6 +16,10 @@ page_logo: "/assets/img/beihai.jpg"
 
 ### 2026
 
+<span class="blue-italic">YuE: Scaling Open Foundation Models for Long-Form Music Generation</span>  
+Yuan R., Lin H., Guo S., Zhang G., Pan J., Zang Y., Liu H., Liang Y., Ma W., Du X., Du X., Ye Z., Zheng T., Jiang Z., Ma Y., Liu M., Tian Z., Zhou Z., Xue L., Qu X., Li Y., Wu S., Shen T., Ma Z., Zhan J., Wang Y., Chi X., Zhang X., Yang Z., Wang X., Liu S., Mei L., Li P., Wang J., Yu J., Li X., Wang Z., Zhou X., Yu L., Benetos E., Chen Y., <b>Lin C.</b>, et. al. 
+<span class="blue-bold">ICLR</span>
+
 <span class="blue-italic">The Achilles' Heel of Angular Margins: A Chebyshev Polynomial Fix for Speaker Verification</span>  
 Wang Y., Xiao C., Liu Y. and <b>Lin C.</b>  
 <span class="blue-bold">ICASSP</span>
