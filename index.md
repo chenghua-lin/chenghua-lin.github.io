@@ -27,6 +27,7 @@ My work has been supported by various funding bodies, including [EPSRC](https://
 
 ## News
 * I'm recruiting **1-2 PhD students for 2025 intake**. Please send me your CV with a publication list if you are interested. 
+* 2 papers accepted to the <b>Web Conference</b> 
 * 2 papers accepted to <b>TACL</b> 
 * 3 papers accepted to <b>AACL 2025</b>
 * 7 papers accepted to <b>EMNLP 2025</b>
