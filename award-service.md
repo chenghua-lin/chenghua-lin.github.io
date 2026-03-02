@@ -39,8 +39,8 @@ page_logo: "/assets/img/home.jpg"
 * <b>Programme Co-Chair</b>: [The 12th International Conference on Natural Language Generation (INLG)](https://www.inlg2019.com/), Tokyo, 2019.
 * <b>Senior Area Chair</b>: ACL 2026, IJCNLP-AACL 2025, NAACL 2025, ACL 2023, EACL 2023, ACL 2022, EMNLP 2020  
 * <b>Area Chair</b>: NLPCC 2025, NAACL 2024, LREC-COLING 2024, NLPCC 2024, EMNLP 2021, *SEM 2023, NLPCC 2022, INLG 2020 (I lose track of many ...)  
-* <b>Senior Program Committee Member</b>: IJCAI 2021  
-* <b>Meta Reviewer</b>: ICASSP 2023, 2024, 2025, 2026  
+* <b>Senior Program Committee Member</b>: [IJCAI 2021](https://ijcai-21.org/index.html)  
+* <b>Meta Reviewer</b>: [ICASSP](https://en.wikipedia.org/wiki/International_Conference_on_Acoustics,_Speech,_and_Signal_Processing) 2023, 2024, 2025, 2026  
 * <b>Associate Editor</b> for [Computer Speech and Language](https://www.sciencedirect.com/journal/computer-speech-and-language) (2022 – 2025)
 * <b>Associate Editor</b> for [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing) (2019 – 2022)
 * <b>Standing Reviewer</b> for [Computational Linguistics](https://direct.mit.edu/coli) (2020 – )
