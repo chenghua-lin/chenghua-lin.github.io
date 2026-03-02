@@ -40,7 +40,7 @@ page_logo: "/assets/img/home.jpg"
 * <b>Senior Area Chair</b>: ACL 2026, IJCNLP-AACL 2025, NAACL 2025, ACL 2023, EACL 2023, ACL 2022, EMNLP 2020  
 * <b>Area Chair</b>: NLPCC 2025, NAACL 2024, LREC-COLING 2024, NLPCC 2024, EMNLP 2021, *SEM 2023, NLPCC 2022, INLG 2020 (I lose track of many ...)  
 * <b>Senior Program Committee Member</b>: IJCAI 2021  
-* <b>Meta Reviewer</b>: ICASSP 2023, 2024  
+* <b>Meta Reviewer</b>: ICASSP 2023, 2024, 2025, 2026  
 * <b>Associate Editor</b> for Computer Speech and Language (2022 – )
 * <b>Associate Editor</b> for Neurocomputing (2019 – 2022)
 * <b>Standing Reviewer</b> for Computational Linguistics (2020 – )
