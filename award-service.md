@@ -26,7 +26,7 @@ page_logo: "/assets/img/home.jpg"
 
 * <b> Chair of ACL SIGGEN and Board member</b> of [ACL SIGGEN](https://aclweb.org/aclwiki/SIGGEN)  (previously Secretary, 2023–24) 
 * <b>Committee Member</b> of the [IEEE Speech and Language Processing Technical Committee](https://signalprocessingsociety.org/community-involvement/speech-and-language-processing) (2023- )  
-* <b>Judge</b> for <b>Karen Spärck Jones Award</b>  
+* <b>Judge</b> for <b>[Karen Spärck Jones Award](https://www.bcs.org/membership-and-registrations/member-communities/information-retrieval-specialist-group/awards/karen-spaerck-jones-award/)</b>  
 * <b>Tutorial Chair</b> for [EACL 2026](https://2026.eacl.org/)
 * <b>Best Paper Award Committee Member</b> for [EACL 2026](https://2026.eacl.org/)   
 * <b>Best Paper Award Committee Member</b> for [EMNLP 2025](https://2025.emnlp.org/)   
