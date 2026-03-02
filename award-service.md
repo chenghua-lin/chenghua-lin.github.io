@@ -29,10 +29,10 @@ page_logo: "/assets/img/home.jpg"
 * <b>Judge</b> for <b>Karen Spärck Jones Award</b>  
 * <b>Tutorial Chair</b> for [EACL 2026](https://2026.eacl.org/)
 * <b>Best Paper Award Committee Member</b> for [EACL 2026](https://2026.eacl.org/)   
-* <b>Documentation Chair</b> for [ACL 2025](https://2025.aclweb.org/)   
 * <b>Best Paper Award Committee Member</b> for [EMNLP 2025](https://2025.emnlp.org/)   
 * <b>Best Paper Award Committee Member</b> for [AACL 2025](https://2025.aaclnet.org/)   
 * <b>Best Paper Award Committee Member</b> for [NLPCC 2025](http://tcci.ccf.org.cn/conference/2025/) 
+* <b>Documentation Chair</b> for [ACL 2025](https://2025.aclweb.org/)   
 * <b>Tutorial Chair</b> for [NLPCC 2025](http://tcci.ccf.org.cn/conference/2025/) 
 * <b>Publication Chair</b> for ACL 2023  
 * <b>Workshop Chair</b> for AACL-IJCNLP 2022  
