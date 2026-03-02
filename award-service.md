@@ -1,5 +1,5 @@
 ---
-title: "Awards and Services]"
+title: "Awards and Services"
 page_logo: "/assets/img/home.jpg"
 ---
 
