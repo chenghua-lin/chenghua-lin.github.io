@@ -41,10 +41,10 @@ page_logo: "/assets/img/home.jpg"
 * <b>Area Chair</b>: NLPCC 2025, NAACL 2024, LREC-COLING 2024, NLPCC 2024, EMNLP 2021, *SEM 2023, NLPCC 2022, INLG 2020 (I lose track of many ...)  
 * <b>Senior Program Committee Member</b>: IJCAI 2021  
 * <b>Meta Reviewer</b>: ICASSP 2023, 2024, 2025, 2026  
-* <b>Associate Editor</b> for Computer Speech and Language (2022 – )
-* <b>Associate Editor</b> for Neurocomputing (2019 – 2022)
-* <b>Standing Reviewer</b> for Computational Linguistics (2020 – )
-* <b>Standing Reviewer</b> for TACL (2021 – 2023)
+* <b>Associate Editor</b> for [Computer Speech and Language](https://www.sciencedirect.com/journal/computer-speech-and-language) (2022 – 2025)
+* <b>Associate Editor</b> for [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing) (2019 – 2022)
+* <b>Standing Reviewer</b> for [Computational Linguistics](https://direct.mit.edu/coli) (2020 – )
+* <b>Standing Reviewer</b> for [TACL](https://transacl.org/index.php/tacl) (2021 – 2023)
 * <b>Lead Guest Editor</b> of the 2nd Special Issue on Natural Language Generation in the Computer Speech and Language Journal (Other Guest Editors: Prof. Ehud Reiter, University of Aberdeen; Dr. Angela Fan, Facebook AI / LORIA; Dr. Carlo Allocca, Samsung Research).
 * <b>Lead Guest Editor</b> of the Special Issue on Natural Language Generation in the Computer Speech and Language Journal.
 
