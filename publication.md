@@ -27,7 +27,7 @@ James J., Xiao C., Li Y., Moosavi N. and <b>Lin C.</b>
 <span class="blue-bold">ACL Findings</span>
 
 <span class="blue-italic">X-ray Made Simple: Lay Radiology Report Generation and Robust Evaluation</span>  
-Zhao K., Xiao C., Yan S., Tang H., Cheung W.K., Moubayed N., Zhan L. and <b>Lin C.</b>  
+Zhao K., Xiao C., Yan S., Tang H., Cheung W.K, Moubayed N., Zhan L. and <b>Lin C.</b>  
 <span class="blue-bold">ACL Findings</span>
 
 <span class="blue-italic">The Achilles' Heel of Angular Margins: A Chebyshev Polynomial Fix for Speaker Verification</span>  
