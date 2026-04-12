@@ -54,8 +54,8 @@ Wu S., Ren J., Du X., Guo S., Qu X., Liang Y., Li Y., Loakman T., et al. and <b>
 <span class="blue-bold">EACL-Findings</span> 
 
 <span class="blue-italic">Interactive Natural Language Processing: Language Model as Agent</span>  
-Wang, Z., Zhang, G., <b>Lin C.</b> and Fu, J. (Eds.) 
-<span class="blue-bold">Springer</span> 
+Wang, Z., Zhang, G., <b>Lin C.</b> and Fu, J. (Eds.)  
+<span class="blue-bold">Springer</span>  
 
 <span class="blue-italic">Natural Language Generation (Book Chapter)</span>  
 van Miltenburg E. and <b>Lin C.</b>  
