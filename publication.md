@@ -17,7 +17,6 @@ page_logo: "/assets/img/beihai.jpg"
 ### 2026
 
 
-
 <span class="blue-italic">HiRAS: A Hierarchical Multi-Agent Framework for Paper-to-Code Generation and Execution</span>  
 Hong H., Li Y., Chen J., Ananiadou S., Li X. Kim J. and <b>Lin C.</b>  
 <span class="blue-bold">ACL Findings</span>
@@ -53,6 +52,10 @@ Wu S., Zhu K., Liang Y., Bai Y., Li Y., Wu H., Liu R., Qu X., Cheng X., Zhang G.
 <span class="blue-italic">COIG-P: A High-Quality and Large-Scale Chinese Preference Dataset for Alignment with Human Values</span>  
 Wu S., Ren J., Du X., Guo S., Qu X., Liang Y., Li Y., Loakman T., et al. and <b>Lin C.</b>  
 <span class="blue-bold">EACL-Findings</span> 
+
+<span class="blue-italic">Interactive Natural Language Processing: Language Model as Agent</span>  
+Wang, Z., Zhang, G., <b>Lin C.</b> and Fu, J. (Eds.) 
+<span class="blue-bold">Springer</span> 
 
 <span class="blue-italic">Natural Language Generation (Book Chapter)</span>  
 van Miltenburg E. and <b>Lin C.</b>  
