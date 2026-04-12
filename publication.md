@@ -53,7 +53,7 @@ Wu S., Zhu K., Liang Y., Bai Y., Li Y., Wu H., Liu R., Qu X., Cheng X., Zhang G.
 Wu S., Ren J., Du X., Guo S., Qu X., Liang Y., Li Y., Loakman T., et al. and <b>Lin C.</b>  
 <span class="blue-bold">EACL-Findings</span> 
 
-<span class="blue-italic">Interactive Natural Language Processing: Language Model as Agent</span>  
+<span class="blue-italic">Interactive Natural Language Processing: Language Model as Agent (Edited Book)</span>  
 Wang, Z., Zhang, G., <b>Lin C.</b> and Fu, J. (Eds.)  
 <span class="blue-bold">Springer</span>  
 
