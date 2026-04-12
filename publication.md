@@ -57,7 +57,7 @@ Wu S., Ren J., Du X., Guo S., Qu X., Liang Y., Li Y., Loakman T., et al. and <b>
 Wang, Z., Zhang, G., <b>Lin C.</b> and Fu, J. (Eds.)  
 <span class="blue-bold">Springer — Edited Book</span>  
 
-<span class="blue-italic">Natural Language Generation (Book Chapter)</span>  
+<span class="blue-italic">Natural Language Generation</span>  
 van Miltenburg E. and <b>Lin C.</b>  
 <span class="blue-bold">International Encyclopedia of Language and Linguistics (3rd Edition)</span> 
 
