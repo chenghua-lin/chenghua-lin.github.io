@@ -16,10 +16,15 @@ page_logo: "/assets/img/beihai.jpg"
 
 ### 2026
 
+<span class="blue-italic">	
+[PDF] from arxiv.org
+Transforming Science with Large Language Models: A Survey on AI-Assisted Scientific Discovery, Experimentation, Content Generation, and Evaluation</span>  
+Eger S., Cao Y., D'Souza J., Geiger A., Greisinger C., Gross S., Hou Y., Krenn B., Lauscher A., Li Y., <b>Lin C.</b>,  Moosavi N., Zhao W., and Miller T.   
+<span class="blue-bold">ACM Computing Surveys</span>
 
 <span class="blue-italic">HiRAS: A Hierarchical Multi-Agent Framework for Paper-to-Code Generation and Execution</span>  
 Hong H., Li Y., Chen J., Ananiadou S., Li X. Kim J. and <b>Lin C.</b>  
-<span class="blue-bold">ACL Findings</span>
+<span class="blue-bold">ACL Findings</span> 
 
 <span class="blue-italic">RIGOURATE: Quantifying Scientific Exaggeration with Evidence-Aligned Claim Evaluation</span>  
 James J., Xiao C., Li Y., Moosavi N. and <b>Lin C.</b>  
