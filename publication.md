@@ -17,7 +17,6 @@ page_logo: "/assets/img/beihai.jpg"
 ### 2026
 
 <span class="blue-italic">	
-[PDF] from arxiv.org
 Transforming Science with Large Language Models: A Survey on AI-Assisted Scientific Discovery, Experimentation, Content Generation, and Evaluation</span>  
 Eger S., Cao Y., D'Souza J., Geiger A., Greisinger C., Gross S., Hou Y., Krenn B., Lauscher A., Li Y., <b>Lin C.</b>,  Moosavi N., Zhao W., and Miller T.   
 <span class="blue-bold">ACM Computing Surveys</span>
