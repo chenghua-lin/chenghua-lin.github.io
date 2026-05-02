@@ -28,6 +28,10 @@ Li Z., Bai X., Chen K., Li Y., Yang J., <b>Lin C.</b> and Zhang M.
 Li Y., Gu Q., Wen Z., Li Z., Yuan R., Xing T., Guo S., Zheng T., Qu X., Zhou W., Zhang Z., Shen W., Xue W., Liu Q, <b>Lin C.</b>, Yang J., Zhang G., Huang W.  
 <span class="blue-bold">ICML</span>
 
+<span class="blue-italic">Re:Form --- Reducing Human Priors in Scalable Formal Software Verification with RL in LLMs: A Preliminary Study on Dafny</span>  
+Yan C., Che F., Huang X., Xu X., Li X., Li Y., Qu X., Shi J., <b>Lin C.</b>, Yang Y., Yuan B., Zhao H., Qiao Y., Zhou B, Fu J.    
+<span class="blue-bold">Transactions on Machine Learning Research (TMLR)</span> 
+
 <span class="blue-italic">Transforming Science with Large Language Models: A Survey on AI-Assisted Scientific Discovery, Experimentation, Content Generation, and Evaluation</span>  
 Eger S., Cao Y., D'Souza J., Geiger A., Greisinger C., Gross S., Hou Y., Krenn B., Lauscher A., Li Y., <b>Lin C.</b>,  Moosavi N., Zhao W., and Miller T.   
 <span class="blue-bold">ACM Computing Surveys</span>
