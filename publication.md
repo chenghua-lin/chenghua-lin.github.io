@@ -18,7 +18,7 @@ page_logo: "/assets/img/beihai.jpg"
 
 <span class="blue-italic">Large-Scale Terminal Agentic Trajectory Generation from Dockerized Environments</span>  
 Wu S., Li Y., Song Y., Zhang W., Wang Y., Batista-Navarro R., Yang X., Tang M., Dai B., Yang j. and <b>Lin C.</b>   
-<span class="blue-bold">ICML (Spotlight)</span>
+<span class="blue-bold"> ICML (<span style="color: red;">Spotlight</span>)</span>
 
 <span class="blue-italic">TreePO: Enhancing Policy Efficacy and Inference Efficiency with Tree Modeling</span>  
 Li Y., Gu Q., Wen Z., Li Z., Yuan R., Xing T., Guo S., Zheng T., Qu X., Zhou W., Zhang Z., Shen W., Xue W., Liu Q, <b>Lin C.</b>, Yang J., Zhang G., Huang W.  
