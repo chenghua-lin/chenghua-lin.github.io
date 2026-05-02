@@ -16,8 +16,19 @@ page_logo: "/assets/img/beihai.jpg"
 
 ### 2026
 
-<span class="blue-italic">	
-Transforming Science with Large Language Models: A Survey on AI-Assisted Scientific Discovery, Experimentation, Content Generation, and Evaluation</span>  
+<span class="blue-italic">Large-Scale Terminal Agentic Trajectory Generation from Dockerized Environments</span>  
+Wu S., Li Y., Song Y., Zhang W., Wang Y., Batista-Navarro R., Yang X., Tang M., Dai B., Yang j. and <b>Lin C.</b>   
+<span class="blue-bold">ICML (Spotlight)</span>
+
+<span class="blue-italic">TreePO: Enhancing Policy Efficacy and Inference Efficiency with Tree Modeling</span>  
+Li Y., Gu Q., Wen Z., Li Z., Yuan R., Xing T., Guo S., Zheng T., Qu X., Zhou W., Zhang Z., Shen W., Xue W., Liu Q, <b>Lin C.</b>, Yang J., Zhang G., Huang W.  
+<span class="blue-bold">ICML</span>
+
+<span class="blue-italic">Dynamics Within Latent Chain-of-Thought: An Empirical Study of Causal Structure</span>  
+Li Z., Bai X., Chen K., Li Y., Yang J., <b>Lin C.</b> and Zhang M.
+<span class="blue-bold">ICML</span>
+
+<span class="blue-italic">Transforming Science with Large Language Models: A Survey on AI-Assisted Scientific Discovery, Experimentation, Content Generation, and Evaluation</span>  
 Eger S., Cao Y., D'Souza J., Geiger A., Greisinger C., Gross S., Hou Y., Krenn B., Lauscher A., Li Y., <b>Lin C.</b>,  Moosavi N., Zhao W., and Miller T.   
 <span class="blue-bold">ACM Computing Surveys</span>
 
