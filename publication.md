@@ -18,7 +18,7 @@ page_logo: "/assets/img/beihai.jpg"
 
 <span class="blue-italic">Large-Scale Terminal Agentic Trajectory Generation from Dockerized Environments</span>  
 Wu S., Li Y., Song Y., Zhang W., Wang Y., Batista-Navarro R., Yang X., Tang M., Dai B., Yang j. and <b>Lin C.</b>   
-<span class="blue-bold">ICML (<span style="color:#e67e22; font-weight:600;">Spotlight</span>)</span>
+<span class="blue-bold"> ICML (<span style="color: red;">Spotlight</span>)</span>
 
 <span class="blue-italic">Dynamics Within Latent Chain-of-Thought: An Empirical Study of Causal Structure</span>  
 Li Z., Bai X., Chen K., Li Y., Yang J., <b>Lin C.</b> and Zhang M.  
@@ -586,7 +586,7 @@ van Deemter K., <b>Lin C.</b>, and Takamura H (Editors).
 
 <span class="blue-italic">A Stable Variational Autoencoder for Text Modelling</span>  
 Li R., Li X., <b>Lin C.</b>, Collinson M., and Mao R.  
-<span class="blue-bold">INLG 2019</span>
+<span class="blue-bold">INLG 2019 (<span style="color: red;">Best Paper Award Runner-Up</span>)</span>
 
 <span class="blue-italic">QTUNA: A Corpus for Understanding How Speakers Use Quantification</span>  
 Chen G., van Deemter K., Pagliaro S., Smalbil L., and <b>Lin C.</b>  
@@ -651,23 +651,23 @@ Mao R., Chen G., Li R., and <b>Lin C.</b>
 
 <span class="blue-italic">Extracting and understanding contrastive opinion through topic relevant sentences</span>  
 Ibeke E., <b>Lin C.</b>, Wyner A., and Barawi M.  
-<span class="blue-bold">IJCNLP 2017</span>
+<span class="blue-bold">IJCNLP</span>
 
 <span class="blue-italic">Analysing the Causes of Depressed Mood from Depression Vulnerable Individuals</span>  
 Yusof N., <b>Lin C.</b>, and Guerin F.  
-<span class="blue-bold">The International Workshop on Digital Disease Detection using Social Media at the International Joint Conference on Natural Language Processing (IJCNLP), 2017</span>
+<span class="blue-bold">The International Workshop on Digital Disease Detection using Social Media at the International Joint Conference on Natural Language Processing (IJCNLP)</span>
 
 <span class="blue-italic">Automatically Labelling Sentiment-bearing Topics with Descriptive Sentence Labels</span>  
 Barawi M., <b>Lin C.</b>, and Siddharthan A.  
-<span class="blue-bold">NLDB 2017</span> （Best paper award!）
+<span class="blue-bold">NLDB (<span style="color: red;">Best Paper Award</span>)</span> 
 
 <span class="blue-italic">A Unified Latent Variable Model for Contrastive Opinion Mining</span>  
 Ibeke E., <b>Lin C.</b>, Wyner A., and Barawi M.  
-<span class="blue-bold">Frontier of Computer Science (FCS), 2017</span>
+<span class="blue-bold">Frontier of Computer Science (FCS)</span>
 
 <span class="blue-italic">Matrix Factorization for Package Recommendations</span>  
 Wibowo A., Siddharthan A., <b>Lin C.</b>, and Masthoff J.  
-<span class="blue-bold">ComplexRec@RecSys 2017</span>
+<span class="blue-bold">ComplexRec@RecSys</span>
 
 <span class="blue-italic">Sentiment Analysis in Social Media</span>  
 Yusof N., <b>Lin C.</b>, and He Y.  
@@ -771,7 +771,7 @@ He Y., <b>Lin C.</b>, and Alani H.
 
 <span class="blue-italic">Joint Sentiment/Topic Model for Sentiment Analysis</span>  
 <b>Lin C.</b>, and He Y.  
-<span class="blue-bold">CIKM 2009</span>
+<span class="blue-bold">CIKM 2009 (<span style="color: red;">Test of Time Award</span>)</span>
 
 <span class="blue-italic">Protein-Protein Interactions Classification from Text via Local Learning with Class Priors</span>  
 He Y., and <b>Lin C.</b>  
