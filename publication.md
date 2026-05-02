@@ -18,7 +18,7 @@ page_logo: "/assets/img/beihai.jpg"
 
 <span class="blue-italic">Large-Scale Terminal Agentic Trajectory Generation from Dockerized Environments</span>  
 Wu S., Li Y., Song Y., Zhang W., Wang Y., Batista-Navarro R., Yang X., Tang M., Dai B., Yang j. and <b>Lin C.</b>   
-<span class="blue-bold"> ICML (<span style="color: red;">Spotlight</span>)</span>
+<span class="blue-bold">ICML (<span style="color:#e67e22; font-weight:600;">Spotlight</span>)</span>
 
 <span class="blue-italic">Dynamics Within Latent Chain-of-Thought: An Empirical Study of Causal Structure</span>  
 Li Z., Bai X., Chen K., Li Y., Yang J., <b>Lin C.</b> and Zhang M.  
