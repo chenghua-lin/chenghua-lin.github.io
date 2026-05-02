@@ -86,127 +86,127 @@ van Miltenburg E. and <b>Lin C.</b>
 
 <span class="blue-italic"><i>Beyond One-Size-Fits-All</i>: Inversion Learning for Highly Effective NLG Evaluation Prompts</span>  
 Hong H., Xiao C., Wang Y., Liu Y., Rong W. and <b>Lin C.</b>  
-<span class="blue-bold">Transactions of the Association for Computational Linguistics (TACL) 2025</span> 
+<span class="blue-bold">Transactions of the Association for Computational Linguistics (TACL)</span> 
 
 <span class="blue-italic">Adversarial Defence without Adversarial Defence: Enhancing Language Model Robustness via Instance-level Principal Component Removal</span>  
 Wang Y., Xiao C., Li Y., Middleton S., Moubayed N. and <b>Lin C.</b>  
-<span class="blue-bold">Transactions of the Association for Computational Linguistics (TACL) 2025</span> 
+<span class="blue-bold">Transactions of the Association for Computational Linguistics (TACL)</span> 
 
 <span class="blue-italic">Omnibench: Towards the Future of Universal Omni-language Models</span>  
 Li Y., Zhang G., Ma Y., Yuan R., Zhu K., Guo H., Liang Y., Liu J., Wang Z., Yang J., Wu S., Qu X., Shi J., Zhang X., Yang Z., Wang X., Zhang Z., Liu Z., Benetos E., Huang W., <b>Lin C.</b>  
-<span class="blue-bold">NeurIPS 2025</span>
+<span class="blue-bold">NeurIPS</span>
 
 <span class="blue-italic">Seeing is Hearing: Benchmarking Vision Language Models at Interpreting Spectrograms</span>  
 Loakman T., James J., and <b>Lin C.</b>   
-<span class="blue-bold">AACL 2025</span> 
+<span class="blue-bold">AACL</span> 
 
 <span class="blue-italic">ContrastScore: Towards Higher Quality, Less Biased, More Efficient Evaluation Metrics with Contrastive Evaluation</span>  
 Wang X., Larionov D., Wu S., Liu Y., Steffen Eger S., Moosavi N. and <b>Lin C.</b>   
-<span class="blue-bold">AACL 2025</span>  
+<span class="blue-bold">AACL</span>  
 
 <span class="blue-italic">Observing Micromotives and Macrobehavior of Large Language Models</span>  
 Cheng Y., Qu X., Goldsack T., <b>Lin C.</b> and Chen C.  
-<span class="blue-bold">AACL 2025</span>  
+<span class="blue-bold">AACL</span>  
 
 <span class="blue-italic">Drivel-ology: Challenging LLMs with Interpreting Nonsense with Depth</span>  
 Wang Y., Xiao C., Hsiao C., Chang Z., Chen C., Loakman T., <b>Lin C.</b>   
-<span class="blue-bold">EMNLP 2025</span> 
+<span class="blue-bold">EMNLP</span> 
 
 <span class="blue-italic">Does Acceleration Cause Hidden Instability in Vision Language Models? Uncovering Instance-Level Divergence Through a Large-Scale Empirical Study</span>  
 Sun Y., Li H., Xu C., Zhou H., <b>Lin C.</b>, Batista-Navarro R., Sun J.    
-<span class="blue-bold">EMNLP 2025</span> 
+<span class="blue-bold">EMNLP</span> 
 
 <span class="blue-italic">Comparing Apples to Oranges: A Dataset & Analysis of LLM Humour Understanding from Traditional Puns to Topical Jokes</span>  
 Loakman T., Thorne W., <b>Lin C.</b>  
-<span class="blue-bold">EMNLP-Findings 2025</span> 
+<span class="blue-bold">EMNLP-Findings</span> 
 
 <span class="blue-italic">DocMMIR: A Framework for Document Multi-modal Information Retrieval</span>  
 Li Z., Wu S., Li Y., Wang X., Zhou Y., <b>Lin C.</b>    
-<span class="blue-bold">EMNLP-Findings 2025</span> 
+<span class="blue-bold">EMNLP-Findings</span> 
 
 <span class="blue-italic">Emphasising Structured Information: Integrating Abstract Meaning Representation into LLMs for Enhanced Open-Domain Dialogue Evaluation</span>  
 Yang B., Zhao K., Liu D., Tang C., Zhan L., <b>Lin C.</b>  
-<span class="blue-bold">EMNLP-Findings 2025</span> 
+<span class="blue-bold">EMNLP-Findings</span> 
 
 <span class="blue-italic">Crafting Customisable Characters with LLMs: A Persona-Driven Role-Playing Agent Framework</span>  
 Yang B., Liu D., Xiao C., Zhao K., Li C., Yuan L., Guang Y., Huang L., <b>Lin C.</b>  
-<span class="blue-bold">EMNLP-Findings 2025</span> 
+<span class="blue-bold">EMNLP-Findings</span> 
 
 <span class="blue-italic">Benchmarking for Domain-Specific LLMs: A Case Study on Academia and Beyond</span>  
 Chen R., Wu J., Wang J., Zhang X., Fan W., <b>Lin C.</b>, Wei X., Li Q.    
-<span class="blue-bold">EMNLP-Findings 2025</span> 
+<span class="blue-bold">EMNLP-Findings</span> 
 
 <span class="blue-italic">Earnings2Insights: Analyst Report Generation for Investment Guidance</span>  
 Takayanagi T., Goldsack T., Izumi K. <b>Lin C.</b>, Takamura H., Chen C.    
-<span class="blue-bold"> FinNLP@EMNLP 2025</span> 
+<span class="blue-bold"> FinNLP@EMNLP</span> 
 
 <span class="blue-italic">Can MLLMs Understand the Deep Implication Behind Chinese Images?</span>  
 Zhang C., Feng X., Bai Y., Du X., Hou J., Deng K., Han G., Liu J., Qu X., Zhang Y., Liang Y., Liu Z., Fang F., Yang M., Huang W., <b>Lin C.</b> , Zhang G. and Ni S.  
-<span class="blue-bold">ACL 2025</span> 
+<span class="blue-bold">ACL</span> 
 
 <span class="blue-italic">Selecting Demonstrations for Many-Shot In-Context Learning via Gradient Matching</span>  
 Zhang J., Li B., Bai J., Li R., Wang Y., <b>Lin C.</b> and Rong W.  
-<span class="blue-bold">ACL-Findings 2025</span> 
+<span class="blue-bold">ACL-Findings</span> 
 
 <span class="blue-italic">LIME: Less Is More for MLLM Evaluation</span>  
 Zhu K., Zang Q., Jia S., Wu S., Fang F., Li Y., Guo S., Guo J., Qu X.,Yang J.,Yue X., Liu J., <b>Lin C.</b>,  Alinejad-Rokny H., Yang M., Ni S., Huang W. and Zhang G.  
-<span class="blue-bold">ACL-Findings 2025</span> 
+<span class="blue-bold">ACL-Findings</span> 
 
 <span class="blue-italic">Overview of the Biolaysumm 2025 Shared Task on Lay Summarization of Biomedical Research Articles and Radiology Reports</span>  
 Xiao C., Zhao K., Wang X., Wu S., Yan S., Goldsack T., Ananiadou S., Al Moubayed N., Zhan L., Cheung W. K., <b>Lin C.</b>  
-<span class="blue-bold">BioNLP@ACL 2025</span>
+<span class="blue-bold">BioNLP@ACL</span>
 
 <span class="blue-italic">CAST: Corpus-Aware Self-similarity Enhanced Topic modelling</span>  
 Ma Y., Xiao C., Yuan C., van der Veer S., Hassan L., <b>Lin C.</b>  and  Nenadic G.  
-<span class="blue-bold">NAACL 2025</span> 
+<span class="blue-bold">NAACL</span> 
 
 <span class="blue-italic">Lightweight Contenders: Navigating Semi-Supervised Text Mining through Peer Collaboration and Self Transcendence</span>  
 Mao Q., Jiang W., Liu J., <b>Lin C.</b>, Li Q., Wen X., Li J. and Lu J.   
-<span class="blue-bold">NAACL-Findings 2025</span> 
+<span class="blue-bold">NAACL-Findings</span> 
 
 <span class="blue-italic">LVPruning: An Effective yet Simple Language-Guided Vision Token Pruning Approach for Multi-modal Large Language Models</span>   
 Sun Y., Xin Y., Li H., Sun J., <b>Lin C.</b> and  Batista-Navarro R.  
-<span class="blue-bold">NAACL-Findings 2025</span>  
+<span class="blue-bold">NAACL-Findings</span>  
 
 <span class="blue-italic">COIG-CQIA: Quality is All You Need for Chinese Instruction Fine-tuning</span>  
 Bai Y., Du X., Liang Y., Jin L., Zhou J., Liu Z., Fang F., Chang M., Zheng T., Zhang X., Ma N., Wang Z., Yuan R., Wu H., Lin H., Huang S., Zhang J., <b>Lin C.</b>, Fu J., Yang M., Ni S., and Zhang G.  
-<span class="blue-bold">NAACL-Findings 2025</span> 
+<span class="blue-bold">NAACL-Findings</span> 
 
 <span class="blue-italic">Tougher Text, Smarter Models: Raising the Bar for Adversarial Defence Benchmarks</span>  
 Wang Y. and <b>Lin C.</b>  
-<span class="blue-bold">COLING 2025</span> 
+<span class="blue-bold">COLING</span> 
 
 <span class="blue-italic">From Facts to Insights: A Study on the Generation and Evaluation of Analytical Reports for Deciphering Earnings Calls</span>  
 Goldsack T., Wang Y., <b>Lin C.</b> and Chen C.  
-<span class="blue-bold">COLING 2025</span> 
+<span class="blue-bold">COLING</span> 
 
 <span class="blue-italic">Disentangling Preference Representation and Text Generation for Efficient Individual Preference Alignment</span>  
 Zhang J., Bai J., Li B., Wang Y., Li R., <b>Lin C.</b> and Rong W.  
-<span class="blue-bold">COLING 2025</span> 
+<span class="blue-bold">COLING</span> 
 
 <span class="blue-italic">MuPT: A Generative Symbolic Music Pretrained Transformer</span>  
 Qu X., Bai Y., Ma Y., Zhou Z., Lo K., Liu J., Yuan R., Min L., Liu X., Zhang T., Du X., Guo S., Liang Y., Li Y., Wu S., Zhou J., Zheng T., Ma Z., Han F., Xue W., Xia G., Benetos E., Yue X., <b>Lin C.</b>, Tan X., Huang W., Fu J., Zhang G.  
-<span class="blue-bold">ICLR 2025</span> 
+<span class="blue-bold">ICLR</span> 
 
 <span class="blue-italic">Who's Laughing Now? An Overview of Computational Humour Generation and Explanation</span>  
 Loakman T., Thorne W., <b>Lin C.</b>  
-<span class="blue-bold">INLG 2025</span>  
+<span class="blue-bold">INLG</span>  
 
 <span class="blue-italic">I-SHEEP: Self-Alignment of LLM from Scratch through an Iterative Self-Enhancement Paradigm</span>  
 Liang Y., Zhang G., Qu W., Zheng T., Guo J., Du X., Yang Z., Liu J., <b>Lin C.</b>, Ma L., Huang W., Zhang J.  
-<span class="blue-bold"> SSI-FM Workshop @ICLR 2025</span> 
+<span class="blue-bold"> SSI-FM Workshop @ICLR</span> 
 
 <span class="blue-italic">Kun: Answer Polishment for Chinese Self-Alignment with Instruction Back-Translation</span>  
 Zheng T., Guo S., Qu X., Guo J., Du X., Jia Q., <b>Lin C.</b>, Huang W., Fu J., Zhang G.  
-<span class="blue-bold"> SSI-FM Workshop @ICLR 2025</span> 
+<span class="blue-bold"> SSI-FM Workshop @ICLR</span> 
 
 <span class="blue-italic">Rectifying and Discriminating Hard Negatives for Biomedical Retrieval Question Answering</span>  
 Bai J., Li Z., Zhao B., Li C., <b>Lin C.</b>, W. Rong.   
-<span class="blue-bold">IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB), 2025</span>
+<span class="blue-bold">IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB)</span>
 
 <span class="blue-italic">Latent Variable Modelling for Controllable and Diverse Generation from Large Language Models</span>  
 Zhang J., Li B., Chen. Z., Liu C., Li C. <b>Lin C.</b>, W. Rong.   
-<span class="blue-bold">IEEE Transactions on Artificial Intelligence, 2025</span>
+<span class="blue-bold">IEEE Transactions on Artificial Intelligence</span>
 
 
 ### 2024
