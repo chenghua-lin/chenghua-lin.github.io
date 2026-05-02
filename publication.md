@@ -25,7 +25,7 @@ Li Y., Gu Q., Wen Z., Li Z., Yuan R., Xing T., Guo S., Zheng T., Qu X., Zhou W.,
 <span class="blue-bold">ICML</span>
 
 <span class="blue-italic">Dynamics Within Latent Chain-of-Thought: An Empirical Study of Causal Structure</span>  
-Li Z., Bai X., Chen K., Li Y., Yang J., <b>Lin C.</b> and Zhang M.
+Li Z., Bai X., Chen K., Li Y., Yang J., <b>Lin C.</b> and Zhang M.  
 <span class="blue-bold">ICML</span>
 
 <span class="blue-italic">Transforming Science with Large Language Models: A Survey on AI-Assisted Scientific Discovery, Experimentation, Content Generation, and Evaluation</span>  
