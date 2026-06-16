@@ -29,6 +29,7 @@ To do this, the project will work with people with ataxia to collect speech data
 
 We'll soon be looking for people with ataxia to help us collect speech data, in a supportive, ethical setting. **Details on how to take part will be posted here once confirmed.**
 
+---
 ## Get in touch
 
 For more information about taking part, or any questions about the project:
