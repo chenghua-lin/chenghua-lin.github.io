@@ -46,6 +46,7 @@ My work has been supported by various funding bodies, including [EPSRC](https://
 
 ## Keynotes & Invited Talks
 
+* <b>Invited</b> talk at [Ataxia Roadshow](https://www.ataxia.org.uk/support-services/ataxia-uk-conferences/liverpool-roadshow/), Liverpool, 2026 
 * <b>Keynote</b> at [IJCNLP-AACL](https://2025.aaclnet.org/), Mumbai, 2025  
 * <b>Invited</b> talk at [BAE Systems](https://www.baesystems.com/en), 2025  
 * <b>Keynote</b> at the 10th Language & Intelligence Summit, China, 2025  
