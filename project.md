@@ -13,7 +13,7 @@ page_logo: "/assets/img/Honda.jpg"
 
 **Principal Investigator:** Prof. Chenghua Lin, University of Manchester
 **Partners:** NVIDIA, University College London, University of Strathclyde, and University of Sheffield  
-**Funded by Ataxia UK** [Read the news](https://www.ataxia.org.uk/research-project/efficient-and-personalised-speech-recognition-for-ataxia/) 
+**Funded by Ataxia UK:** Read the [news](https://www.ataxia.org.uk/research-project/efficient-and-personalised-speech-recognition-for-ataxia/). 
 
 ---
 
