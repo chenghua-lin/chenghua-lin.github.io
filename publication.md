@@ -52,6 +52,10 @@ Zhao K., Xiao C., Yan S., Tang H., Cheung W.K., Moubayed N., Zhan L., <b>Lin C.<
 Wang Y., Xiao C., Liu Y. and <b>Lin C.</b>  
 <span class="blue-bold">ICASSP</span>
 
+<span class="blue-italic">A Multi-Agent Framework to Automate Feedback Generation for IELTS Speaking Test using Multimodal SpeechLMs</span>  
+K. Hui, Wang Y., and <b>Lin C.</b>  
+<span class="blue-bold">Interspeech</span>
+
 <span class="blue-italic">Prompt-Induced Linguistic Fingerprints for LLM-Generated Fake News Detection</span>  
 Wang C., Gao M., Wang Z., Yin J., Shu K. and <b>Lin C.</b>  
 <span class="blue-bold">The Web Conference (WWW)</span>
