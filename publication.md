@@ -48,10 +48,6 @@ James J., Xiao C., Li Y., Moosavi N. and <b>Lin C.</b>
 Zhao K., Xiao C., Yan S., Tang H., Cheung W.K., Moubayed N., Zhan L., <b>Lin C.</b>  
 <span class="blue-bold">ACL Findings</span>
 
-<span class="blue-italic">The Achilles' Heel of Angular Margins: A Chebyshev Polynomial Fix for Speaker Verification</span>  
-Wang Y., Xiao C., Liu Y. and <b>Lin C.</b>  
-<span class="blue-bold">ICASSP</span>
-
 <span class="blue-italic">Prompt-Induced Linguistic Fingerprints for LLM-Generated Fake News Detection</span>  
 Wang C., Gao M., Wang Z., Yin J., Shu K. and <b>Lin C.</b>  
 <span class="blue-bold">The Web Conference (WWW)</span>
@@ -60,12 +56,16 @@ Wang C., Gao M., Wang Z., Yin J., Shu K. and <b>Lin C.</b>
 Wang Z., Gao M., Yu J., Chen T. and <b>Lin C.</b>  
 <span class="blue-bold">The Web Conference (WWW)</span>
 
+<span class="blue-italic">The Achilles' Heel of Angular Margins: A Chebyshev Polynomial Fix for Speaker Verification</span>  
+Wang Y., Xiao C., Liu Y. and <b>Lin C.</b>  
+<span class="blue-bold">ICASSP</span>
+
 <span class="blue-italic">A Multi-Agent Framework to Automate Feedback Generation for IELTS Speaking Test using Multimodal SpeechLMs</span>  
 K. Hui, Wang Y., and <b>Lin C.</b>  
 <span class="blue-bold">Interspeech</span>
 
 <span class="blue-italic">Evaluating LLM-Based Grant Proposal Review via Structured Perturbations</span>  
-Thorne W., James J., Wang Y., <b>Lin C.</b> and Maynard D. 
+Thorne W., James J., Wang Y., <b>Lin C.</b> and Maynard D.  
 <span class="blue-bold">ACM Hypertext Conference</span>
 
 <span class="blue-italic">YuE: Scaling Open Foundation Models for Long-Form Music Generation</span>  
