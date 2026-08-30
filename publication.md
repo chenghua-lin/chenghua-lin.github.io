@@ -16,6 +16,14 @@ page_logo: "/assets/img/beihai.jpg"
 
 ### 2026
 
+<span class="blue-italic">Broken Symmetry in LLM Refusal: Answer Release Is More Local Than Refusal Restoration</span>  
+Liu Y., Wang Y., Wang S., Xiao X. and <b>Lin C.</b>  
+<span class="blue-bold">EMNLP</span> 
+
+<span class="blue-italic">InCoder-32B-Thinking: Industrial Code World Model for Thinking</span>  
+Yang J., Zhang W., Wu J., Cheng J., Zheng T., Xu F., Gu W., Chai L., Du Y., Li H.-S., Li Y., Xing Y., Hao C., Tao R., Gong R., Liu A., Li Z., Tang M., <b>Lin C.</b>, Chen S., Zhao X., Liu X., Zhou M., Dai B., Lv W.  
+<span class="blue-bold">EMNLP</span> 
+
 <span class="blue-italic">Large-Scale Terminal Agentic Trajectory Generation from Dockerized Environments</span>  
 Wu S., Li Y., Song Y., Zhang W., Wang Y., Batista-Navarro R., Yang X., Tang M., Dai B., Yang j. and <b>Lin C.*</b>   
 <span class="blue-bold"> ICML (<span style="color: red;">Spotlight</span>)</span>
@@ -80,14 +88,17 @@ Wu S., Zhu K., Liang Y., Bai Y., Li Y., Wu H., Liu R., Qu X., Cheng X., Zhang G.
 Wu S., Ren J., Du X., Guo S., Qu X., Liang Y., Li Y., Loakman T., et al. and <b>Lin C.</b>  
 <span class="blue-bold">EACL Findings</span> 
 
-<span class="blue-italic">Interpretable Multimodal Learning for Integrating Neuroimaging and Genetic Data in Alzheimer's Disease</span>  
-Zhao K., Dai S., Zhang Y., Liu G., Gu P., <b>Lin C.</b>, Thompson P. M., Leow A., Huang H., He L., Zhan L., Tang H.  
-<span class="blue-bold">Frontiers in Radiology</span> 
-
 <span class="blue-italic">Ara-HOPE: Human-Centric Post-Editing Evaluation for Dialectal Arabic to Modern Standard Arabic Translation</span>  
 Alabdullah A, Han L. and <b>Lin C.</b>  
 <span class="blue-bold">VarDial Workshop at EACL</span>  
 
+<span class="blue-italic">Interpretable Multimodal Learning for Integrating Neuroimaging and Genetic Data in Alzheimer's Disease</span>  
+Zhao K., Dai S., Zhang Y., Liu G., Gu P., <b>Lin C.</b>, Thompson P. M., Leow A., Huang H., He L., Zhan L., Tang H.  
+<span class="blue-bold">Frontiers in Radiology</span> 
+
+<span class="blue-italic">DRE: An Effective Dual-Refined Method for Integrating Small and Large Language Models in Open-Domain Dialogue Evaluation</span>  
+Zhao K., Yang B., Tang C., Dai S., Tang H., <b>Lin C.</b>, Zhan L.  
+<span class="blue-bold">Neural Networks</span> 
 
 <span class="blue-italic">Interactive Natural Language Processing: Language Model as Agent</span>  
 Wang, Z., Zhang, G., <b>Lin C.</b> and Fu, J. (Eds.)  
