@@ -82,7 +82,7 @@ Loakman T. and <b>Lin C.</b>
 <span class="blue-bold">INLG</span>
 
 <span class="blue-italic">From Sounds to Symbols: A Survey of Phonetically and Phonologically Informed Language Generation</span>  
-Loakman T., James J., and <b>Lin C.</b> 
+Loakman T., James J., and <b>Lin C.</b>  
 <span class="blue-bold">INLG</span> 
 
 <span class="blue-italic">Transforming Science with Large Language Models: A Survey on AI-Assisted Scientific Discovery, Experimentation, Content Generation, and Evaluation</span>  
