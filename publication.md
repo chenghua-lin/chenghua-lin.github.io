@@ -29,6 +29,10 @@ Li Z., Bai X., Chen K., Li Y., Yang J., <b>Lin C.</b> and Zhang M.
 Li Y., Gu Q., Wen Z., Li Z., Yuan R., Xing T., Guo S., Zheng T., Qu X., Zhou W., Zhang Z., Shen W., Xue W., Liu Q, <b>Lin C.*</b>, Yang J., Zhang G., Huang W.  
 <span class="blue-bold">ICML</span>
 
+<span class="blue-italic">YuE: Scaling Open Foundation Models for Long-Form Music Generation</span>  
+Yuan R., Lin H., Guo S., Zhang G., Pan J., Zang Y., Liu H., Liang Y., Ma W., Du X., Du X., Ye Z., Zheng T., Jiang Z., Ma Y., Liu M., Tian Z., Zhou Z., Xue L., Qu X., Li Y., Wu S., Shen T., Ma Z., Zhan J., Wang Y., Chi X., Zhang X., Yang Z., Wang X., Liu S., Mei L., Li P., Wang J., Yu J., Li X., Wang Z., Zhou X., Yu L., Benetos E., Chen Y., <b>Lin C.</b>, et. al.  
+<span class="blue-bold">ICLR</span>
+
 <span class="blue-italic">Broken Symmetry in LLM Refusal: Answer Release Is More Local Than Refusal Restoration</span>  
 Liu Y., Wang Y., Wang S., Xiao X. and <b>Lin C.</b>  
 <span class="blue-bold">EMNLP</span> 
@@ -73,6 +77,18 @@ Hong H., Li Y., Chen J., Luu G.H., Ananiadou S., Kim J. and <b>Lin C.</b>
 Qu X., Wang X., James J., Loakman T., Wang Y., Wang S. and <b>Lin C.</b>  
 <span class="blue-bold">AACL-IJCNLP Findings</span>
 
+<span class="blue-italic">MMRA: A Benchmark for Evaluating Multi-Granularity and Multi-Image Relational Association Capabilities in Large Visual Language Models</span>  
+Wu S., Zhu K., Liang Y., Bai Y., Li Y., Wu H., Liu R., Qu X., Cheng X., Zhang G., Huang W., and <b>Lin C.</b>  
+<span class="blue-bold">EACL Findings</span> 
+
+<span class="blue-italic">COIG-P: A High-Quality and Large-Scale Chinese Preference Dataset for Alignment with Human Values</span>  
+Wu S., Ren J., Du X., Guo S., Qu X., Liang Y., Li Y., Loakman T., et al. and <b>Lin C.</b>  
+<span class="blue-bold">EACL Findings</span> 
+
+<span class="blue-italic">Ara-HOPE: Human-Centric Post-Editing Evaluation for Dialectal Arabic to Modern Standard Arabic Translation</span>  
+Alabdullah A, Han L. and <b>Lin C.</b>  
+<span class="blue-bold">VarDial Workshop at EACL</span>  
+
 <span class="blue-italic">Rate-Resolved Text Evaluation with Masked Diffusion Language Models</span>  
 Liu Y., Zhao K., <b>Lin C.</b> and Moosavi N.  
 <span class="blue-bold">INLG</span>
@@ -113,21 +129,6 @@ K. Hui, Wang Y., and <b>Lin C.</b>
 Thorne W., James J., Wang Y., <b>Lin C.</b> and Maynard D.  
 <span class="blue-bold">ACM Hypertext Conference</span>
 
-<span class="blue-italic">YuE: Scaling Open Foundation Models for Long-Form Music Generation</span>  
-Yuan R., Lin H., Guo S., Zhang G., Pan J., Zang Y., Liu H., Liang Y., Ma W., Du X., Du X., Ye Z., Zheng T., Jiang Z., Ma Y., Liu M., Tian Z., Zhou Z., Xue L., Qu X., Li Y., Wu S., Shen T., Ma Z., Zhan J., Wang Y., Chi X., Zhang X., Yang Z., Wang X., Liu S., Mei L., Li P., Wang J., Yu J., Li X., Wang Z., Zhou X., Yu L., Benetos E., Chen Y., <b>Lin C.</b>, et. al.  
-<span class="blue-bold">ICLR</span>
-
-<span class="blue-italic">MMRA: A Benchmark for Evaluating Multi-Granularity and Multi-Image Relational Association Capabilities in Large Visual Language Models</span>  
-Wu S., Zhu K., Liang Y., Bai Y., Li Y., Wu H., Liu R., Qu X., Cheng X., Zhang G., Huang W., and <b>Lin C.</b>  
-<span class="blue-bold">EACL Findings</span> 
-
-<span class="blue-italic">COIG-P: A High-Quality and Large-Scale Chinese Preference Dataset for Alignment with Human Values</span>  
-Wu S., Ren J., Du X., Guo S., Qu X., Liang Y., Li Y., Loakman T., et al. and <b>Lin C.</b>  
-<span class="blue-bold">EACL Findings</span> 
-
-<span class="blue-italic">Ara-HOPE: Human-Centric Post-Editing Evaluation for Dialectal Arabic to Modern Standard Arabic Translation</span>  
-Alabdullah A, Han L. and <b>Lin C.</b>  
-<span class="blue-bold">VarDial Workshop at EACL</span>  
 
 <span class="blue-italic">Interpretable Multimodal Learning for Integrating Neuroimaging and Genetic Data in Alzheimer's Disease</span>  
 Zhao K., Dai S., Zhang Y., Liu G., Gu P., <b>Lin C.</b>, Thompson P. M., Leow A., Huang H., He L., Zhan L., Tang H.  
