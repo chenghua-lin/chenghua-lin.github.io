@@ -49,6 +49,10 @@ Liu Y., Tomori F., Moosavi N.S., Eger S. and <b>Lin C.</b>
 Qu X., Wang X., James J., Loakman T., Wang Y., Wang S. and <b>Lin C.</b>  
 <span class="blue-bold">AACL-IJCNLP Findings</span>
 
+<span class="blue-italic">Rate-Resolved Text Evaluation with Masked Diffusion Language Models</span>  
+Liu Y., Zhao K., <b>Lin C.</b> and Moosavi N.  
+<span class="blue-bold">INLG</span>
+
 <span class="blue-italic">Large-Scale Terminal Agentic Trajectory Generation from Dockerized Environments</span>  
 Wu S., Li Y., Song Y., Zhang W., Wang Y., Batista-Navarro R., Yang X., Tang M., Dai B., Yang j. and <b>Lin C.*</b>   
 <span class="blue-bold"> ICML (<span style="color: red;">Spotlight</span>)</span>
