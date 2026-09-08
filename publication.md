@@ -25,6 +25,18 @@ Liu Y., Wang Y., Wang S., Xiao X. and <b>Lin C.</b>
 Yang J., Zhang W., Wu J., Cheng J., Zheng T., Xu F., Gu W., Chai L., Du Y., Li H.-S., Li Y., Xing Y., Hao C., Tao R., Gong R., Liu A., Li Z., Tang M., <b>Lin C.</b>, Chen S., Zhao X., Liu X., Zhou M., Dai B., Lv W.  
 <span class="blue-bold">EMNLP</span> 
 
+<span class="blue-italic">HiRAS: A Hierarchical Multi-Agent Framework for Paper-to-Code Generation and Execution</span>  
+Hong H., Li Y., Chen J., Ananiadou S., Li X. Kim J. and <b>Lin C.</b>  
+<span class="blue-bold">ACL Findings</span> 
+
+<span class="blue-italic">RIGOURATE: Quantifying Scientific Exaggeration with Evidence-Aligned Claim Evaluation</span>  
+James J., Xiao C., Li Y., Moosavi N. and <b>Lin C.</b>  
+<span class="blue-bold">ACL Findings</span>
+
+<span class="blue-italic">X-ray Made Simple: Lay Radiology Report Generation and Robust Evaluation</span>  
+Zhao K., Xiao C., Yan S., Tang H., Cheung W.K., Moubayed N., Zhan L., <b>Lin C.</b>  
+<span class="blue-bold">ACL Findings</span>
+
 <span class="blue-italic">JudgeMoE: Distributional Aggregation for LLM-as-a-Judge</span>  
 Liu Y., James J., Wang Y., Zhao K., Xiao C. and <b>Lin C.</b>  
 <span class="blue-bold">AACL-IJCNLP</span>
@@ -72,18 +84,6 @@ Eger S., Cao Y., D'Souza J., Geiger A., Greisinger C., Gross S., Hou Y., Krenn B
 <span class="blue-italic">Re:Form --- Reducing Human Priors in Scalable Formal Software Verification with RL in LLMs: A Preliminary Study on Dafny</span>  
 Yan C., Che F., Huang X., Xu X., Li X., Li Y., Qu X., Shi J., <b>Lin C.</b>, Yang Y., Yuan B., Zhao H., Qiao Y., Zhou B, Fu J.    
 <span class="blue-bold">Transactions on Machine Learning Research (TMLR)</span> 
-
-<span class="blue-italic">HiRAS: A Hierarchical Multi-Agent Framework for Paper-to-Code Generation and Execution</span>  
-Hong H., Li Y., Chen J., Ananiadou S., Li X. Kim J. and <b>Lin C.</b>  
-<span class="blue-bold">ACL Findings</span> 
-
-<span class="blue-italic">RIGOURATE: Quantifying Scientific Exaggeration with Evidence-Aligned Claim Evaluation</span>  
-James J., Xiao C., Li Y., Moosavi N. and <b>Lin C.</b>  
-<span class="blue-bold">ACL Findings</span>
-
-<span class="blue-italic">X-ray Made Simple: Lay Radiology Report Generation and Robust Evaluation</span>  
-Zhao K., Xiao C., Yan S., Tang H., Cheung W.K., Moubayed N., Zhan L., <b>Lin C.</b>  
-<span class="blue-bold">ACL Findings</span>
 
 <span class="blue-italic">Prompt-Induced Linguistic Fingerprints for LLM-Generated Fake News Detection</span>  
 Wang C., Gao M., Wang Z., Yin J., Shu K. and <b>Lin C.</b>  
