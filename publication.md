@@ -45,10 +45,6 @@ Liu Y., James J., Wang Y., Zhao K., Xiao C. and <b>Lin C.</b>
 Sun Y., Zhan M., Ma Y., See J.T., Wang Y., Wang Z., Li H., Cui Y., Cai W., Sun J., <b>Lin C.</b>, Batista-Navarro R. and Sun J.  
 <span class="blue-bold">AACL-IJCNLP</span>
 
-<span class="blue-italic">Can LLMs Write Reliable Rubrics? A Meta-Evaluation for Experiment Reproduction</span>  
-Hong H., Li Y., Chen J., Luu G.H., Ananiadou S., Kim J. and <b>Lin C.</b>  
-<span class="blue-bold">AACL-IJCNLP Findings</span>  
-
 <span class="blue-italic">When Tool-Backed Skill Retrieval Fails: Source-Style Collapse in Executable Capability Retrieval</span>  
 Liu Y., James J., Wang Y., Xiao C. and <b>Lin C.</b>  
 <span class="blue-bold">AACL-IJCNLP Findings</span>
@@ -56,6 +52,10 @@ Liu Y., James J., Wang Y., Xiao C. and <b>Lin C.</b>
 <span class="blue-italic">Feedback as an Interface: Controlling Form and Detail in LLM Translation Refinement</span>  
 Liu Y., Tomori F., Moosavi N.S., Eger S. and <b>Lin C.</b>  
 <span class="blue-bold">AACL-IJCNLP Findings</span>
+
+<span class="blue-italic">Can LLMs Write Reliable Rubrics? A Meta-Evaluation for Experiment Reproduction</span>  
+Hong H., Li Y., Chen J., Luu G.H., Ananiadou S., Kim J. and <b>Lin C.</b>  
+<span class="blue-bold">AACL-IJCNLP Findings</span>  
 
 <span class="blue-italic">Same Benchmark Score, Different Failures: Atomic Capacities for Diagnosing Language Model Failure Modes</span>  
 Qu X., Wang X., James J., Loakman T., Wang Y., Wang S. and <b>Lin C.</b>  
