@@ -16,6 +16,7 @@ page_logo: "/assets/img/beihai.jpg"
 
 ### 2026
 
+
 <span class="blue-italic">Broken Symmetry in LLM Refusal: Answer Release Is More Local Than Refusal Restoration</span>  
 Liu Y., Wang Y., Wang S., Xiao X. and <b>Lin C.</b>  
 <span class="blue-bold">EMNLP</span> 
@@ -23,6 +24,30 @@ Liu Y., Wang Y., Wang S., Xiao X. and <b>Lin C.</b>
 <span class="blue-italic">InCoder-32B-Thinking: Industrial Code World Model for Thinking</span>  
 Yang J., Zhang W., Wu J., Cheng J., Zheng T., Xu F., Gu W., Chai L., Du Y., Li H.-S., Li Y., Xing Y., Hao C., Tao R., Gong R., Liu A., Li Z., Tang M., <b>Lin C.</b>, Chen S., Zhao X., Liu X., Zhou M., Dai B., Lv W.  
 <span class="blue-bold">EMNLP</span> 
+
+<span class="blue-italic">JudgeMoE: Distributional Aggregation for LLM-as-a-Judge</span>  
+Liu Y., James J., Wang Y., Zhao K., Xiao C. and <b>Lin C.</b>  
+<span class="blue-bold">AACL-IJCNLP</span>
+
+<span class="blue-italic">Are Reasoning Vision-Language Models Robust to Semantic Visual Distractions?</span>  
+Sun Y., Zhan M., Ma Y., See J.T., Wang Y., Wang Z., Li H., Cui Y., Cai W., Sun J., <b>Lin C.</b>, Batista-Navarro R. and Sun J.  
+<span class="blue-bold">AACL-IJCNLP</span>
+
+<span class="blue-italic">Can LLMs Write Reliable Rubrics? A Meta-Evaluation for Experiment Reproduction</span>  
+Hong H., Li Y., Chen J., Luu G.H., Ananiadou S., Kim J. and <b>Lin C.</b>  
+<span class="blue-bold">AACL-IJCNLP Findings</span>  
+
+<span class="blue-italic">When Tool-Backed Skill Retrieval Fails: Source-Style Collapse in Executable Capability Retrieval</span>  
+Liu Y., James J., Wang Y., Xiao C. and <b>Lin C.</b>  
+<span class="blue-bold">AACL-IJCNLP Findings</span>
+
+<span class="blue-italic">Feedback as an Interface: Controlling Form and Detail in LLM Translation Refinement</span>  
+Liu Y., Tomori F., Moosavi N.S., Eger S. and <b>Lin C.</b>  
+<span class="blue-bold">AACL-IJCNLP Findings</span>
+
+<span class="blue-italic">Same Benchmark Score, Different Failures: Atomic Capacities for Diagnosing Language Model Failure Modes</span>  
+Qu X., Wang X., James J., Loakman T., Wang Y., Wang S. and <b>Lin C.</b>  
+<span class="blue-bold">AACL-IJCNLP Findings</span>
 
 <span class="blue-italic">Large-Scale Terminal Agentic Trajectory Generation from Dockerized Environments</span>  
 Wu S., Li Y., Song Y., Zhang W., Wang Y., Batista-Navarro R., Yang X., Tang M., Dai B., Yang j. and <b>Lin C.*</b>   
