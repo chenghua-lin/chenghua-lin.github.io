@@ -89,10 +89,6 @@ Wu S., Ren J., Du X., Guo S., Qu X., Liang Y., Li Y., Loakman T., et al. and <b>
 Alabdullah A, Han L. and <b>Lin C.</b>  
 <span class="blue-bold">VarDial Workshop at EACL</span>  
 
-<span class="blue-italic">Rate-Resolved Text Evaluation with Masked Diffusion Language Models</span>  
-Liu Y., Zhao K., <b>Lin C.</b> and Moosavi N.  
-<span class="blue-bold">INLG</span>
-
 <span class="blue-italic">Do as I Say, Not as You Do: Assessing Public Versus Practitioner Perspectives on the Development of Artificial Intelligence and Language Technologies</span>  
 Loakman T. and <b>Lin C.</b>  
 <span class="blue-bold">INLG</span>
@@ -100,6 +96,10 @@ Loakman T. and <b>Lin C.</b>
 <span class="blue-italic">From Sounds to Symbols: A Survey of Phonetically and Phonologically Informed Language Generation</span>  
 Loakman T., James J., and <b>Lin C.</b>  
 <span class="blue-bold">INLG</span> 
+
+<span class="blue-italic">Rate-Resolved Text Evaluation with Masked Diffusion Language Models</span>  
+Liu Y., Zhao K., <b>Lin C.</b> and Moosavi N.  
+<span class="blue-bold">INLG</span>
 
 <span class="blue-italic">Transforming Science with Large Language Models: A Survey on AI-Assisted Scientific Discovery, Experimentation, Content Generation, and Evaluation</span>  
 Eger S., Cao Y., D'Souza J., Geiger A., Greisinger C., Gross S., Hou Y., Krenn B., Lauscher A., Li Y., <b>Lin C.</b>,  Moosavi N., Zhao W., and Miller T.   
