@@ -34,7 +34,7 @@ Yuan R., Lin H., Guo S., Zhang G., Pan J., Zang Y., Liu H., Liang Y., Ma W., Du 
 <span class="blue-bold">ICLR</span>
 
 <span class="blue-italic">Broken Symmetry in LLM Refusal: Answer Release Is More Local Than Refusal Restoration</span>  
-Liu Y., Wang Y., Wang S., Xiao X. and <b>Lin C.</b>  
+Liu Y., Wang Y., Wang S., Xiao C. and <b>Lin C.</b>  
 <span class="blue-bold">EMNLP</span> 
 
 <span class="blue-italic">InCoder-32B-Thinking: Industrial Code World Model for Thinking</span>  
