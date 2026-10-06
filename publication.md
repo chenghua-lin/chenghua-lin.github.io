@@ -16,6 +16,13 @@ page_logo: "/assets/img/beihai.jpg"
 
 ### 2026
 
+<span class="blue-italic">A Self-Evolving Framework for Efficient Terminal Agents via Observational Context Compression</span>  
+Ren J., Wu S., Li Y., Zhu K., Xu S., Feng B., Yuan R., Zhang W., Batista-Navarro R., Gao M., Bai Y., Yang J. and <b>Lin C.</b>  
+<span class="blue-bold">NeurIPS</span>
+
+<span class="blue-italic">A Dual-Domain Vision Transformer with Spectral Positional Bias</span>  
+Alshamsi A., Alghfeli A., <b>Lin C.</b> and Yin H.  
+<span class="blue-bold">NeurIPS</span>
 
 <span class="blue-italic">Large-Scale Terminal Agentic Trajectory Generation from Dockerized Environments</span>  
 Wu S., Li Y., Song Y., Zhang W., Wang Y., Batista-Navarro R., Yang X., Tang M., Dai B., Yang j. and <b>Lin C.*</b>   
