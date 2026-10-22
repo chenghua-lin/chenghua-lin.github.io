@@ -98,7 +98,7 @@ Alabdullah A, Han L. and <b>Lin C.</b>
 
 <span class="blue-italic">Do as I Say, Not as You Do: Assessing Public Versus Practitioner Perspectives on the Development of Artificial Intelligence and Language Technologies</span>  
 Loakman T. and <b>Lin C.</b>  
-<span class="blue-bold">INLG</span>
+<span class="blue-bold">INLG (<span style="color: red;">Best Paper Award</span>)</span>
 
 <span class="blue-italic">From Sounds to Symbols: A Survey of Phonetically and Phonologically Informed Language Generation</span>  
 Loakman T., James J., and <b>Lin C.</b>  
