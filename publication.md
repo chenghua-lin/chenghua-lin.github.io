@@ -36,6 +36,18 @@ Li Z., Bai X., Chen K., Li Y., Yang J., <b>Lin C.</b> and Zhang M.
 Li Y., Gu Q., Wen Z., Li Z., Yuan R., Xing T., Guo S., Zheng T., Qu X., Zhou W., Zhang Z., Shen W., Xue W., Liu Q, <b>Lin C.*</b>, Yang J., Zhang G., Huang W.  
 <span class="blue-bold">ICML</span>
 
+<span class="blue-italic">Do as I Say, Not as You Do: Assessing Public Versus Practitioner Perspectives on the Development of Artificial Intelligence and Language Technologies</span>  
+Loakman T. and <b>Lin C.</b>  
+<span class="blue-bold">INLG (<span style="color: red;">Best Paper Award</span>)</span>
+
+<span class="blue-italic">From Sounds to Symbols: A Survey of Phonetically and Phonologically Informed Language Generation</span>  
+Loakman T., James J., and <b>Lin C.</b>  
+<span class="blue-bold">INLG</span> 
+
+<span class="blue-italic">Rate-Resolved Text Evaluation with Masked Diffusion Language Models</span>  
+Liu Y., Zhao K., <b>Lin C.</b> and Moosavi N.  
+<span class="blue-bold">INLG</span>
+
 <span class="blue-italic">YuE: Scaling Open Foundation Models for Long-Form Music Generation</span>  
 Yuan R., Lin H., Guo S., Zhang G., Pan J., Zang Y., Liu H., Liang Y., Ma W., Du X., Du X., Ye Z., Zheng T., Jiang Z., Ma Y., Liu M., Tian Z., Zhou Z., Xue L., Qu X., Li Y., Wu S., Shen T., Ma Z., Zhan J., Wang Y., Chi X., Zhang X., Yang Z., Wang X., Liu S., Mei L., Li P., Wang J., Yu J., Li X., Wang Z., Zhou X., Yu L., Benetos E., Chen Y., <b>Lin C.</b>, et. al.  
 <span class="blue-bold">ICLR</span>
@@ -96,17 +108,6 @@ Wu S., Ren J., Du X., Guo S., Qu X., Liang Y., Li Y., Loakman T., et al. and <b>
 Alabdullah A, Han L. and <b>Lin C.</b>  
 <span class="blue-bold">VarDial Workshop at EACL</span>  
 
-<span class="blue-italic">Do as I Say, Not as You Do: Assessing Public Versus Practitioner Perspectives on the Development of Artificial Intelligence and Language Technologies</span>  
-Loakman T. and <b>Lin C.</b>  
-<span class="blue-bold">INLG (<span style="color: red;">Best Paper Award</span>)</span>
-
-<span class="blue-italic">From Sounds to Symbols: A Survey of Phonetically and Phonologically Informed Language Generation</span>  
-Loakman T., James J., and <b>Lin C.</b>  
-<span class="blue-bold">INLG</span> 
-
-<span class="blue-italic">Rate-Resolved Text Evaluation with Masked Diffusion Language Models</span>  
-Liu Y., Zhao K., <b>Lin C.</b> and Moosavi N.  
-<span class="blue-bold">INLG</span>
 
 <span class="blue-italic">Transforming Science with Large Language Models: A Survey on AI-Assisted Scientific Discovery, Experimentation, Content Generation, and Evaluation</span>  
 Eger S., Cao Y., D'Souza J., Geiger A., Greisinger C., Gross S., Hou Y., Krenn B., Lauscher A., Li Y., <b>Lin C.</b>,  Moosavi N., Zhao W., and Miller T.   
