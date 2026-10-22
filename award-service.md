@@ -11,6 +11,7 @@ page_logo: "/assets/img/home.jpg"
 
 ## Selected Awards
 
+* <b>Best Paper Award </b> in the [19th International Conference on Natural Language Generation (INLG)](https://2026.inlgmeeting.org/), Utrecht, 2026.
 * [CIKM 2020 Test of Time Award](http://cikmconference.org/cikmToTA.html) for the work on “Joint sentiment/topic model for sentiment analysis“ 
 * [SICSA Supervisor of the Year 2019 Award Honourable Mention](https://www.sicsa.ac.uk/news/congratulations-to-sicsa-supervisor-of-the-year-2019/) (I was one of the five recipients for the whole of Scotland)
 * <b>Best Paper Award Runner-Up</b> in the 12th International Conference on Natural Language Generation (INLG), Tokyo, 2019.
